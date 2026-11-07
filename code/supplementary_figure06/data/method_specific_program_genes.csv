@@ -1,0 +1,52 @@
+program,collection,comp,subtype,gene,recast_rank,n_datasets,lineages
+PAX5,CollecTRI,B / ASC,MZB,SPIB,21,1,fs_asc_zhao
+PAX5,CollecTRI,B / ASC,MZB,CD19,30,1,fs_asc_zhao
+TCF/LEF–β-catenin targets,Reactome,CD4 T,Tcm/Naive helper T cells,LEF1,2,2,tf_cd4_steph;tf_cd4_yosh
+TCF/LEF–β-catenin targets,Reactome,CD4 T,Tcm/Naive helper T cells,TCF7,5,2,tf_cd4_steph;tf_cd4_yosh
+leukocyte cytotoxicity,GO-BP,CD4 T,Tem/Temra helper T cells,GZMM,12,2,tf_cd4_ren;tf_cd4_yosh
+leukocyte cytotoxicity,GO-BP,CD4 T,Tem/Temra helper T cells,KLRD1,16,2,tf_cd4_ren;tf_cd4_yosh
+leukocyte cytotoxicity,GO-BP,CD4 T,Tem/Temra helper T cells,HCST,18,2,tf_cd4_ren;tf_cd4_yosh
+leukocyte cytotoxicity,GO-BP,CD4 T,Tem/Temra helper T cells,FCGR3A,19,2,tf_cd4_ren;tf_cd4_yosh
+TBX21,CollecTRI,CD8 T,Tem/Temra cytotoxic T cells,CCL4,12,2,tf_cd8_dom;tf_cd8_yosh
+TBX21,CollecTRI,CD8 T,Tem/Temra cytotoxic T cells,KLRG1,13,1,tf_cd8_dom
+TBX21,CollecTRI,CD8 T,Tem/Temra cytotoxic T cells,IFNG,17,1,tf_cd8_yosh
+TBX21,CollecTRI,CD8 T,Tem/Temra cytotoxic T cells,CD8A,30,1,tf_cd8_yosh
+leukocyte cytotoxicity,GO-BP,CD8 T,Tem/Trm cytotoxic T cells,TIGIT,8,1,tf_cd8_dom
+leukocyte cytotoxicity,GO-BP,CD8 T,Tem/Trm cytotoxic T cells,HLA-DRB1,15,1,tf_cd8_dom
+leukocyte cytotoxicity,GO-BP,CD8 T,Tem/Trm cytotoxic T cells,PIK3R1,22,1,tf_cd8_dom
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,NCR3,8,2,tf_cd8_ren;tf_cd8_steph
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,NKG7,8,2,tf_cd8_ren;tf_cd8_steph
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,TYROBP,10,1,tf_cd8_steph
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,PRF1,12,2,tf_cd8_ren;tf_cd8_steph
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,FCGR3A,22,1,tf_cd8_ren
+leukocyte cytotoxicity,GO-BP,CD8 T,gdT,KLRK1,30,1,tf_cd8_steph
+cilium movement,GO-BP,Lung,ciliated,DNAH5,10,1,fs_lung_hlca
+cilium movement,GO-BP,Lung,ciliated,TEKT1,18,1,fs_lung_hlca
+cilium movement,GO-BP,Lung,ciliated,LRRC46,20,1,fs_lung_hlca
+cilium movement,GO-BP,Lung,ciliated,DNAH7,21,1,fs_lung_hlca
+cilium movement,GO-BP,Lung,ciliated,ARMC3,23,1,fs_lung_hlca
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,CD14,4,1,tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,CSF3R,7,2,tf_mono_dom;tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,RNASE2,7,2,tf_mono_dom;tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,CXCL8,10,2,tf_mono_dom;tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,MNDA,15,2,tf_mono_dom;tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,NCF1,16,2,tf_mono_dom;tf_mono_yosh
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,ITGAM,19,1,tf_mono_dom
+SPI1 (PU.1),CollecTRI,Mono,Classical monocytes,ANXA1,24,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,S100A12,1,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,CXCL8,10,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,CSF3R,11,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,CD99,20,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,ANXA1,24,1,tf_mono_dom
+myeloid leukocyte migration,GO-BP,Mono,Classical monocytes,THBS1,25,1,tf_mono_dom
+leukocyte cytotoxicity,GO-BP,NK,NK,FCGR3A,2,1,fs_nk_pbmcbmn
+leukocyte cytotoxicity,GO-BP,NK,NK,CX3CR1,6,1,fs_nk_pbmcbmn
+leukocyte cytotoxicity,GO-BP,NK,NK,GZMM,17,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,HMGB2,9,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,SMC4,13,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,TUBB,15,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,EZH2,20,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,ATAD2,21,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,LMNB1,26,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,CKS1B,29,1,fs_nk_pbmcbmn
+E2F targets,Hallmark,NK,NK Proliferating,DUT,30,1,fs_nk_pbmcbmn

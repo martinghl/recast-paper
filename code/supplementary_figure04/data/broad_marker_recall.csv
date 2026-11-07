@@ -1,0 +1,29 @@
+atlas,atlas_label,method,mean_recall,n_clusters
+pbmc3k,pbmc3k,RECAST,0.23888888888888893,9
+pbmc3k,pbmc3k,COSG,0.2944444444444445,9
+pbmc3k,pbmc3k,limma,0.22777777777777775,9
+pbmc3k,pbmc3k,Wilcoxon,0.11666666666666667,9
+ren,Ren,RECAST,0.3013071895424837,9
+ren,Ren,COSG,0.3401960784313725,9
+ren,Ren,limma,0.3300653594771241,9
+ren,Ren,Wilcoxon,0.1392156862745098,9
+stephenson,Stephenson,RECAST,0.2829220779220779,10
+stephenson,Stephenson,COSG,0.37577922077922077,10
+stephenson,Stephenson,limma,0.3414935064935065,10
+stephenson,Stephenson,Wilcoxon,0.14863636363636362,10
+dominguez_conde,Dominguez-Conde,RECAST,0.17142857142857143,7
+dominguez_conde,Dominguez-Conde,COSG,0.2285714285714286,7
+dominguez_conde,Dominguez-Conde,limma,0.20714285714285713,7
+dominguez_conde,Dominguez-Conde,Wilcoxon,0.1357142857142857,7
+yoshida,Yoshida,RECAST,0.26910173160173156,12
+yoshida,Yoshida,COSG,0.36807359307359305,12
+yoshida,Yoshida,limma,0.3262445887445887,12
+yoshida,Yoshida,Wilcoxon,0.1581168831168831,12
+ss3_pbmc,Smart-seq3 PBMC,RECAST,0.25416666666666665,8
+ss3_pbmc,Smart-seq3 PBMC,COSG,0.24375,8
+ss3_pbmc,Smart-seq3 PBMC,limma,0.275,8
+ss3_pbmc,Smart-seq3 PBMC,Wilcoxon,0.16666666666666669,8
+lawlor,Lawlor,RECAST,0.3902597402597402,7
+lawlor,Lawlor,COSG,0.37575757575757585,7
+lawlor,Lawlor,limma,0.4363636363636364,7
+lawlor,Lawlor,Wilcoxon,0.451948051948052,7

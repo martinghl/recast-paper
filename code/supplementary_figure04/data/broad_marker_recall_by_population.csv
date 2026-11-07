@@ -1,0 +1,3160 @@
+dataset,method,cluster,n_expert,recall
+pbmc3k,cepo,B,20,0.15
+pbmc3k,cepo,CD14+ Mono,20,0.35
+pbmc3k,cepo,CD8 T,20,0.15
+pbmc3k,cepo,DC,20,0.35
+pbmc3k,cepo,FCGR3A+ Mono,20,0.25
+pbmc3k,cepo,Memory CD4 T,20,0.1
+pbmc3k,cepo,NK,20,0.3
+pbmc3k,cepo,Naive CD4 T,20,0.25
+pbmc3k,cepo,Platelet,5,0.4
+pbmc3k,cosg,B,20,0.35
+pbmc3k,cosg,CD14+ Mono,20,0.1
+pbmc3k,cosg,CD8 T,20,0.2
+pbmc3k,cosg,DC,20,0.3
+pbmc3k,cosg,FCGR3A+ Mono,20,0.25
+pbmc3k,cosg,Memory CD4 T,20,0.15
+pbmc3k,cosg,NK,20,0.35
+pbmc3k,cosg,Naive CD4 T,20,0.15
+pbmc3k,cosg,Platelet,5,0.8
+pbmc3k,edger_glm,B,20,0.3
+pbmc3k,edger_glm,CD14+ Mono,20,0.05
+pbmc3k,edger_glm,CD8 T,20,0.1
+pbmc3k,edger_glm,DC,20,0.15
+pbmc3k,edger_glm,FCGR3A+ Mono,20,0.15
+pbmc3k,edger_glm,Memory CD4 T,20,0.0
+pbmc3k,edger_glm,NK,20,0.25
+pbmc3k,edger_glm,Naive CD4 T,20,0.0
+pbmc3k,edger_glm,Platelet,5,0.6
+pbmc3k,edger_ql,B,20,0.3
+pbmc3k,edger_ql,CD14+ Mono,20,0.05
+pbmc3k,edger_ql,CD8 T,20,0.1
+pbmc3k,edger_ql,DC,20,0.15
+pbmc3k,edger_ql,FCGR3A+ Mono,20,0.0
+pbmc3k,edger_ql,Memory CD4 T,20,0.0
+pbmc3k,edger_ql,NK,20,0.25
+pbmc3k,edger_ql,Naive CD4 T,20,0.0
+pbmc3k,edger_ql,Platelet,5,0.4
+pbmc3k,glmgampoi,B,20,0.3
+pbmc3k,glmgampoi,CD14+ Mono,20,0.05
+pbmc3k,glmgampoi,CD8 T,20,0.15
+pbmc3k,glmgampoi,DC,20,0.15
+pbmc3k,glmgampoi,FCGR3A+ Mono,20,0.1
+pbmc3k,glmgampoi,Memory CD4 T,20,0.0
+pbmc3k,glmgampoi,NK,20,0.25
+pbmc3k,glmgampoi,Naive CD4 T,20,0.0
+pbmc3k,glmgampoi,Platelet,5,0.4
+pbmc3k,limma_trend,B,20,0.3
+pbmc3k,limma_trend,CD14+ Mono,20,0.05
+pbmc3k,limma_trend,CD8 T,20,0.15
+pbmc3k,limma_trend,DC,20,0.25
+pbmc3k,limma_trend,FCGR3A+ Mono,20,0.1
+pbmc3k,limma_trend,Memory CD4 T,20,0.1
+pbmc3k,limma_trend,NK,20,0.3
+pbmc3k,limma_trend,Naive CD4 T,20,0.0
+pbmc3k,limma_trend,Platelet,5,0.8
+pbmc3k,limma_voom,B,20,0.2
+pbmc3k,limma_voom,CD14+ Mono,20,0.2
+pbmc3k,limma_voom,CD8 T,20,0.05
+pbmc3k,limma_voom,DC,20,0.05
+pbmc3k,limma_voom,FCGR3A+ Mono,20,0.0
+pbmc3k,limma_voom,Memory CD4 T,20,0.0
+pbmc3k,limma_voom,NK,20,0.2
+pbmc3k,limma_voom,Naive CD4 T,20,0.0
+pbmc3k,limma_voom,Platelet,5,0.0
+pbmc3k,lm_two_sample,B,20,0.3
+pbmc3k,lm_two_sample,CD14+ Mono,20,0.05
+pbmc3k,lm_two_sample,CD8 T,20,0.2
+pbmc3k,lm_two_sample,DC,20,0.3
+pbmc3k,lm_two_sample,FCGR3A+ Mono,20,0.2
+pbmc3k,lm_two_sample,Memory CD4 T,20,0.1
+pbmc3k,lm_two_sample,NK,20,0.35
+pbmc3k,lm_two_sample,Naive CD4 T,20,0.0
+pbmc3k,lm_two_sample,Platelet,5,0.8
+pbmc3k,logfc_abs,B,20,0.2
+pbmc3k,logfc_abs,CD14+ Mono,20,0.05
+pbmc3k,logfc_abs,CD8 T,20,0.1
+pbmc3k,logfc_abs,DC,20,0.1
+pbmc3k,logfc_abs,FCGR3A+ Mono,20,0.0
+pbmc3k,logfc_abs,Memory CD4 T,20,0.0
+pbmc3k,logfc_abs,NK,20,0.2
+pbmc3k,logfc_abs,Naive CD4 T,20,0.0
+pbmc3k,logfc_abs,Platelet,5,0.6
+pbmc3k,logfc_raw,B,20,0.3
+pbmc3k,logfc_raw,CD14+ Mono,20,0.05
+pbmc3k,logfc_raw,CD8 T,20,0.15
+pbmc3k,logfc_raw,DC,20,0.15
+pbmc3k,logfc_raw,FCGR3A+ Mono,20,0.0
+pbmc3k,logfc_raw,Memory CD4 T,20,0.15
+pbmc3k,logfc_raw,NK,20,0.25
+pbmc3k,logfc_raw,Naive CD4 T,20,0.05
+pbmc3k,logfc_raw,Platelet,5,0.6
+pbmc3k,random,B,20,0.0
+pbmc3k,random,CD14+ Mono,20,0.0
+pbmc3k,random,CD8 T,20,0.0
+pbmc3k,random,DC,20,0.0
+pbmc3k,random,FCGR3A+ Mono,20,0.05
+pbmc3k,random,Memory CD4 T,20,0.05
+pbmc3k,random,NK,20,0.0
+pbmc3k,random,Naive CD4 T,20,0.0
+pbmc3k,random,Platelet,5,0.0
+pbmc3k,scanpy_t_rankby_abs,B,20,0.15
+pbmc3k,scanpy_t_rankby_abs,CD14+ Mono,20,0.0
+pbmc3k,scanpy_t_rankby_abs,CD8 T,20,0.0
+pbmc3k,scanpy_t_rankby_abs,DC,20,0.0
+pbmc3k,scanpy_t_rankby_abs,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_t_rankby_abs,Memory CD4 T,20,0.0
+pbmc3k,scanpy_t_rankby_abs,NK,20,0.15
+pbmc3k,scanpy_t_rankby_abs,Naive CD4 T,20,0.0
+pbmc3k,scanpy_t_rankby_abs,Platelet,5,0.0
+pbmc3k,scanpy_t_rankby_raw,B,20,0.2
+pbmc3k,scanpy_t_rankby_raw,CD14+ Mono,20,0.0
+pbmc3k,scanpy_t_rankby_raw,CD8 T,20,0.1
+pbmc3k,scanpy_t_rankby_raw,DC,20,0.0
+pbmc3k,scanpy_t_rankby_raw,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_t_rankby_raw,Memory CD4 T,20,0.0
+pbmc3k,scanpy_t_rankby_raw,NK,20,0.25
+pbmc3k,scanpy_t_rankby_raw,Naive CD4 T,20,0.0
+pbmc3k,scanpy_t_rankby_raw,Platelet,5,0.4
+pbmc3k,scanpy_tover_rankby_abs,B,20,0.2
+pbmc3k,scanpy_tover_rankby_abs,CD14+ Mono,20,0.0
+pbmc3k,scanpy_tover_rankby_abs,CD8 T,20,0.1
+pbmc3k,scanpy_tover_rankby_abs,DC,20,0.1
+pbmc3k,scanpy_tover_rankby_abs,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_tover_rankby_abs,Memory CD4 T,20,0.0
+pbmc3k,scanpy_tover_rankby_abs,NK,20,0.25
+pbmc3k,scanpy_tover_rankby_abs,Naive CD4 T,20,0.0
+pbmc3k,scanpy_tover_rankby_abs,Platelet,5,0.4
+pbmc3k,scanpy_tover_rankby_raw,B,20,0.25
+pbmc3k,scanpy_tover_rankby_raw,CD14+ Mono,20,0.0
+pbmc3k,scanpy_tover_rankby_raw,CD8 T,20,0.1
+pbmc3k,scanpy_tover_rankby_raw,DC,20,0.1
+pbmc3k,scanpy_tover_rankby_raw,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_tover_rankby_raw,Memory CD4 T,20,0.05
+pbmc3k,scanpy_tover_rankby_raw,NK,20,0.25
+pbmc3k,scanpy_tover_rankby_raw,Naive CD4 T,20,0.0
+pbmc3k,scanpy_tover_rankby_raw,Platelet,5,0.4
+pbmc3k,scanpy_wilcoxon_rankby_abs,B,20,0.2
+pbmc3k,scanpy_wilcoxon_rankby_abs,CD14+ Mono,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_abs,CD8 T,20,0.1
+pbmc3k,scanpy_wilcoxon_rankby_abs,DC,20,0.1
+pbmc3k,scanpy_wilcoxon_rankby_abs,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_abs,Memory CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_abs,NK,20,0.2
+pbmc3k,scanpy_wilcoxon_rankby_abs,Naive CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_abs,Platelet,5,0.4
+pbmc3k,scanpy_wilcoxon_rankby_raw,B,20,0.2
+pbmc3k,scanpy_wilcoxon_rankby_raw,CD14+ Mono,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_raw,CD8 T,20,0.1
+pbmc3k,scanpy_wilcoxon_rankby_raw,DC,20,0.1
+pbmc3k,scanpy_wilcoxon_rankby_raw,FCGR3A+ Mono,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_raw,Memory CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_raw,NK,20,0.25
+pbmc3k,scanpy_wilcoxon_rankby_raw,Naive CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxon_rankby_raw,Platelet,5,0.4
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,B,20,0.3
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,CD14+ Mono,20,0.05
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,CD8 T,20,0.15
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,DC,20,0.35
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,FCGR3A+ Mono,20,0.25
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,Memory CD4 T,20,0.1
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,NK,20,0.3
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,Naive CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_abs,Platelet,5,0.4
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,B,20,0.3
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,CD14+ Mono,20,0.05
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,CD8 T,20,0.15
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,DC,20,0.35
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,FCGR3A+ Mono,20,0.25
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,Memory CD4 T,20,0.15
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,NK,20,0.3
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,Naive CD4 T,20,0.0
+pbmc3k,scanpy_wilcoxontiecorrect_rankby_raw,Platelet,5,0.4
+pbmc3k,scran_findMarkers_binom_all,B,20,0.25
+pbmc3k,scran_findMarkers_binom_all,CD14+ Mono,20,0.2
+pbmc3k,scran_findMarkers_binom_all,CD8 T,20,0.15
+pbmc3k,scran_findMarkers_binom_all,DC,20,0.15
+pbmc3k,scran_findMarkers_binom_all,FCGR3A+ Mono,20,0.1
+pbmc3k,scran_findMarkers_binom_all,Memory CD4 T,20,0.05
+pbmc3k,scran_findMarkers_binom_all,NK,20,0.35
+pbmc3k,scran_findMarkers_binom_all,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_binom_all,Platelet,5,0.6
+pbmc3k,scran_findMarkers_binom_any,B,20,0.1
+pbmc3k,scran_findMarkers_binom_any,CD14+ Mono,20,0.0
+pbmc3k,scran_findMarkers_binom_any,CD8 T,20,0.0
+pbmc3k,scran_findMarkers_binom_any,DC,20,0.2
+pbmc3k,scran_findMarkers_binom_any,FCGR3A+ Mono,20,0.05
+pbmc3k,scran_findMarkers_binom_any,Memory CD4 T,20,0.0
+pbmc3k,scran_findMarkers_binom_any,NK,20,0.05
+pbmc3k,scran_findMarkers_binom_any,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_binom_any,Platelet,5,0.6
+pbmc3k,scran_findMarkers_binom_some,B,20,0.3
+pbmc3k,scran_findMarkers_binom_some,CD14+ Mono,20,0.05
+pbmc3k,scran_findMarkers_binom_some,CD8 T,20,0.1
+pbmc3k,scran_findMarkers_binom_some,DC,20,0.25
+pbmc3k,scran_findMarkers_binom_some,FCGR3A+ Mono,20,0.15
+pbmc3k,scran_findMarkers_binom_some,Memory CD4 T,20,0.1
+pbmc3k,scran_findMarkers_binom_some,NK,20,0.2
+pbmc3k,scran_findMarkers_binom_some,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_binom_some,Platelet,5,0.8
+pbmc3k,scran_findMarkers_t_all,B,20,0.35
+pbmc3k,scran_findMarkers_t_all,CD14+ Mono,20,0.3
+pbmc3k,scran_findMarkers_t_all,CD8 T,20,0.15
+pbmc3k,scran_findMarkers_t_all,DC,20,0.15
+pbmc3k,scran_findMarkers_t_all,FCGR3A+ Mono,20,0.1
+pbmc3k,scran_findMarkers_t_all,Memory CD4 T,20,0.1
+pbmc3k,scran_findMarkers_t_all,NK,20,0.45
+pbmc3k,scran_findMarkers_t_all,Naive CD4 T,20,0.05
+pbmc3k,scran_findMarkers_t_all,Platelet,5,0.4
+pbmc3k,scran_findMarkers_t_any,B,20,0.15
+pbmc3k,scran_findMarkers_t_any,CD14+ Mono,20,0.05
+pbmc3k,scran_findMarkers_t_any,CD8 T,20,0.0
+pbmc3k,scran_findMarkers_t_any,DC,20,0.0
+pbmc3k,scran_findMarkers_t_any,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_findMarkers_t_any,Memory CD4 T,20,0.0
+pbmc3k,scran_findMarkers_t_any,NK,20,0.15
+pbmc3k,scran_findMarkers_t_any,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_t_any,Platelet,5,0.0
+pbmc3k,scran_findMarkers_t_some,B,20,0.2
+pbmc3k,scran_findMarkers_t_some,CD14+ Mono,20,0.0
+pbmc3k,scran_findMarkers_t_some,CD8 T,20,0.1
+pbmc3k,scran_findMarkers_t_some,DC,20,0.0
+pbmc3k,scran_findMarkers_t_some,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_findMarkers_t_some,Memory CD4 T,20,0.05
+pbmc3k,scran_findMarkers_t_some,NK,20,0.25
+pbmc3k,scran_findMarkers_t_some,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_t_some,Platelet,5,0.0
+pbmc3k,scran_findMarkers_wilcox_all,B,20,0.15
+pbmc3k,scran_findMarkers_wilcox_all,CD14+ Mono,20,0.05
+pbmc3k,scran_findMarkers_wilcox_all,CD8 T,20,0.05
+pbmc3k,scran_findMarkers_wilcox_all,DC,20,0.15
+pbmc3k,scran_findMarkers_wilcox_all,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_findMarkers_wilcox_all,Memory CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_all,NK,20,0.2
+pbmc3k,scran_findMarkers_wilcox_all,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_all,Platelet,5,0.6
+pbmc3k,scran_findMarkers_wilcox_any,B,20,0.05
+pbmc3k,scran_findMarkers_wilcox_any,CD14+ Mono,20,0.0
+pbmc3k,scran_findMarkers_wilcox_any,CD8 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_any,DC,20,0.15
+pbmc3k,scran_findMarkers_wilcox_any,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_findMarkers_wilcox_any,Memory CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_any,NK,20,0.1
+pbmc3k,scran_findMarkers_wilcox_any,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_any,Platelet,5,0.8
+pbmc3k,scran_findMarkers_wilcox_some,B,20,0.2
+pbmc3k,scran_findMarkers_wilcox_some,CD14+ Mono,20,0.0
+pbmc3k,scran_findMarkers_wilcox_some,CD8 T,20,0.1
+pbmc3k,scran_findMarkers_wilcox_some,DC,20,0.25
+pbmc3k,scran_findMarkers_wilcox_some,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_findMarkers_wilcox_some,Memory CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_some,NK,20,0.25
+pbmc3k,scran_findMarkers_wilcox_some,Naive CD4 T,20,0.0
+pbmc3k,scran_findMarkers_wilcox_some,Platelet,5,0.6
+pbmc3k,scran_scoreMarkers_max_AUC,B,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,CD14+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,CD8 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,DC,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,NK,20,0.1
+pbmc3k,scran_scoreMarkers_max_AUC,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_AUC,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,B,20,0.1
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,CD14+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,CD8 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,DC,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,NK,20,0.2
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_max_logFC_cohen,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_max_logFC_detected,B,20,0.15
+pbmc3k,scran_scoreMarkers_max_logFC_detected,CD14+ Mono,20,0.35
+pbmc3k,scran_scoreMarkers_max_logFC_detected,CD8 T,20,0.2
+pbmc3k,scran_scoreMarkers_max_logFC_detected,DC,20,0.15
+pbmc3k,scran_scoreMarkers_max_logFC_detected,FCGR3A+ Mono,20,0.3
+pbmc3k,scran_scoreMarkers_max_logFC_detected,Memory CD4 T,20,0.1
+pbmc3k,scran_scoreMarkers_max_logFC_detected,NK,20,0.3
+pbmc3k,scran_scoreMarkers_max_logFC_detected,Naive CD4 T,20,0.2
+pbmc3k,scran_scoreMarkers_max_logFC_detected,Platelet,5,0.6
+pbmc3k,scran_scoreMarkers_mean_AUC,B,20,0.2
+pbmc3k,scran_scoreMarkers_mean_AUC,CD14+ Mono,20,0.05
+pbmc3k,scran_scoreMarkers_mean_AUC,CD8 T,20,0.1
+pbmc3k,scran_scoreMarkers_mean_AUC,DC,20,0.1
+pbmc3k,scran_scoreMarkers_mean_AUC,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_mean_AUC,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_mean_AUC,NK,20,0.25
+pbmc3k,scran_scoreMarkers_mean_AUC,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_mean_AUC,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,B,20,0.2
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,CD14+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,CD8 T,20,0.1
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,DC,20,0.1
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,NK,20,0.25
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_mean_logFC_cohen,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,B,20,0.35
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,CD14+ Mono,20,0.35
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,CD8 T,20,0.25
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,DC,20,0.4
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,FCGR3A+ Mono,20,0.2
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,Memory CD4 T,20,0.15
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,NK,20,0.25
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,Naive CD4 T,20,0.2
+pbmc3k,scran_scoreMarkers_mean_logFC_detected,Platelet,5,0.8
+pbmc3k,scran_scoreMarkers_median_AUC,B,20,0.15
+pbmc3k,scran_scoreMarkers_median_AUC,CD14+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,CD8 T,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,DC,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,NK,20,0.25
+pbmc3k,scran_scoreMarkers_median_AUC,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_median_AUC,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,B,20,0.2
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,CD14+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,CD8 T,20,0.1
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,DC,20,0.05
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,NK,20,0.25
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_median_logFC_cohen,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_median_logFC_detected,B,20,0.3
+pbmc3k,scran_scoreMarkers_median_logFC_detected,CD14+ Mono,20,0.25
+pbmc3k,scran_scoreMarkers_median_logFC_detected,CD8 T,20,0.15
+pbmc3k,scran_scoreMarkers_median_logFC_detected,DC,20,0.3
+pbmc3k,scran_scoreMarkers_median_logFC_detected,FCGR3A+ Mono,20,0.2
+pbmc3k,scran_scoreMarkers_median_logFC_detected,Memory CD4 T,20,0.1
+pbmc3k,scran_scoreMarkers_median_logFC_detected,NK,20,0.3
+pbmc3k,scran_scoreMarkers_median_logFC_detected,Naive CD4 T,20,0.15
+pbmc3k,scran_scoreMarkers_median_logFC_detected,Platelet,5,0.8
+pbmc3k,scran_scoreMarkers_min_AUC,B,20,0.35
+pbmc3k,scran_scoreMarkers_min_AUC,CD14+ Mono,20,0.15
+pbmc3k,scran_scoreMarkers_min_AUC,CD8 T,20,0.3
+pbmc3k,scran_scoreMarkers_min_AUC,DC,20,0.2
+pbmc3k,scran_scoreMarkers_min_AUC,FCGR3A+ Mono,20,0.1
+pbmc3k,scran_scoreMarkers_min_AUC,Memory CD4 T,20,0.15
+pbmc3k,scran_scoreMarkers_min_AUC,NK,20,0.3
+pbmc3k,scran_scoreMarkers_min_AUC,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_min_AUC,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,B,20,0.45
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,CD14+ Mono,20,0.35
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,CD8 T,20,0.3
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,DC,20,0.3
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,FCGR3A+ Mono,20,0.2
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,Memory CD4 T,20,0.15
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,NK,20,0.4
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,Naive CD4 T,20,0.05
+pbmc3k,scran_scoreMarkers_min_logFC_cohen,Platelet,5,0.6
+pbmc3k,scran_scoreMarkers_min_logFC_detected,B,20,0.4
+pbmc3k,scran_scoreMarkers_min_logFC_detected,CD14+ Mono,20,0.4
+pbmc3k,scran_scoreMarkers_min_logFC_detected,CD8 T,20,0.3
+pbmc3k,scran_scoreMarkers_min_logFC_detected,DC,20,0.35
+pbmc3k,scran_scoreMarkers_min_logFC_detected,FCGR3A+ Mono,20,0.25
+pbmc3k,scran_scoreMarkers_min_logFC_detected,Memory CD4 T,20,0.2
+pbmc3k,scran_scoreMarkers_min_logFC_detected,NK,20,0.4
+pbmc3k,scran_scoreMarkers_min_logFC_detected,Naive CD4 T,20,0.1
+pbmc3k,scran_scoreMarkers_min_logFC_detected,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_rank_AUC,B,20,0.15
+pbmc3k,scran_scoreMarkers_rank_AUC,CD14+ Mono,20,0.05
+pbmc3k,scran_scoreMarkers_rank_AUC,CD8 T,20,0.0
+pbmc3k,scran_scoreMarkers_rank_AUC,DC,20,0.0
+pbmc3k,scran_scoreMarkers_rank_AUC,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_rank_AUC,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_rank_AUC,NK,20,0.15
+pbmc3k,scran_scoreMarkers_rank_AUC,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_rank_AUC,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,B,20,0.15
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,CD14+ Mono,20,0.05
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,CD8 T,20,0.05
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,DC,20,0.05
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,FCGR3A+ Mono,20,0.0
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,Memory CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,NK,20,0.25
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,Naive CD4 T,20,0.0
+pbmc3k,scran_scoreMarkers_rank_logFC_cohen,Platelet,5,0.4
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,B,20,0.2
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,CD14+ Mono,20,0.25
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,CD8 T,20,0.15
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,DC,20,0.3
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,FCGR3A+ Mono,20,0.1
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,Memory CD4 T,20,0.05
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,NK,20,0.3
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,Naive CD4 T,20,0.25
+pbmc3k,scran_scoreMarkers_rank_logFC_detected,Platelet,5,0.6
+pbmc3k,seurat_LR,B,20,0.3
+pbmc3k,seurat_LR,CD14+ Mono,20,0.05
+pbmc3k,seurat_LR,CD8 T,20,0.1
+pbmc3k,seurat_LR,DC,20,0.25
+pbmc3k,seurat_LR,FCGR3A+ Mono,20,0.05
+pbmc3k,seurat_LR,Memory CD4 T,20,0.05
+pbmc3k,seurat_LR,NK,20,0.25
+pbmc3k,seurat_LR,Naive CD4 T,20,0.0
+pbmc3k,seurat_LR,Platelet,5,0.4
+pbmc3k,seurat_MAST,B,20,0.3
+pbmc3k,seurat_MAST,CD14+ Mono,20,0.05
+pbmc3k,seurat_MAST,CD8 T,20,0.1
+pbmc3k,seurat_MAST,DC,20,0.2
+pbmc3k,seurat_MAST,FCGR3A+ Mono,20,0.05
+pbmc3k,seurat_MAST,Memory CD4 T,20,0.0
+pbmc3k,seurat_MAST,NK,20,0.2
+pbmc3k,seurat_MAST,Naive CD4 T,20,0.0
+pbmc3k,seurat_MAST,Platelet,5,0.2
+pbmc3k,seurat_bimod,B,20,0.25
+pbmc3k,seurat_bimod,CD14+ Mono,20,0.05
+pbmc3k,seurat_bimod,CD8 T,20,0.1
+pbmc3k,seurat_bimod,DC,20,0.2
+pbmc3k,seurat_bimod,FCGR3A+ Mono,20,0.0
+pbmc3k,seurat_bimod,Memory CD4 T,20,0.0
+pbmc3k,seurat_bimod,NK,20,0.2
+pbmc3k,seurat_bimod,Naive CD4 T,20,0.0
+pbmc3k,seurat_bimod,Platelet,5,0.2
+pbmc3k,seurat_negbinom,B,20,0.3
+pbmc3k,seurat_negbinom,CD14+ Mono,20,0.05
+pbmc3k,seurat_negbinom,CD8 T,20,0.1
+pbmc3k,seurat_negbinom,DC,20,0.15
+pbmc3k,seurat_negbinom,FCGR3A+ Mono,20,0.1
+pbmc3k,seurat_negbinom,Memory CD4 T,20,0.0
+pbmc3k,seurat_negbinom,NK,20,0.3
+pbmc3k,seurat_negbinom,Naive CD4 T,20,0.0
+pbmc3k,seurat_negbinom,Platelet,5,0.2
+pbmc3k,seurat_poisson,B,20,0.2
+pbmc3k,seurat_poisson,CD14+ Mono,20,0.0
+pbmc3k,seurat_poisson,CD8 T,20,0.1
+pbmc3k,seurat_poisson,DC,20,0.05
+pbmc3k,seurat_poisson,FCGR3A+ Mono,20,0.0
+pbmc3k,seurat_poisson,Memory CD4 T,20,0.0
+pbmc3k,seurat_poisson,NK,20,0.2
+pbmc3k,seurat_poisson,Naive CD4 T,20,0.0
+pbmc3k,seurat_poisson,Platelet,5,0.4
+pbmc3k,seurat_roc,B,20,0.2
+pbmc3k,seurat_roc,CD14+ Mono,20,0.0
+pbmc3k,seurat_roc,CD8 T,20,0.1
+pbmc3k,seurat_roc,DC,20,0.1
+pbmc3k,seurat_roc,FCGR3A+ Mono,20,0.0
+pbmc3k,seurat_roc,Memory CD4 T,20,0.0
+pbmc3k,seurat_roc,NK,20,0.2
+pbmc3k,seurat_roc,Naive CD4 T,20,0.0
+pbmc3k,seurat_roc,Platelet,5,0.4
+pbmc3k,seurat_t,B,20,0.15
+pbmc3k,seurat_t,CD14+ Mono,20,0.0
+pbmc3k,seurat_t,CD8 T,20,0.0
+pbmc3k,seurat_t,DC,20,0.0
+pbmc3k,seurat_t,FCGR3A+ Mono,20,0.0
+pbmc3k,seurat_t,Memory CD4 T,20,0.0
+pbmc3k,seurat_t,NK,20,0.1
+pbmc3k,seurat_t,Naive CD4 T,20,0.0
+pbmc3k,seurat_t,Platelet,5,0.0
+pbmc3k,seurat_wilcox,B,20,0.3
+pbmc3k,seurat_wilcox,CD14+ Mono,20,0.05
+pbmc3k,seurat_wilcox,CD8 T,20,0.15
+pbmc3k,seurat_wilcox,DC,20,0.35
+pbmc3k,seurat_wilcox,FCGR3A+ Mono,20,0.25
+pbmc3k,seurat_wilcox,Memory CD4 T,20,0.1
+pbmc3k,seurat_wilcox,NK,20,0.3
+pbmc3k,seurat_wilcox,Naive CD4 T,20,0.0
+pbmc3k,seurat_wilcox,Platelet,5,0.4
+lawlor,cepo,Acinar,20,0.45
+lawlor,cepo,Alpha,20,0.25
+lawlor,cepo,Beta,20,0.35
+lawlor,cepo,Delta,12,0.3333333333333333
+lawlor,cepo,Ductal,20,0.2
+lawlor,cepo,Gamma/PP,11,0.36363636363636365
+lawlor,cepo,Stellate,5,0.2
+lawlor,cosg,Acinar,20,0.55
+lawlor,cosg,Alpha,20,0.4
+lawlor,cosg,Beta,20,0.5
+lawlor,cosg,Delta,12,0.4166666666666667
+lawlor,cosg,Ductal,20,0.2
+lawlor,cosg,Gamma/PP,11,0.36363636363636365
+lawlor,cosg,Stellate,5,0.2
+lawlor,edger_glm,Acinar,20,0.35
+lawlor,edger_glm,Alpha,20,0.3
+lawlor,edger_glm,Beta,20,0.25
+lawlor,edger_glm,Delta,12,0.08333333333333333
+lawlor,edger_glm,Ductal,20,0.05
+lawlor,edger_glm,Gamma/PP,11,0.36363636363636365
+lawlor,edger_glm,Stellate,5,0.4
+lawlor,edger_ql,Acinar,20,0.65
+lawlor,edger_ql,Alpha,20,0.3
+lawlor,edger_ql,Beta,20,0.2
+lawlor,edger_ql,Delta,12,0.25
+lawlor,edger_ql,Ductal,20,0.15
+lawlor,edger_ql,Gamma/PP,11,0.18181818181818182
+lawlor,edger_ql,Stellate,5,0.4
+lawlor,glmgampoi,Acinar,20,0.3
+lawlor,glmgampoi,Alpha,20,0.25
+lawlor,glmgampoi,Beta,20,0.25
+lawlor,glmgampoi,Delta,12,0.08333333333333333
+lawlor,glmgampoi,Ductal,20,0.05
+lawlor,glmgampoi,Gamma/PP,11,0.36363636363636365
+lawlor,glmgampoi,Stellate,5,0.4
+lawlor,limma_trend,Acinar,20,0.6
+lawlor,limma_trend,Alpha,20,0.4
+lawlor,limma_trend,Beta,20,0.45
+lawlor,limma_trend,Delta,12,0.5
+lawlor,limma_trend,Ductal,20,0.25
+lawlor,limma_trend,Gamma/PP,11,0.45454545454545453
+lawlor,limma_trend,Stellate,5,0.4
+lawlor,limma_voom,Acinar,20,0.65
+lawlor,limma_voom,Alpha,20,0.4
+lawlor,limma_voom,Beta,20,0.35
+lawlor,limma_voom,Delta,12,0.16666666666666666
+lawlor,limma_voom,Ductal,20,0.1
+lawlor,limma_voom,Gamma/PP,11,0.09090909090909091
+lawlor,limma_voom,Stellate,5,0.6
+lawlor,lm_two_sample,Acinar,20,0.55
+lawlor,lm_two_sample,Alpha,20,0.4
+lawlor,lm_two_sample,Beta,20,0.45
+lawlor,lm_two_sample,Delta,12,0.5
+lawlor,lm_two_sample,Ductal,20,0.2
+lawlor,lm_two_sample,Gamma/PP,11,0.36363636363636365
+lawlor,lm_two_sample,Stellate,5,0.2
+lawlor,logfc_abs,Acinar,20,0.55
+lawlor,logfc_abs,Alpha,20,0.05
+lawlor,logfc_abs,Beta,20,0.0
+lawlor,logfc_abs,Delta,12,0.08333333333333333
+lawlor,logfc_abs,Ductal,20,0.05
+lawlor,logfc_abs,Gamma/PP,11,0.09090909090909091
+lawlor,logfc_abs,Stellate,5,0.0
+lawlor,logfc_raw,Acinar,20,0.6
+lawlor,logfc_raw,Alpha,20,0.15
+lawlor,logfc_raw,Beta,20,0.15
+lawlor,logfc_raw,Delta,12,0.16666666666666666
+lawlor,logfc_raw,Ductal,20,0.1
+lawlor,logfc_raw,Gamma/PP,11,0.18181818181818182
+lawlor,logfc_raw,Stellate,5,0.6
+lawlor,random,Acinar,20,0.0
+lawlor,random,Alpha,20,0.0
+lawlor,random,Beta,20,0.0
+lawlor,random,Delta,12,0.0
+lawlor,random,Ductal,20,0.0
+lawlor,random,Gamma/PP,11,0.0
+lawlor,random,Stellate,5,0.0
+lawlor,scanpy_t_rankby_abs,Acinar,20,0.25
+lawlor,scanpy_t_rankby_abs,Alpha,20,0.35
+lawlor,scanpy_t_rankby_abs,Beta,20,0.35
+lawlor,scanpy_t_rankby_abs,Delta,12,0.08333333333333333
+lawlor,scanpy_t_rankby_abs,Ductal,20,0.05
+lawlor,scanpy_t_rankby_abs,Gamma/PP,11,0.09090909090909091
+lawlor,scanpy_t_rankby_abs,Stellate,5,0.0
+lawlor,scanpy_t_rankby_raw,Acinar,20,0.35
+lawlor,scanpy_t_rankby_raw,Alpha,20,0.4
+lawlor,scanpy_t_rankby_raw,Beta,20,0.4
+lawlor,scanpy_t_rankby_raw,Delta,12,0.3333333333333333
+lawlor,scanpy_t_rankby_raw,Ductal,20,0.35
+lawlor,scanpy_t_rankby_raw,Gamma/PP,11,0.18181818181818182
+lawlor,scanpy_t_rankby_raw,Stellate,5,0.4
+lawlor,scanpy_tover_rankby_abs,Acinar,20,0.5
+lawlor,scanpy_tover_rankby_abs,Alpha,20,0.4
+lawlor,scanpy_tover_rankby_abs,Beta,20,0.4
+lawlor,scanpy_tover_rankby_abs,Delta,12,0.3333333333333333
+lawlor,scanpy_tover_rankby_abs,Ductal,20,0.25
+lawlor,scanpy_tover_rankby_abs,Gamma/PP,11,0.36363636363636365
+lawlor,scanpy_tover_rankby_abs,Stellate,5,0.6
+lawlor,scanpy_tover_rankby_raw,Acinar,20,0.5
+lawlor,scanpy_tover_rankby_raw,Alpha,20,0.4
+lawlor,scanpy_tover_rankby_raw,Beta,20,0.45
+lawlor,scanpy_tover_rankby_raw,Delta,12,0.5
+lawlor,scanpy_tover_rankby_raw,Ductal,20,0.3
+lawlor,scanpy_tover_rankby_raw,Gamma/PP,11,0.36363636363636365
+lawlor,scanpy_tover_rankby_raw,Stellate,5,0.6
+lawlor,scanpy_wilcoxon_rankby_abs,Acinar,20,0.55
+lawlor,scanpy_wilcoxon_rankby_abs,Alpha,20,0.3
+lawlor,scanpy_wilcoxon_rankby_abs,Beta,20,0.4
+lawlor,scanpy_wilcoxon_rankby_abs,Delta,12,0.3333333333333333
+lawlor,scanpy_wilcoxon_rankby_abs,Ductal,20,0.25
+lawlor,scanpy_wilcoxon_rankby_abs,Gamma/PP,11,0.2727272727272727
+lawlor,scanpy_wilcoxon_rankby_abs,Stellate,5,0.6
+lawlor,scanpy_wilcoxon_rankby_raw,Acinar,20,0.55
+lawlor,scanpy_wilcoxon_rankby_raw,Alpha,20,0.4
+lawlor,scanpy_wilcoxon_rankby_raw,Beta,20,0.4
+lawlor,scanpy_wilcoxon_rankby_raw,Delta,12,0.5
+lawlor,scanpy_wilcoxon_rankby_raw,Ductal,20,0.35
+lawlor,scanpy_wilcoxon_rankby_raw,Gamma/PP,11,0.36363636363636365
+lawlor,scanpy_wilcoxon_rankby_raw,Stellate,5,0.6
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Acinar,20,0.2
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Alpha,20,0.4
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Beta,20,0.45
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Delta,12,0.4166666666666667
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Ductal,20,0.1
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Gamma/PP,11,0.5454545454545454
+lawlor,scanpy_wilcoxontiecorrect_rankby_abs,Stellate,5,0.4
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Acinar,20,0.2
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Alpha,20,0.4
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Beta,20,0.45
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Delta,12,0.4166666666666667
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Ductal,20,0.1
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Gamma/PP,11,0.5454545454545454
+lawlor,scanpy_wilcoxontiecorrect_rankby_raw,Stellate,5,0.4
+lawlor,scran_findMarkers_binom_all,Acinar,20,0.4
+lawlor,scran_findMarkers_binom_all,Alpha,20,0.15
+lawlor,scran_findMarkers_binom_all,Beta,20,0.25
+lawlor,scran_findMarkers_binom_all,Delta,12,0.25
+lawlor,scran_findMarkers_binom_all,Ductal,20,0.15
+lawlor,scran_findMarkers_binom_all,Gamma/PP,11,0.36363636363636365
+lawlor,scran_findMarkers_binom_all,Stellate,5,0.2
+lawlor,scran_findMarkers_binom_any,Acinar,20,0.3
+lawlor,scran_findMarkers_binom_any,Alpha,20,0.05
+lawlor,scran_findMarkers_binom_any,Beta,20,0.0
+lawlor,scran_findMarkers_binom_any,Delta,12,0.16666666666666666
+lawlor,scran_findMarkers_binom_any,Ductal,20,0.05
+lawlor,scran_findMarkers_binom_any,Gamma/PP,11,0.2727272727272727
+lawlor,scran_findMarkers_binom_any,Stellate,5,0.2
+lawlor,scran_findMarkers_binom_some,Acinar,20,0.3
+lawlor,scran_findMarkers_binom_some,Alpha,20,0.2
+lawlor,scran_findMarkers_binom_some,Beta,20,0.2
+lawlor,scran_findMarkers_binom_some,Delta,12,0.16666666666666666
+lawlor,scran_findMarkers_binom_some,Ductal,20,0.15
+lawlor,scran_findMarkers_binom_some,Gamma/PP,11,0.36363636363636365
+lawlor,scran_findMarkers_binom_some,Stellate,5,0.4
+lawlor,scran_findMarkers_t_all,Acinar,20,0.6
+lawlor,scran_findMarkers_t_all,Alpha,20,0.15
+lawlor,scran_findMarkers_t_all,Beta,20,0.15
+lawlor,scran_findMarkers_t_all,Delta,12,0.3333333333333333
+lawlor,scran_findMarkers_t_all,Ductal,20,0.3
+lawlor,scran_findMarkers_t_all,Gamma/PP,11,0.18181818181818182
+lawlor,scran_findMarkers_t_all,Stellate,5,0.6
+lawlor,scran_findMarkers_t_any,Acinar,20,0.3
+lawlor,scran_findMarkers_t_any,Alpha,20,0.25
+lawlor,scran_findMarkers_t_any,Beta,20,0.15
+lawlor,scran_findMarkers_t_any,Delta,12,0.08333333333333333
+lawlor,scran_findMarkers_t_any,Ductal,20,0.1
+lawlor,scran_findMarkers_t_any,Gamma/PP,11,0.09090909090909091
+lawlor,scran_findMarkers_t_any,Stellate,5,0.4
+lawlor,scran_findMarkers_t_some,Acinar,20,0.5
+lawlor,scran_findMarkers_t_some,Alpha,20,0.3
+lawlor,scran_findMarkers_t_some,Beta,20,0.3
+lawlor,scran_findMarkers_t_some,Delta,12,0.16666666666666666
+lawlor,scran_findMarkers_t_some,Ductal,20,0.25
+lawlor,scran_findMarkers_t_some,Gamma/PP,11,0.09090909090909091
+lawlor,scran_findMarkers_t_some,Stellate,5,0.4
+lawlor,scran_findMarkers_wilcox_all,Acinar,20,0.5
+lawlor,scran_findMarkers_wilcox_all,Alpha,20,0.25
+lawlor,scran_findMarkers_wilcox_all,Beta,20,0.35
+lawlor,scran_findMarkers_wilcox_all,Delta,12,0.4166666666666667
+lawlor,scran_findMarkers_wilcox_all,Ductal,20,0.25
+lawlor,scran_findMarkers_wilcox_all,Gamma/PP,11,0.2727272727272727
+lawlor,scran_findMarkers_wilcox_all,Stellate,5,0.6
+lawlor,scran_findMarkers_wilcox_any,Acinar,20,0.2
+lawlor,scran_findMarkers_wilcox_any,Alpha,20,0.0
+lawlor,scran_findMarkers_wilcox_any,Beta,20,0.0
+lawlor,scran_findMarkers_wilcox_any,Delta,12,0.25
+lawlor,scran_findMarkers_wilcox_any,Ductal,20,0.05
+lawlor,scran_findMarkers_wilcox_any,Gamma/PP,11,0.2727272727272727
+lawlor,scran_findMarkers_wilcox_any,Stellate,5,0.4
+lawlor,scran_findMarkers_wilcox_some,Acinar,20,0.45
+lawlor,scran_findMarkers_wilcox_some,Alpha,20,0.1
+lawlor,scran_findMarkers_wilcox_some,Beta,20,0.1
+lawlor,scran_findMarkers_wilcox_some,Delta,12,0.4166666666666667
+lawlor,scran_findMarkers_wilcox_some,Ductal,20,0.3
+lawlor,scran_findMarkers_wilcox_some,Gamma/PP,11,0.2727272727272727
+lawlor,scran_findMarkers_wilcox_some,Stellate,5,0.2
+lawlor,scran_scoreMarkers_max_AUC,Acinar,20,0.3
+lawlor,scran_scoreMarkers_max_AUC,Alpha,20,0.1
+lawlor,scran_scoreMarkers_max_AUC,Beta,20,0.1
+lawlor,scran_scoreMarkers_max_AUC,Delta,12,0.08333333333333333
+lawlor,scran_scoreMarkers_max_AUC,Ductal,20,0.3
+lawlor,scran_scoreMarkers_max_AUC,Gamma/PP,11,0.0
+lawlor,scran_scoreMarkers_max_AUC,Stellate,5,0.4
+lawlor,scran_scoreMarkers_max_logFC_cohen,Acinar,20,0.4
+lawlor,scran_scoreMarkers_max_logFC_cohen,Alpha,20,0.1
+lawlor,scran_scoreMarkers_max_logFC_cohen,Beta,20,0.2
+lawlor,scran_scoreMarkers_max_logFC_cohen,Delta,12,0.08333333333333333
+lawlor,scran_scoreMarkers_max_logFC_cohen,Ductal,20,0.25
+lawlor,scran_scoreMarkers_max_logFC_cohen,Gamma/PP,11,0.09090909090909091
+lawlor,scran_scoreMarkers_max_logFC_cohen,Stellate,5,0.4
+lawlor,scran_scoreMarkers_max_logFC_detected,Acinar,20,0.25
+lawlor,scran_scoreMarkers_max_logFC_detected,Alpha,20,0.05
+lawlor,scran_scoreMarkers_max_logFC_detected,Beta,20,0.05
+lawlor,scran_scoreMarkers_max_logFC_detected,Delta,12,0.08333333333333333
+lawlor,scran_scoreMarkers_max_logFC_detected,Ductal,20,0.1
+lawlor,scran_scoreMarkers_max_logFC_detected,Gamma/PP,11,0.2727272727272727
+lawlor,scran_scoreMarkers_max_logFC_detected,Stellate,5,0.4
+lawlor,scran_scoreMarkers_mean_AUC,Acinar,20,0.55
+lawlor,scran_scoreMarkers_mean_AUC,Alpha,20,0.25
+lawlor,scran_scoreMarkers_mean_AUC,Beta,20,0.4
+lawlor,scran_scoreMarkers_mean_AUC,Delta,12,0.4166666666666667
+lawlor,scran_scoreMarkers_mean_AUC,Ductal,20,0.35
+lawlor,scran_scoreMarkers_mean_AUC,Gamma/PP,11,0.2727272727272727
+lawlor,scran_scoreMarkers_mean_AUC,Stellate,5,0.6
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Acinar,20,0.55
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Alpha,20,0.2
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Beta,20,0.35
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Delta,12,0.25
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Ductal,20,0.3
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Gamma/PP,11,0.18181818181818182
+lawlor,scran_scoreMarkers_mean_logFC_cohen,Stellate,5,0.6
+lawlor,scran_scoreMarkers_mean_logFC_detected,Acinar,20,0.25
+lawlor,scran_scoreMarkers_mean_logFC_detected,Alpha,20,0.25
+lawlor,scran_scoreMarkers_mean_logFC_detected,Beta,20,0.25
+lawlor,scran_scoreMarkers_mean_logFC_detected,Delta,12,0.25
+lawlor,scran_scoreMarkers_mean_logFC_detected,Ductal,20,0.1
+lawlor,scran_scoreMarkers_mean_logFC_detected,Gamma/PP,11,0.36363636363636365
+lawlor,scran_scoreMarkers_mean_logFC_detected,Stellate,5,0.2
+lawlor,scran_scoreMarkers_median_AUC,Acinar,20,0.45
+lawlor,scran_scoreMarkers_median_AUC,Alpha,20,0.2
+lawlor,scran_scoreMarkers_median_AUC,Beta,20,0.3
+lawlor,scran_scoreMarkers_median_AUC,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_median_AUC,Ductal,20,0.35
+lawlor,scran_scoreMarkers_median_AUC,Gamma/PP,11,0.18181818181818182
+lawlor,scran_scoreMarkers_median_AUC,Stellate,5,0.6
+lawlor,scran_scoreMarkers_median_logFC_cohen,Acinar,20,0.5
+lawlor,scran_scoreMarkers_median_logFC_cohen,Alpha,20,0.3
+lawlor,scran_scoreMarkers_median_logFC_cohen,Beta,20,0.35
+lawlor,scran_scoreMarkers_median_logFC_cohen,Delta,12,0.25
+lawlor,scran_scoreMarkers_median_logFC_cohen,Ductal,20,0.2
+lawlor,scran_scoreMarkers_median_logFC_cohen,Gamma/PP,11,0.18181818181818182
+lawlor,scran_scoreMarkers_median_logFC_cohen,Stellate,5,0.6
+lawlor,scran_scoreMarkers_median_logFC_detected,Acinar,20,0.2
+lawlor,scran_scoreMarkers_median_logFC_detected,Alpha,20,0.25
+lawlor,scran_scoreMarkers_median_logFC_detected,Beta,20,0.3
+lawlor,scran_scoreMarkers_median_logFC_detected,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_median_logFC_detected,Ductal,20,0.1
+lawlor,scran_scoreMarkers_median_logFC_detected,Gamma/PP,11,0.45454545454545453
+lawlor,scran_scoreMarkers_median_logFC_detected,Stellate,5,0.4
+lawlor,scran_scoreMarkers_min_AUC,Acinar,20,0.55
+lawlor,scran_scoreMarkers_min_AUC,Alpha,20,0.4
+lawlor,scran_scoreMarkers_min_AUC,Beta,20,0.4
+lawlor,scran_scoreMarkers_min_AUC,Delta,12,0.4166666666666667
+lawlor,scran_scoreMarkers_min_AUC,Ductal,20,0.3
+lawlor,scran_scoreMarkers_min_AUC,Gamma/PP,11,0.2727272727272727
+lawlor,scran_scoreMarkers_min_AUC,Stellate,5,0.6
+lawlor,scran_scoreMarkers_min_logFC_cohen,Acinar,20,0.65
+lawlor,scran_scoreMarkers_min_logFC_cohen,Alpha,20,0.4
+lawlor,scran_scoreMarkers_min_logFC_cohen,Beta,20,0.4
+lawlor,scran_scoreMarkers_min_logFC_cohen,Delta,12,0.4166666666666667
+lawlor,scran_scoreMarkers_min_logFC_cohen,Ductal,20,0.3
+lawlor,scran_scoreMarkers_min_logFC_cohen,Gamma/PP,11,0.2727272727272727
+lawlor,scran_scoreMarkers_min_logFC_cohen,Stellate,5,0.6
+lawlor,scran_scoreMarkers_min_logFC_detected,Acinar,20,0.35
+lawlor,scran_scoreMarkers_min_logFC_detected,Alpha,20,0.15
+lawlor,scran_scoreMarkers_min_logFC_detected,Beta,20,0.15
+lawlor,scran_scoreMarkers_min_logFC_detected,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_min_logFC_detected,Ductal,20,0.05
+lawlor,scran_scoreMarkers_min_logFC_detected,Gamma/PP,11,0.18181818181818182
+lawlor,scran_scoreMarkers_min_logFC_detected,Stellate,5,0.0
+lawlor,scran_scoreMarkers_rank_AUC,Acinar,20,0.35
+lawlor,scran_scoreMarkers_rank_AUC,Alpha,20,0.2
+lawlor,scran_scoreMarkers_rank_AUC,Beta,20,0.35
+lawlor,scran_scoreMarkers_rank_AUC,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_rank_AUC,Ductal,20,0.25
+lawlor,scran_scoreMarkers_rank_AUC,Gamma/PP,11,0.0
+lawlor,scran_scoreMarkers_rank_AUC,Stellate,5,0.4
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Acinar,20,0.45
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Alpha,20,0.2
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Beta,20,0.35
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Ductal,20,0.35
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Gamma/PP,11,0.18181818181818182
+lawlor,scran_scoreMarkers_rank_logFC_cohen,Stellate,5,0.6
+lawlor,scran_scoreMarkers_rank_logFC_detected,Acinar,20,0.35
+lawlor,scran_scoreMarkers_rank_logFC_detected,Alpha,20,0.25
+lawlor,scran_scoreMarkers_rank_logFC_detected,Beta,20,0.2
+lawlor,scran_scoreMarkers_rank_logFC_detected,Delta,12,0.16666666666666666
+lawlor,scran_scoreMarkers_rank_logFC_detected,Ductal,20,0.1
+lawlor,scran_scoreMarkers_rank_logFC_detected,Gamma/PP,11,0.2727272727272727
+lawlor,scran_scoreMarkers_rank_logFC_detected,Stellate,5,0.2
+lawlor,seurat_LR,Acinar,20,0.65
+lawlor,seurat_LR,Alpha,20,0.35
+lawlor,seurat_LR,Beta,20,0.45
+lawlor,seurat_LR,Delta,12,0.4166666666666667
+lawlor,seurat_LR,Ductal,20,0.3
+lawlor,seurat_LR,Gamma/PP,11,0.45454545454545453
+lawlor,seurat_LR,Stellate,5,0.6
+lawlor,seurat_MAST,Acinar,20,0.6
+lawlor,seurat_MAST,Alpha,20,0.35
+lawlor,seurat_MAST,Beta,20,0.45
+lawlor,seurat_MAST,Delta,12,0.4166666666666667
+lawlor,seurat_MAST,Ductal,20,0.15
+lawlor,seurat_MAST,Gamma/PP,11,0.5454545454545454
+lawlor,seurat_MAST,Stellate,5,0.4
+lawlor,seurat_bimod,Acinar,20,0.6
+lawlor,seurat_bimod,Alpha,20,0.4
+lawlor,seurat_bimod,Beta,20,0.4
+lawlor,seurat_bimod,Delta,12,0.4166666666666667
+lawlor,seurat_bimod,Ductal,20,0.1
+lawlor,seurat_bimod,Gamma/PP,11,0.45454545454545453
+lawlor,seurat_bimod,Stellate,5,0.4
+lawlor,seurat_negbinom,Acinar,20,0.0
+lawlor,seurat_negbinom,Alpha,20,0.05
+lawlor,seurat_negbinom,Beta,20,0.1
+lawlor,seurat_negbinom,Delta,12,0.0
+lawlor,seurat_negbinom,Ductal,20,0.0
+lawlor,seurat_negbinom,Gamma/PP,11,0.0
+lawlor,seurat_negbinom,Stellate,5,0.0
+lawlor,seurat_poisson,Acinar,20,0.45
+lawlor,seurat_poisson,Alpha,20,0.3
+lawlor,seurat_poisson,Beta,20,0.25
+lawlor,seurat_poisson,Delta,12,0.4166666666666667
+lawlor,seurat_poisson,Ductal,20,0.35
+lawlor,seurat_poisson,Gamma/PP,11,0.36363636363636365
+lawlor,seurat_poisson,Stellate,5,0.2
+lawlor,seurat_roc,Acinar,20,0.55
+lawlor,seurat_roc,Alpha,20,0.3
+lawlor,seurat_roc,Beta,20,0.4
+lawlor,seurat_roc,Delta,12,0.3333333333333333
+lawlor,seurat_roc,Ductal,20,0.3
+lawlor,seurat_roc,Gamma/PP,11,0.2727272727272727
+lawlor,seurat_roc,Stellate,5,0.6
+lawlor,seurat_t,Acinar,20,0.0
+lawlor,seurat_t,Alpha,20,0.3
+lawlor,seurat_t,Beta,20,0.35
+lawlor,seurat_t,Delta,12,0.0
+lawlor,seurat_t,Ductal,20,0.0
+lawlor,seurat_t,Gamma/PP,11,0.0
+lawlor,seurat_t,Stellate,5,0.0
+lawlor,seurat_wilcox,Acinar,20,0.2
+lawlor,seurat_wilcox,Alpha,20,0.4
+lawlor,seurat_wilcox,Beta,20,0.45
+lawlor,seurat_wilcox,Delta,12,0.4166666666666667
+lawlor,seurat_wilcox,Ductal,20,0.1
+lawlor,seurat_wilcox,Gamma/PP,11,0.5454545454545454
+lawlor,seurat_wilcox,Stellate,5,0.4
+ss3_pbmc,cepo,CD14 monocytes,20,0.15
+ss3_pbmc,cepo,Cytotoxic T,3,0.0
+ss3_pbmc,cepo,Dendritic cells,20,0.2
+ss3_pbmc,cepo,NK cells,20,0.2
+ss3_pbmc,cepo,Naive B,12,0.25
+ss3_pbmc,cepo,Naive/Memory CD8 T,20,0.2
+ss3_pbmc,cepo,Plasma cells,20,0.25
+ss3_pbmc,cepo,plasmacytoid DC,20,0.3
+ss3_pbmc,cosg,CD14 monocytes,20,0.2
+ss3_pbmc,cosg,Cytotoxic T,3,0.0
+ss3_pbmc,cosg,Dendritic cells,20,0.3
+ss3_pbmc,cosg,NK cells,20,0.3
+ss3_pbmc,cosg,Naive B,12,0.5
+ss3_pbmc,cosg,Naive/Memory CD8 T,20,0.2
+ss3_pbmc,cosg,Plasma cells,20,0.15
+ss3_pbmc,cosg,plasmacytoid DC,20,0.3
+ss3_pbmc,edger_glm,CD14 monocytes,20,0.1
+ss3_pbmc,edger_glm,Cytotoxic T,3,0.0
+ss3_pbmc,edger_glm,Dendritic cells,20,0.3
+ss3_pbmc,edger_glm,NK cells,20,0.2
+ss3_pbmc,edger_glm,Naive B,12,0.3333333333333333
+ss3_pbmc,edger_glm,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,edger_glm,Plasma cells,20,0.15
+ss3_pbmc,edger_glm,plasmacytoid DC,20,0.3
+ss3_pbmc,edger_ql,CD14 monocytes,20,0.1
+ss3_pbmc,edger_ql,Cytotoxic T,3,0.0
+ss3_pbmc,edger_ql,Dendritic cells,20,0.4
+ss3_pbmc,edger_ql,NK cells,20,0.45
+ss3_pbmc,edger_ql,Naive B,12,0.4166666666666667
+ss3_pbmc,edger_ql,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,edger_ql,Plasma cells,20,0.15
+ss3_pbmc,edger_ql,plasmacytoid DC,20,0.4
+ss3_pbmc,glmgampoi,CD14 monocytes,20,0.1
+ss3_pbmc,glmgampoi,Cytotoxic T,3,0.0
+ss3_pbmc,glmgampoi,Dendritic cells,20,0.3
+ss3_pbmc,glmgampoi,NK cells,20,0.1
+ss3_pbmc,glmgampoi,Naive B,12,0.3333333333333333
+ss3_pbmc,glmgampoi,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,glmgampoi,Plasma cells,20,0.15
+ss3_pbmc,glmgampoi,plasmacytoid DC,20,0.4
+ss3_pbmc,limma_trend,CD14 monocytes,20,0.1
+ss3_pbmc,limma_trend,Cytotoxic T,3,0.0
+ss3_pbmc,limma_trend,Dendritic cells,20,0.35
+ss3_pbmc,limma_trend,NK cells,20,0.4
+ss3_pbmc,limma_trend,Naive B,12,0.5
+ss3_pbmc,limma_trend,Naive/Memory CD8 T,20,0.35
+ss3_pbmc,limma_trend,Plasma cells,20,0.2
+ss3_pbmc,limma_trend,plasmacytoid DC,20,0.3
+ss3_pbmc,limma_voom,CD14 monocytes,20,0.0
+ss3_pbmc,limma_voom,Cytotoxic T,3,0.0
+ss3_pbmc,limma_voom,Dendritic cells,20,0.0
+ss3_pbmc,limma_voom,NK cells,20,0.2
+ss3_pbmc,limma_voom,Naive B,12,0.0
+ss3_pbmc,limma_voom,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,limma_voom,Plasma cells,20,0.0
+ss3_pbmc,limma_voom,plasmacytoid DC,20,0.0
+ss3_pbmc,lm_two_sample,CD14 monocytes,20,0.1
+ss3_pbmc,lm_two_sample,Cytotoxic T,3,0.0
+ss3_pbmc,lm_two_sample,Dendritic cells,20,0.3
+ss3_pbmc,lm_two_sample,NK cells,20,0.35
+ss3_pbmc,lm_two_sample,Naive B,12,0.4166666666666667
+ss3_pbmc,lm_two_sample,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,lm_two_sample,Plasma cells,20,0.25
+ss3_pbmc,lm_two_sample,plasmacytoid DC,20,0.35
+ss3_pbmc,logfc_abs,CD14 monocytes,20,0.0
+ss3_pbmc,logfc_abs,Cytotoxic T,3,0.0
+ss3_pbmc,logfc_abs,Dendritic cells,20,0.0
+ss3_pbmc,logfc_abs,NK cells,20,0.0
+ss3_pbmc,logfc_abs,Naive B,12,0.0
+ss3_pbmc,logfc_abs,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,logfc_abs,Plasma cells,20,0.0
+ss3_pbmc,logfc_abs,plasmacytoid DC,20,0.0
+ss3_pbmc,logfc_raw,CD14 monocytes,20,0.05
+ss3_pbmc,logfc_raw,Cytotoxic T,3,0.0
+ss3_pbmc,logfc_raw,Dendritic cells,20,0.35
+ss3_pbmc,logfc_raw,NK cells,20,0.3
+ss3_pbmc,logfc_raw,Naive B,12,0.16666666666666666
+ss3_pbmc,logfc_raw,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,logfc_raw,Plasma cells,20,0.1
+ss3_pbmc,logfc_raw,plasmacytoid DC,20,0.35
+ss3_pbmc,random,CD14 monocytes,20,0.0
+ss3_pbmc,random,Cytotoxic T,3,0.0
+ss3_pbmc,random,Dendritic cells,20,0.0
+ss3_pbmc,random,NK cells,20,0.0
+ss3_pbmc,random,Naive B,12,0.0
+ss3_pbmc,random,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,random,Plasma cells,20,0.0
+ss3_pbmc,random,plasmacytoid DC,20,0.0
+ss3_pbmc,scanpy_t_rankby_abs,CD14 monocytes,20,0.0
+ss3_pbmc,scanpy_t_rankby_abs,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_t_rankby_abs,Dendritic cells,20,0.05
+ss3_pbmc,scanpy_t_rankby_abs,NK cells,20,0.25
+ss3_pbmc,scanpy_t_rankby_abs,Naive B,12,0.16666666666666666
+ss3_pbmc,scanpy_t_rankby_abs,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scanpy_t_rankby_abs,Plasma cells,20,0.0
+ss3_pbmc,scanpy_t_rankby_abs,plasmacytoid DC,20,0.0
+ss3_pbmc,scanpy_t_rankby_raw,CD14 monocytes,20,0.05
+ss3_pbmc,scanpy_t_rankby_raw,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_t_rankby_raw,Dendritic cells,20,0.15
+ss3_pbmc,scanpy_t_rankby_raw,NK cells,20,0.35
+ss3_pbmc,scanpy_t_rankby_raw,Naive B,12,0.3333333333333333
+ss3_pbmc,scanpy_t_rankby_raw,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scanpy_t_rankby_raw,Plasma cells,20,0.0
+ss3_pbmc,scanpy_t_rankby_raw,plasmacytoid DC,20,0.15
+ss3_pbmc,scanpy_tover_rankby_abs,CD14 monocytes,20,0.0
+ss3_pbmc,scanpy_tover_rankby_abs,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_tover_rankby_abs,Dendritic cells,20,0.2
+ss3_pbmc,scanpy_tover_rankby_abs,NK cells,20,0.35
+ss3_pbmc,scanpy_tover_rankby_abs,Naive B,12,0.3333333333333333
+ss3_pbmc,scanpy_tover_rankby_abs,Naive/Memory CD8 T,20,0.15
+ss3_pbmc,scanpy_tover_rankby_abs,Plasma cells,20,0.05
+ss3_pbmc,scanpy_tover_rankby_abs,plasmacytoid DC,20,0.2
+ss3_pbmc,scanpy_tover_rankby_raw,CD14 monocytes,20,0.05
+ss3_pbmc,scanpy_tover_rankby_raw,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_tover_rankby_raw,Dendritic cells,20,0.2
+ss3_pbmc,scanpy_tover_rankby_raw,NK cells,20,0.35
+ss3_pbmc,scanpy_tover_rankby_raw,Naive B,12,0.3333333333333333
+ss3_pbmc,scanpy_tover_rankby_raw,Naive/Memory CD8 T,20,0.15
+ss3_pbmc,scanpy_tover_rankby_raw,Plasma cells,20,0.05
+ss3_pbmc,scanpy_tover_rankby_raw,plasmacytoid DC,20,0.2
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,CD14 monocytes,20,0.0
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,Dendritic cells,20,0.15
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,NK cells,20,0.35
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,Naive B,12,0.3333333333333333
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,Plasma cells,20,0.1
+ss3_pbmc,scanpy_wilcoxon_rankby_abs,plasmacytoid DC,20,0.25
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,CD14 monocytes,20,0.05
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,Dendritic cells,20,0.15
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,NK cells,20,0.35
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,Naive B,12,0.3333333333333333
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,Plasma cells,20,0.1
+ss3_pbmc,scanpy_wilcoxon_rankby_raw,plasmacytoid DC,20,0.25
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,CD14 monocytes,20,0.1
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,Dendritic cells,20,0.3
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,NK cells,20,0.4
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,Naive B,12,0.4166666666666667
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,Plasma cells,20,0.15
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_abs,plasmacytoid DC,20,0.2
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,CD14 monocytes,20,0.1
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,Cytotoxic T,3,0.0
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,Dendritic cells,20,0.3
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,NK cells,20,0.4
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,Naive B,12,0.4166666666666667
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,Plasma cells,20,0.15
+ss3_pbmc,scanpy_wilcoxontiecorrect_rankby_raw,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_findMarkers_binom_all,CD14 monocytes,20,0.1
+ss3_pbmc,scran_findMarkers_binom_all,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_binom_all,Dendritic cells,20,0.3
+ss3_pbmc,scran_findMarkers_binom_all,NK cells,20,0.25
+ss3_pbmc,scran_findMarkers_binom_all,Naive B,12,0.25
+ss3_pbmc,scran_findMarkers_binom_all,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,scran_findMarkers_binom_all,Plasma cells,20,0.15
+ss3_pbmc,scran_findMarkers_binom_all,plasmacytoid DC,20,0.3
+ss3_pbmc,scran_findMarkers_binom_any,CD14 monocytes,20,0.0
+ss3_pbmc,scran_findMarkers_binom_any,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_binom_any,Dendritic cells,20,0.15
+ss3_pbmc,scran_findMarkers_binom_any,NK cells,20,0.2
+ss3_pbmc,scran_findMarkers_binom_any,Naive B,12,0.25
+ss3_pbmc,scran_findMarkers_binom_any,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scran_findMarkers_binom_any,Plasma cells,20,0.05
+ss3_pbmc,scran_findMarkers_binom_any,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_findMarkers_binom_some,CD14 monocytes,20,0.05
+ss3_pbmc,scran_findMarkers_binom_some,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_binom_some,Dendritic cells,20,0.1
+ss3_pbmc,scran_findMarkers_binom_some,NK cells,20,0.3
+ss3_pbmc,scran_findMarkers_binom_some,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_findMarkers_binom_some,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,scran_findMarkers_binom_some,Plasma cells,20,0.2
+ss3_pbmc,scran_findMarkers_binom_some,plasmacytoid DC,20,0.1
+ss3_pbmc,scran_findMarkers_t_all,CD14 monocytes,20,0.1
+ss3_pbmc,scran_findMarkers_t_all,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_t_all,Dendritic cells,20,0.25
+ss3_pbmc,scran_findMarkers_t_all,NK cells,20,0.4
+ss3_pbmc,scran_findMarkers_t_all,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_findMarkers_t_all,Naive/Memory CD8 T,20,0.35
+ss3_pbmc,scran_findMarkers_t_all,Plasma cells,20,0.1
+ss3_pbmc,scran_findMarkers_t_all,plasmacytoid DC,20,0.3
+ss3_pbmc,scran_findMarkers_t_any,CD14 monocytes,20,0.0
+ss3_pbmc,scran_findMarkers_t_any,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_t_any,Dendritic cells,20,0.15
+ss3_pbmc,scran_findMarkers_t_any,NK cells,20,0.2
+ss3_pbmc,scran_findMarkers_t_any,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_findMarkers_t_any,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,scran_findMarkers_t_any,Plasma cells,20,0.0
+ss3_pbmc,scran_findMarkers_t_any,plasmacytoid DC,20,0.05
+ss3_pbmc,scran_findMarkers_t_some,CD14 monocytes,20,0.0
+ss3_pbmc,scran_findMarkers_t_some,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_t_some,Dendritic cells,20,0.15
+ss3_pbmc,scran_findMarkers_t_some,NK cells,20,0.4
+ss3_pbmc,scran_findMarkers_t_some,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_findMarkers_t_some,Naive/Memory CD8 T,20,0.2
+ss3_pbmc,scran_findMarkers_t_some,Plasma cells,20,0.0
+ss3_pbmc,scran_findMarkers_t_some,plasmacytoid DC,20,0.05
+ss3_pbmc,scran_findMarkers_wilcox_all,CD14 monocytes,20,0.05
+ss3_pbmc,scran_findMarkers_wilcox_all,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_wilcox_all,Dendritic cells,20,0.25
+ss3_pbmc,scran_findMarkers_wilcox_all,NK cells,20,0.4
+ss3_pbmc,scran_findMarkers_wilcox_all,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_findMarkers_wilcox_all,Naive/Memory CD8 T,20,0.2
+ss3_pbmc,scran_findMarkers_wilcox_all,Plasma cells,20,0.1
+ss3_pbmc,scran_findMarkers_wilcox_all,plasmacytoid DC,20,0.35
+ss3_pbmc,scran_findMarkers_wilcox_any,CD14 monocytes,20,0.0
+ss3_pbmc,scran_findMarkers_wilcox_any,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_wilcox_any,Dendritic cells,20,0.15
+ss3_pbmc,scran_findMarkers_wilcox_any,NK cells,20,0.15
+ss3_pbmc,scran_findMarkers_wilcox_any,Naive B,12,0.25
+ss3_pbmc,scran_findMarkers_wilcox_any,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scran_findMarkers_wilcox_any,Plasma cells,20,0.05
+ss3_pbmc,scran_findMarkers_wilcox_any,plasmacytoid DC,20,0.15
+ss3_pbmc,scran_findMarkers_wilcox_some,CD14 monocytes,20,0.05
+ss3_pbmc,scran_findMarkers_wilcox_some,Cytotoxic T,3,0.0
+ss3_pbmc,scran_findMarkers_wilcox_some,Dendritic cells,20,0.1
+ss3_pbmc,scran_findMarkers_wilcox_some,NK cells,20,0.35
+ss3_pbmc,scran_findMarkers_wilcox_some,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_findMarkers_wilcox_some,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scran_findMarkers_wilcox_some,Plasma cells,20,0.25
+ss3_pbmc,scran_findMarkers_wilcox_some,plasmacytoid DC,20,0.1
+ss3_pbmc,scran_scoreMarkers_max_AUC,CD14 monocytes,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_AUC,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_max_AUC,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_max_AUC,NK cells,20,0.1
+ss3_pbmc,scran_scoreMarkers_max_AUC,Naive B,12,0.16666666666666666
+ss3_pbmc,scran_scoreMarkers_max_AUC,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_AUC,Plasma cells,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_AUC,plasmacytoid DC,20,0.05
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,CD14 monocytes,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,NK cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,Naive B,12,0.16666666666666666
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,Plasma cells,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_cohen,plasmacytoid DC,20,0.15
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,Dendritic cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,NK cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,Naive B,12,0.25
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,Plasma cells,20,0.0
+ss3_pbmc,scran_scoreMarkers_max_logFC_detected,plasmacytoid DC,20,0.1
+ss3_pbmc,scran_scoreMarkers_mean_AUC,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_mean_AUC,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_mean_AUC,Dendritic cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_mean_AUC,NK cells,20,0.4
+ss3_pbmc,scran_scoreMarkers_mean_AUC,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_mean_AUC,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,scran_scoreMarkers_mean_AUC,Plasma cells,20,0.1
+ss3_pbmc,scran_scoreMarkers_mean_AUC,plasmacytoid DC,20,0.25
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,Dendritic cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,NK cells,20,0.4
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,Plasma cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_mean_logFC_cohen,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,CD14 monocytes,20,0.1
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,Dendritic cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,NK cells,20,0.3
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,Plasma cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_mean_logFC_detected,plasmacytoid DC,20,0.3
+ss3_pbmc,scran_scoreMarkers_median_AUC,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_median_AUC,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_median_AUC,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_median_AUC,NK cells,20,0.35
+ss3_pbmc,scran_scoreMarkers_median_AUC,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_median_AUC,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scran_scoreMarkers_median_AUC,Plasma cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_median_AUC,plasmacytoid DC,20,0.15
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,Dendritic cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,NK cells,20,0.4
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,Naive/Memory CD8 T,20,0.15
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,Plasma cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_median_logFC_cohen,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,CD14 monocytes,20,0.1
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,NK cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,Naive/Memory CD8 T,20,0.25
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,Plasma cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_median_logFC_detected,plasmacytoid DC,20,0.05
+ss3_pbmc,scran_scoreMarkers_min_AUC,CD14 monocytes,20,0.1
+ss3_pbmc,scran_scoreMarkers_min_AUC,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_min_AUC,Dendritic cells,20,0.3
+ss3_pbmc,scran_scoreMarkers_min_AUC,NK cells,20,0.3
+ss3_pbmc,scran_scoreMarkers_min_AUC,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_scoreMarkers_min_AUC,Naive/Memory CD8 T,20,0.35
+ss3_pbmc,scran_scoreMarkers_min_AUC,Plasma cells,20,0.1
+ss3_pbmc,scran_scoreMarkers_min_AUC,plasmacytoid DC,20,0.45
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,CD14 monocytes,20,0.1
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,Dendritic cells,20,0.3
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,NK cells,20,0.3
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,Naive B,12,0.5
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,Naive/Memory CD8 T,20,0.25
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,Plasma cells,20,0.1
+ss3_pbmc,scran_scoreMarkers_min_logFC_cohen,plasmacytoid DC,20,0.45
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,CD14 monocytes,20,0.3
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,Dendritic cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,NK cells,20,0.1
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,Naive B,12,0.25
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,Naive/Memory CD8 T,20,0.2
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,Plasma cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_min_logFC_detected,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_scoreMarkers_rank_AUC,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_AUC,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_rank_AUC,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_rank_AUC,NK cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_rank_AUC,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_scoreMarkers_rank_AUC,Naive/Memory CD8 T,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_AUC,Plasma cells,20,0.0
+ss3_pbmc,scran_scoreMarkers_rank_AUC,plasmacytoid DC,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,Dendritic cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,NK cells,20,0.25
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,Naive B,12,0.4166666666666667
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,Plasma cells,20,0.0
+ss3_pbmc,scran_scoreMarkers_rank_logFC_cohen,plasmacytoid DC,20,0.2
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,CD14 monocytes,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,Cytotoxic T,3,0.0
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,Dendritic cells,20,0.15
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,NK cells,20,0.2
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,Naive B,12,0.3333333333333333
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,Naive/Memory CD8 T,20,0.25
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,Plasma cells,20,0.05
+ss3_pbmc,scran_scoreMarkers_rank_logFC_detected,plasmacytoid DC,20,0.1
+ss3_pbmc,seurat_LR,CD14 monocytes,20,0.05
+ss3_pbmc,seurat_LR,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_LR,Dendritic cells,20,0.25
+ss3_pbmc,seurat_LR,NK cells,20,0.4
+ss3_pbmc,seurat_LR,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_LR,Naive/Memory CD8 T,20,0.15
+ss3_pbmc,seurat_LR,Plasma cells,20,0.15
+ss3_pbmc,seurat_LR,plasmacytoid DC,20,0.55
+ss3_pbmc,seurat_MAST,CD14 monocytes,20,0.05
+ss3_pbmc,seurat_MAST,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_MAST,Dendritic cells,20,0.25
+ss3_pbmc,seurat_MAST,NK cells,20,0.35
+ss3_pbmc,seurat_MAST,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_MAST,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,seurat_MAST,Plasma cells,20,0.2
+ss3_pbmc,seurat_MAST,plasmacytoid DC,20,0.5
+ss3_pbmc,seurat_bimod,CD14 monocytes,20,0.05
+ss3_pbmc,seurat_bimod,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_bimod,Dendritic cells,20,0.3
+ss3_pbmc,seurat_bimod,NK cells,20,0.35
+ss3_pbmc,seurat_bimod,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_bimod,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,seurat_bimod,Plasma cells,20,0.2
+ss3_pbmc,seurat_bimod,plasmacytoid DC,20,0.45
+ss3_pbmc,seurat_negbinom,CD14 monocytes,20,0.0
+ss3_pbmc,seurat_negbinom,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_negbinom,Dendritic cells,20,0.1
+ss3_pbmc,seurat_negbinom,NK cells,20,0.1
+ss3_pbmc,seurat_negbinom,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_negbinom,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,seurat_negbinom,Plasma cells,20,0.0
+ss3_pbmc,seurat_negbinom,plasmacytoid DC,20,0.05
+ss3_pbmc,seurat_poisson,CD14 monocytes,20,0.05
+ss3_pbmc,seurat_poisson,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_poisson,Dendritic cells,20,0.1
+ss3_pbmc,seurat_poisson,NK cells,20,0.35
+ss3_pbmc,seurat_poisson,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_poisson,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,seurat_poisson,Plasma cells,20,0.2
+ss3_pbmc,seurat_poisson,plasmacytoid DC,20,0.3
+ss3_pbmc,seurat_roc,CD14 monocytes,20,0.0
+ss3_pbmc,seurat_roc,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_roc,Dendritic cells,20,0.15
+ss3_pbmc,seurat_roc,NK cells,20,0.35
+ss3_pbmc,seurat_roc,Naive B,12,0.3333333333333333
+ss3_pbmc,seurat_roc,Naive/Memory CD8 T,20,0.1
+ss3_pbmc,seurat_roc,Plasma cells,20,0.05
+ss3_pbmc,seurat_roc,plasmacytoid DC,20,0.3
+ss3_pbmc,seurat_t,CD14 monocytes,20,0.0
+ss3_pbmc,seurat_t,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_t,Dendritic cells,20,0.0
+ss3_pbmc,seurat_t,NK cells,20,0.15
+ss3_pbmc,seurat_t,Naive B,12,0.0
+ss3_pbmc,seurat_t,Naive/Memory CD8 T,20,0.0
+ss3_pbmc,seurat_t,Plasma cells,20,0.0
+ss3_pbmc,seurat_t,plasmacytoid DC,20,0.0
+ss3_pbmc,seurat_wilcox,CD14 monocytes,20,0.1
+ss3_pbmc,seurat_wilcox,Cytotoxic T,3,0.0
+ss3_pbmc,seurat_wilcox,Dendritic cells,20,0.3
+ss3_pbmc,seurat_wilcox,NK cells,20,0.4
+ss3_pbmc,seurat_wilcox,Naive B,12,0.4166666666666667
+ss3_pbmc,seurat_wilcox,Naive/Memory CD8 T,20,0.3
+ss3_pbmc,seurat_wilcox,Plasma cells,20,0.15
+ss3_pbmc,seurat_wilcox,plasmacytoid DC,20,0.2
+ren,cepo,CD16+ NK cells,20,0.25
+ren,cepo,Classical monocytes,20,0.15
+ren,cepo,DC2,1,0.0
+ren,cepo,Non-classical monocytes,20,0.2
+ren,cepo,Regulatory T cells,20,0.4
+ren,cepo,Tcm/Naive cytotoxic T cells,20,0.25
+ren,cepo,Tcm/Naive helper T cells,20,0.1
+ren,cepo,Tem/Trm cytotoxic T cells,2,0.0
+ren,cosg,CD16+ NK cells,20,0.35
+ren,cosg,Classical monocytes,20,0.3
+ren,cosg,DC2,1,1.0
+ren,cosg,Naive B cells,17,0.4117647058823529
+ren,cosg,Non-classical monocytes,20,0.25
+ren,cosg,Regulatory T cells,20,0.45
+ren,cosg,Tcm/Naive cytotoxic T cells,20,0.25
+ren,cosg,Tcm/Naive helper T cells,20,0.05
+ren,cosg,Tem/Trm cytotoxic T cells,2,0.0
+ren,edger_glm,CD16+ NK cells,20,0.35
+ren,edger_glm,Classical monocytes,20,0.2
+ren,edger_glm,DC2,1,1.0
+ren,edger_glm,Naive B cells,17,0.23529411764705882
+ren,edger_glm,Non-classical monocytes,20,0.15
+ren,edger_glm,Regulatory T cells,20,0.3
+ren,edger_glm,Tcm/Naive cytotoxic T cells,20,0.0
+ren,edger_glm,Tcm/Naive helper T cells,20,0.0
+ren,edger_glm,Tem/Trm cytotoxic T cells,2,0.0
+ren,edger_ql,CD16+ NK cells,20,0.2
+ren,edger_ql,Classical monocytes,20,0.2
+ren,edger_ql,DC2,1,1.0
+ren,edger_ql,Naive B cells,17,0.17647058823529413
+ren,edger_ql,Non-classical monocytes,20,0.2
+ren,edger_ql,Regulatory T cells,20,0.25
+ren,edger_ql,Tcm/Naive cytotoxic T cells,20,0.0
+ren,edger_ql,Tcm/Naive helper T cells,20,0.0
+ren,edger_ql,Tem/Trm cytotoxic T cells,2,0.0
+ren,glmgampoi,CD16+ NK cells,20,0.15
+ren,glmgampoi,Classical monocytes,20,0.05
+ren,glmgampoi,DC2,1,1.0
+ren,glmgampoi,Naive B cells,17,0.17647058823529413
+ren,glmgampoi,Non-classical monocytes,20,0.1
+ren,glmgampoi,Regulatory T cells,20,0.4
+ren,glmgampoi,Tcm/Naive cytotoxic T cells,20,0.0
+ren,glmgampoi,Tcm/Naive helper T cells,20,0.0
+ren,glmgampoi,Tem/Trm cytotoxic T cells,2,0.0
+ren,limma_trend,CD16+ NK cells,20,0.55
+ren,limma_trend,Classical monocytes,20,0.3
+ren,limma_trend,DC2,1,1.0
+ren,limma_trend,Naive B cells,17,0.47058823529411764
+ren,limma_trend,Non-classical monocytes,20,0.15
+ren,limma_trend,Regulatory T cells,20,0.4
+ren,limma_trend,Tcm/Naive cytotoxic T cells,20,0.1
+ren,limma_trend,Tcm/Naive helper T cells,20,0.0
+ren,limma_trend,Tem/Trm cytotoxic T cells,2,0.0
+ren,limma_voom,CD16+ NK cells,20,0.1
+ren,limma_voom,Classical monocytes,20,0.3
+ren,limma_voom,DC2,1,0.0
+ren,limma_voom,Naive B cells,17,0.058823529411764705
+ren,limma_voom,Non-classical monocytes,20,0.0
+ren,limma_voom,Regulatory T cells,20,0.0
+ren,limma_voom,Tcm/Naive cytotoxic T cells,20,0.0
+ren,limma_voom,Tcm/Naive helper T cells,20,0.0
+ren,limma_voom,Tem/Trm cytotoxic T cells,2,0.0
+ren,lm_two_sample,CD16+ NK cells,20,0.5
+ren,lm_two_sample,Classical monocytes,20,0.3
+ren,lm_two_sample,DC2,1,1.0
+ren,lm_two_sample,Naive B cells,17,0.5294117647058824
+ren,lm_two_sample,Non-classical monocytes,20,0.2
+ren,lm_two_sample,Regulatory T cells,20,0.4
+ren,lm_two_sample,Tcm/Naive cytotoxic T cells,20,0.05
+ren,lm_two_sample,Tcm/Naive helper T cells,20,0.0
+ren,lm_two_sample,Tem/Trm cytotoxic T cells,2,0.0
+ren,logfc_abs,CD16+ NK cells,20,0.3
+ren,logfc_abs,Classical monocytes,20,0.3
+ren,logfc_abs,DC2,1,0.0
+ren,logfc_abs,Naive B cells,17,0.23529411764705882
+ren,logfc_abs,Non-classical monocytes,20,0.0
+ren,logfc_abs,Regulatory T cells,20,0.0
+ren,logfc_abs,Tcm/Naive cytotoxic T cells,20,0.0
+ren,logfc_abs,Tcm/Naive helper T cells,20,0.0
+ren,logfc_abs,Tem/Trm cytotoxic T cells,2,0.0
+ren,logfc_raw,CD16+ NK cells,20,0.55
+ren,logfc_raw,Classical monocytes,20,0.35
+ren,logfc_raw,DC2,1,0.0
+ren,logfc_raw,Naive B cells,17,0.29411764705882354
+ren,logfc_raw,Non-classical monocytes,20,0.05
+ren,logfc_raw,Regulatory T cells,20,0.1
+ren,logfc_raw,Tcm/Naive cytotoxic T cells,20,0.0
+ren,logfc_raw,Tcm/Naive helper T cells,20,0.0
+ren,logfc_raw,Tem/Trm cytotoxic T cells,2,0.0
+ren,random,CD16+ NK cells,20,0.0
+ren,random,Classical monocytes,20,0.0
+ren,random,DC2,1,0.0
+ren,random,Naive B cells,17,0.0
+ren,random,Non-classical monocytes,20,0.0
+ren,random,Regulatory T cells,20,0.0
+ren,random,Tcm/Naive cytotoxic T cells,20,0.05
+ren,random,Tcm/Naive helper T cells,20,0.0
+ren,random,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_t_rankby_abs,CD16+ NK cells,20,0.45
+ren,scanpy_t_rankby_abs,Classical monocytes,20,0.15
+ren,scanpy_t_rankby_abs,DC2,1,0.0
+ren,scanpy_t_rankby_abs,Naive B cells,17,0.11764705882352941
+ren,scanpy_t_rankby_abs,Non-classical monocytes,20,0.0
+ren,scanpy_t_rankby_abs,Regulatory T cells,20,0.0
+ren,scanpy_t_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_t_rankby_abs,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_t_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_t_rankby_raw,CD16+ NK cells,20,0.55
+ren,scanpy_t_rankby_raw,Classical monocytes,20,0.2
+ren,scanpy_t_rankby_raw,DC2,1,0.0
+ren,scanpy_t_rankby_raw,Naive B cells,17,0.35294117647058826
+ren,scanpy_t_rankby_raw,Non-classical monocytes,20,0.0
+ren,scanpy_t_rankby_raw,Regulatory T cells,20,0.05
+ren,scanpy_t_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_t_rankby_raw,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_t_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_tover_rankby_abs,CD16+ NK cells,20,0.5
+ren,scanpy_tover_rankby_abs,Classical monocytes,20,0.25
+ren,scanpy_tover_rankby_abs,DC2,1,0.0
+ren,scanpy_tover_rankby_abs,Naive B cells,17,0.35294117647058826
+ren,scanpy_tover_rankby_abs,Non-classical monocytes,20,0.0
+ren,scanpy_tover_rankby_abs,Regulatory T cells,20,0.05
+ren,scanpy_tover_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_tover_rankby_abs,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_tover_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_tover_rankby_raw,CD16+ NK cells,20,0.55
+ren,scanpy_tover_rankby_raw,Classical monocytes,20,0.25
+ren,scanpy_tover_rankby_raw,DC2,1,0.0
+ren,scanpy_tover_rankby_raw,Naive B cells,17,0.4117647058823529
+ren,scanpy_tover_rankby_raw,Non-classical monocytes,20,0.0
+ren,scanpy_tover_rankby_raw,Regulatory T cells,20,0.25
+ren,scanpy_tover_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_tover_rankby_raw,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_tover_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_wilcoxon_rankby_abs,CD16+ NK cells,20,0.45
+ren,scanpy_wilcoxon_rankby_abs,Classical monocytes,20,0.25
+ren,scanpy_wilcoxon_rankby_abs,DC2,1,0.0
+ren,scanpy_wilcoxon_rankby_abs,Naive B cells,17,0.29411764705882354
+ren,scanpy_wilcoxon_rankby_abs,Non-classical monocytes,20,0.0
+ren,scanpy_wilcoxon_rankby_abs,Regulatory T cells,20,0.1
+ren,scanpy_wilcoxon_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_wilcoxon_rankby_abs,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_wilcoxon_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_wilcoxon_rankby_raw,CD16+ NK cells,20,0.55
+ren,scanpy_wilcoxon_rankby_raw,Classical monocytes,20,0.25
+ren,scanpy_wilcoxon_rankby_raw,DC2,1,0.0
+ren,scanpy_wilcoxon_rankby_raw,Naive B cells,17,0.35294117647058826
+ren,scanpy_wilcoxon_rankby_raw,Non-classical monocytes,20,0.0
+ren,scanpy_wilcoxon_rankby_raw,Regulatory T cells,20,0.1
+ren,scanpy_wilcoxon_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scanpy_wilcoxon_rankby_raw,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_wilcoxon_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_wilcoxontiecorrect_rankby_abs,CD16+ NK cells,20,0.5
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Classical monocytes,20,0.25
+ren,scanpy_wilcoxontiecorrect_rankby_abs,DC2,1,1.0
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Naive B cells,17,0.47058823529411764
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Non-classical monocytes,20,0.25
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Regulatory T cells,20,0.4
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.05
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_wilcoxontiecorrect_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+ren,scanpy_wilcoxontiecorrect_rankby_raw,CD16+ NK cells,20,0.5
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Classical monocytes,20,0.25
+ren,scanpy_wilcoxontiecorrect_rankby_raw,DC2,1,1.0
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Naive B cells,17,0.47058823529411764
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Non-classical monocytes,20,0.25
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Regulatory T cells,20,0.4
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.05
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive helper T cells,20,0.0
+ren,scanpy_wilcoxontiecorrect_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_binom_all,CD16+ NK cells,20,0.2
+ren,scran_findMarkers_binom_all,Classical monocytes,20,0.2
+ren,scran_findMarkers_binom_all,DC2,1,0.0
+ren,scran_findMarkers_binom_all,Naive B cells,17,0.29411764705882354
+ren,scran_findMarkers_binom_all,Non-classical monocytes,20,0.2
+ren,scran_findMarkers_binom_all,Regulatory T cells,20,0.35
+ren,scran_findMarkers_binom_all,Tcm/Naive cytotoxic T cells,20,0.2
+ren,scran_findMarkers_binom_all,Tcm/Naive helper T cells,20,0.05
+ren,scran_findMarkers_binom_all,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_binom_any,CD16+ NK cells,20,0.15
+ren,scran_findMarkers_binom_any,Classical monocytes,20,0.0
+ren,scran_findMarkers_binom_any,DC2,1,1.0
+ren,scran_findMarkers_binom_any,Naive B cells,17,0.11764705882352941
+ren,scran_findMarkers_binom_any,Non-classical monocytes,20,0.05
+ren,scran_findMarkers_binom_any,Regulatory T cells,20,0.1
+ren,scran_findMarkers_binom_any,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_binom_any,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_binom_any,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_binom_some,CD16+ NK cells,20,0.45
+ren,scran_findMarkers_binom_some,Classical monocytes,20,0.15
+ren,scran_findMarkers_binom_some,DC2,1,0.0
+ren,scran_findMarkers_binom_some,Naive B cells,17,0.4117647058823529
+ren,scran_findMarkers_binom_some,Non-classical monocytes,20,0.1
+ren,scran_findMarkers_binom_some,Regulatory T cells,20,0.4
+ren,scran_findMarkers_binom_some,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_binom_some,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_binom_some,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_t_all,CD16+ NK cells,20,0.25
+ren,scran_findMarkers_t_all,Classical monocytes,20,0.35
+ren,scran_findMarkers_t_all,DC2,1,0.0
+ren,scran_findMarkers_t_all,Naive B cells,17,0.4117647058823529
+ren,scran_findMarkers_t_all,Non-classical monocytes,20,0.15
+ren,scran_findMarkers_t_all,Regulatory T cells,20,0.3
+ren,scran_findMarkers_t_all,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_t_all,Tcm/Naive helper T cells,20,0.05
+ren,scran_findMarkers_t_all,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_t_any,CD16+ NK cells,20,0.35
+ren,scran_findMarkers_t_any,Classical monocytes,20,0.25
+ren,scran_findMarkers_t_any,DC2,1,0.0
+ren,scran_findMarkers_t_any,Naive B cells,17,0.4117647058823529
+ren,scran_findMarkers_t_any,Non-classical monocytes,20,0.0
+ren,scran_findMarkers_t_any,Regulatory T cells,20,0.0
+ren,scran_findMarkers_t_any,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_t_any,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_t_any,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_t_some,CD16+ NK cells,20,0.5
+ren,scran_findMarkers_t_some,Classical monocytes,20,0.2
+ren,scran_findMarkers_t_some,DC2,1,0.0
+ren,scran_findMarkers_t_some,Naive B cells,17,0.35294117647058826
+ren,scran_findMarkers_t_some,Non-classical monocytes,20,0.0
+ren,scran_findMarkers_t_some,Regulatory T cells,20,0.0
+ren,scran_findMarkers_t_some,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_t_some,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_t_some,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_wilcox_all,CD16+ NK cells,20,0.3
+ren,scran_findMarkers_wilcox_all,Classical monocytes,20,0.2
+ren,scran_findMarkers_wilcox_all,DC2,1,1.0
+ren,scran_findMarkers_wilcox_all,Naive B cells,17,0.35294117647058826
+ren,scran_findMarkers_wilcox_all,Non-classical monocytes,20,0.1
+ren,scran_findMarkers_wilcox_all,Regulatory T cells,20,0.25
+ren,scran_findMarkers_wilcox_all,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_wilcox_all,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_wilcox_all,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_wilcox_any,CD16+ NK cells,20,0.1
+ren,scran_findMarkers_wilcox_any,Classical monocytes,20,0.15
+ren,scran_findMarkers_wilcox_any,DC2,1,0.0
+ren,scran_findMarkers_wilcox_any,Naive B cells,17,0.23529411764705882
+ren,scran_findMarkers_wilcox_any,Non-classical monocytes,20,0.0
+ren,scran_findMarkers_wilcox_any,Regulatory T cells,20,0.0
+ren,scran_findMarkers_wilcox_any,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_wilcox_any,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_wilcox_any,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_findMarkers_wilcox_some,CD16+ NK cells,20,0.5
+ren,scran_findMarkers_wilcox_some,Classical monocytes,20,0.2
+ren,scran_findMarkers_wilcox_some,DC2,1,0.0
+ren,scran_findMarkers_wilcox_some,Naive B cells,17,0.35294117647058826
+ren,scran_findMarkers_wilcox_some,Non-classical monocytes,20,0.0
+ren,scran_findMarkers_wilcox_some,Regulatory T cells,20,0.0
+ren,scran_findMarkers_wilcox_some,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_findMarkers_wilcox_some,Tcm/Naive helper T cells,20,0.0
+ren,scran_findMarkers_wilcox_some,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_max_AUC,CD16+ NK cells,20,0.4
+ren,scran_scoreMarkers_max_AUC,Classical monocytes,20,0.15
+ren,scran_scoreMarkers_max_AUC,DC2,1,0.0
+ren,scran_scoreMarkers_max_AUC,Naive B cells,17,0.17647058823529413
+ren,scran_scoreMarkers_max_AUC,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_max_AUC,Regulatory T cells,20,0.0
+ren,scran_scoreMarkers_max_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_max_AUC,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_max_AUC,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,CD16+ NK cells,20,0.45
+ren,scran_scoreMarkers_max_logFC_cohen,Classical monocytes,20,0.15
+ren,scran_scoreMarkers_max_logFC_cohen,DC2,1,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,Naive B cells,17,0.23529411764705882
+ren,scran_scoreMarkers_max_logFC_cohen,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,Regulatory T cells,20,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_max_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_max_logFC_detected,CD16+ NK cells,20,0.2
+ren,scran_scoreMarkers_max_logFC_detected,Classical monocytes,20,0.05
+ren,scran_scoreMarkers_max_logFC_detected,DC2,1,1.0
+ren,scran_scoreMarkers_max_logFC_detected,Naive B cells,17,0.17647058823529413
+ren,scran_scoreMarkers_max_logFC_detected,Non-classical monocytes,20,0.25
+ren,scran_scoreMarkers_max_logFC_detected,Regulatory T cells,20,0.25
+ren,scran_scoreMarkers_max_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+ren,scran_scoreMarkers_max_logFC_detected,Tcm/Naive helper T cells,20,0.1
+ren,scran_scoreMarkers_max_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_mean_AUC,CD16+ NK cells,20,0.55
+ren,scran_scoreMarkers_mean_AUC,Classical monocytes,20,0.3
+ren,scran_scoreMarkers_mean_AUC,DC2,1,0.0
+ren,scran_scoreMarkers_mean_AUC,Naive B cells,17,0.4117647058823529
+ren,scran_scoreMarkers_mean_AUC,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_mean_AUC,Regulatory T cells,20,0.05
+ren,scran_scoreMarkers_mean_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_mean_AUC,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_mean_AUC,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_mean_logFC_cohen,CD16+ NK cells,20,0.55
+ren,scran_scoreMarkers_mean_logFC_cohen,Classical monocytes,20,0.25
+ren,scran_scoreMarkers_mean_logFC_cohen,DC2,1,0.0
+ren,scran_scoreMarkers_mean_logFC_cohen,Naive B cells,17,0.4117647058823529
+ren,scran_scoreMarkers_mean_logFC_cohen,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_mean_logFC_cohen,Regulatory T cells,20,0.1
+ren,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_mean_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_mean_logFC_detected,CD16+ NK cells,20,0.15
+ren,scran_scoreMarkers_mean_logFC_detected,Classical monocytes,20,0.1
+ren,scran_scoreMarkers_mean_logFC_detected,DC2,1,1.0
+ren,scran_scoreMarkers_mean_logFC_detected,Naive B cells,17,0.23529411764705882
+ren,scran_scoreMarkers_mean_logFC_detected,Non-classical monocytes,20,0.15
+ren,scran_scoreMarkers_mean_logFC_detected,Regulatory T cells,20,0.35
+ren,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.1
+ren,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive helper T cells,20,0.1
+ren,scran_scoreMarkers_mean_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_median_AUC,CD16+ NK cells,20,0.5
+ren,scran_scoreMarkers_median_AUC,Classical monocytes,20,0.2
+ren,scran_scoreMarkers_median_AUC,DC2,1,0.0
+ren,scran_scoreMarkers_median_AUC,Naive B cells,17,0.35294117647058826
+ren,scran_scoreMarkers_median_AUC,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_median_AUC,Regulatory T cells,20,0.05
+ren,scran_scoreMarkers_median_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_median_AUC,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_median_AUC,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_median_logFC_cohen,CD16+ NK cells,20,0.55
+ren,scran_scoreMarkers_median_logFC_cohen,Classical monocytes,20,0.25
+ren,scran_scoreMarkers_median_logFC_cohen,DC2,1,0.0
+ren,scran_scoreMarkers_median_logFC_cohen,Naive B cells,17,0.35294117647058826
+ren,scran_scoreMarkers_median_logFC_cohen,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_median_logFC_cohen,Regulatory T cells,20,0.1
+ren,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_median_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_median_logFC_detected,CD16+ NK cells,20,0.2
+ren,scran_scoreMarkers_median_logFC_detected,Classical monocytes,20,0.1
+ren,scran_scoreMarkers_median_logFC_detected,DC2,1,1.0
+ren,scran_scoreMarkers_median_logFC_detected,Naive B cells,17,0.23529411764705882
+ren,scran_scoreMarkers_median_logFC_detected,Non-classical monocytes,20,0.15
+ren,scran_scoreMarkers_median_logFC_detected,Regulatory T cells,20,0.35
+ren,scran_scoreMarkers_median_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+ren,scran_scoreMarkers_median_logFC_detected,Tcm/Naive helper T cells,20,0.1
+ren,scran_scoreMarkers_median_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_min_AUC,CD16+ NK cells,20,0.4
+ren,scran_scoreMarkers_min_AUC,Classical monocytes,20,0.4
+ren,scran_scoreMarkers_min_AUC,DC2,1,0.0
+ren,scran_scoreMarkers_min_AUC,Naive B cells,17,0.35294117647058826
+ren,scran_scoreMarkers_min_AUC,Non-classical monocytes,20,0.15
+ren,scran_scoreMarkers_min_AUC,Regulatory T cells,20,0.3
+ren,scran_scoreMarkers_min_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_min_AUC,Tcm/Naive helper T cells,20,0.05
+ren,scran_scoreMarkers_min_AUC,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_min_logFC_cohen,CD16+ NK cells,20,0.35
+ren,scran_scoreMarkers_min_logFC_cohen,Classical monocytes,20,0.4
+ren,scran_scoreMarkers_min_logFC_cohen,DC2,1,1.0
+ren,scran_scoreMarkers_min_logFC_cohen,Naive B cells,17,0.4117647058823529
+ren,scran_scoreMarkers_min_logFC_cohen,Non-classical monocytes,20,0.15
+ren,scran_scoreMarkers_min_logFC_cohen,Regulatory T cells,20,0.3
+ren,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive helper T cells,20,0.05
+ren,scran_scoreMarkers_min_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_min_logFC_detected,CD16+ NK cells,20,0.05
+ren,scran_scoreMarkers_min_logFC_detected,Classical monocytes,20,0.1
+ren,scran_scoreMarkers_min_logFC_detected,DC2,1,0.0
+ren,scran_scoreMarkers_min_logFC_detected,Naive B cells,17,0.11764705882352941
+ren,scran_scoreMarkers_min_logFC_detected,Non-classical monocytes,20,0.15
+ren,scran_scoreMarkers_min_logFC_detected,Regulatory T cells,20,0.2
+ren,scran_scoreMarkers_min_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.1
+ren,scran_scoreMarkers_min_logFC_detected,Tcm/Naive helper T cells,20,0.1
+ren,scran_scoreMarkers_min_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_rank_AUC,CD16+ NK cells,20,0.6
+ren,scran_scoreMarkers_rank_AUC,Classical monocytes,20,0.3
+ren,scran_scoreMarkers_rank_AUC,DC2,1,0.0
+ren,scran_scoreMarkers_rank_AUC,Naive B cells,17,0.47058823529411764
+ren,scran_scoreMarkers_rank_AUC,Non-classical monocytes,20,0.0
+ren,scran_scoreMarkers_rank_AUC,Regulatory T cells,20,0.0
+ren,scran_scoreMarkers_rank_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_rank_AUC,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_rank_AUC,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_rank_logFC_cohen,CD16+ NK cells,20,0.55
+ren,scran_scoreMarkers_rank_logFC_cohen,Classical monocytes,20,0.3
+ren,scran_scoreMarkers_rank_logFC_cohen,DC2,1,0.0
+ren,scran_scoreMarkers_rank_logFC_cohen,Naive B cells,17,0.47058823529411764
+ren,scran_scoreMarkers_rank_logFC_cohen,Non-classical monocytes,20,0.05
+ren,scran_scoreMarkers_rank_logFC_cohen,Regulatory T cells,20,0.05
+ren,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+ren,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+ren,scran_scoreMarkers_rank_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+ren,scran_scoreMarkers_rank_logFC_detected,CD16+ NK cells,20,0.1
+ren,scran_scoreMarkers_rank_logFC_detected,Classical monocytes,20,0.05
+ren,scran_scoreMarkers_rank_logFC_detected,DC2,1,1.0
+ren,scran_scoreMarkers_rank_logFC_detected,Naive B cells,17,0.23529411764705882
+ren,scran_scoreMarkers_rank_logFC_detected,Non-classical monocytes,20,0.2
+ren,scran_scoreMarkers_rank_logFC_detected,Regulatory T cells,20,0.3
+ren,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+ren,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive helper T cells,20,0.05
+ren,scran_scoreMarkers_rank_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_LR,CD16+ NK cells,20,0.55
+ren,seurat_LR,Classical monocytes,20,0.25
+ren,seurat_LR,DC2,1,1.0
+ren,seurat_LR,Naive B cells,17,0.4117647058823529
+ren,seurat_LR,Non-classical monocytes,20,0.1
+ren,seurat_LR,Regulatory T cells,20,0.25
+ren,seurat_LR,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_LR,Tcm/Naive helper T cells,20,0.0
+ren,seurat_LR,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_MAST,CD16+ NK cells,20,0.55
+ren,seurat_MAST,Classical monocytes,20,0.25
+ren,seurat_MAST,DC2,1,1.0
+ren,seurat_MAST,Naive B cells,17,0.4117647058823529
+ren,seurat_MAST,Non-classical monocytes,20,0.05
+ren,seurat_MAST,Regulatory T cells,20,0.35
+ren,seurat_MAST,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_MAST,Tcm/Naive helper T cells,20,0.0
+ren,seurat_MAST,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_bimod,CD16+ NK cells,20,0.55
+ren,seurat_bimod,Classical monocytes,20,0.25
+ren,seurat_bimod,DC2,1,1.0
+ren,seurat_bimod,Naive B cells,17,0.4117647058823529
+ren,seurat_bimod,Non-classical monocytes,20,0.05
+ren,seurat_bimod,Regulatory T cells,20,0.25
+ren,seurat_bimod,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_bimod,Tcm/Naive helper T cells,20,0.0
+ren,seurat_bimod,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_negbinom,CD16+ NK cells,20,0.4
+ren,seurat_negbinom,Classical monocytes,20,0.2
+ren,seurat_negbinom,DC2,1,0.0
+ren,seurat_negbinom,Naive B cells,17,0.35294117647058826
+ren,seurat_negbinom,Non-classical monocytes,20,0.1
+ren,seurat_negbinom,Regulatory T cells,20,0.2
+ren,seurat_negbinom,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_negbinom,Tcm/Naive helper T cells,20,0.0
+ren,seurat_negbinom,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_poisson,CD16+ NK cells,20,0.55
+ren,seurat_poisson,Classical monocytes,20,0.25
+ren,seurat_poisson,DC2,1,1.0
+ren,seurat_poisson,Naive B cells,17,0.4117647058823529
+ren,seurat_poisson,Non-classical monocytes,20,0.05
+ren,seurat_poisson,Regulatory T cells,20,0.15
+ren,seurat_poisson,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_poisson,Tcm/Naive helper T cells,20,0.0
+ren,seurat_poisson,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_roc,CD16+ NK cells,20,0.45
+ren,seurat_roc,Classical monocytes,20,0.25
+ren,seurat_roc,DC2,1,0.0
+ren,seurat_roc,Naive B cells,17,0.29411764705882354
+ren,seurat_roc,Non-classical monocytes,20,0.0
+ren,seurat_roc,Regulatory T cells,20,0.05
+ren,seurat_roc,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_roc,Tcm/Naive helper T cells,20,0.0
+ren,seurat_roc,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_t,CD16+ NK cells,20,0.55
+ren,seurat_t,Classical monocytes,20,0.25
+ren,seurat_t,DC2,1,0.0
+ren,seurat_t,Naive B cells,17,0.35294117647058826
+ren,seurat_t,Non-classical monocytes,20,0.0
+ren,seurat_t,Regulatory T cells,20,0.0
+ren,seurat_t,Tcm/Naive cytotoxic T cells,20,0.0
+ren,seurat_t,Tcm/Naive helper T cells,20,0.0
+ren,seurat_t,Tem/Trm cytotoxic T cells,2,0.0
+ren,seurat_wilcox,CD16+ NK cells,20,0.55
+ren,seurat_wilcox,Classical monocytes,20,0.25
+ren,seurat_wilcox,DC2,1,1.0
+ren,seurat_wilcox,Naive B cells,17,0.4117647058823529
+ren,seurat_wilcox,Non-classical monocytes,20,0.05
+ren,seurat_wilcox,Regulatory T cells,20,0.4
+ren,seurat_wilcox,Tcm/Naive cytotoxic T cells,20,0.1
+ren,seurat_wilcox,Tcm/Naive helper T cells,20,0.0
+ren,seurat_wilcox,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,cepo,CD16+ NK cells,20,0.25
+stephenson,cepo,Classical monocytes,20,0.25
+stephenson,cepo,DC2,1,0.0
+stephenson,cepo,Megakaryocytes/platelets,11,0.18181818181818182
+stephenson,cepo,Memory B cells,20,0.2
+stephenson,cepo,Non-classical monocytes,20,0.25
+stephenson,cepo,Tcm/Naive cytotoxic T cells,20,0.35
+stephenson,cepo,Tcm/Naive helper T cells,20,0.1
+stephenson,cepo,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,cosg,CD16+ NK cells,20,0.45
+stephenson,cosg,Classical monocytes,20,0.3
+stephenson,cosg,DC2,1,1.0
+stephenson,cosg,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,cosg,Memory B cells,20,0.2
+stephenson,cosg,Naive B cells,7,0.5714285714285714
+stephenson,cosg,Non-classical monocytes,20,0.3
+stephenson,cosg,Tcm/Naive cytotoxic T cells,20,0.3
+stephenson,cosg,Tcm/Naive helper T cells,20,0.0
+stephenson,cosg,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,edger_glm,CD16+ NK cells,20,0.4
+stephenson,edger_glm,Classical monocytes,20,0.25
+stephenson,edger_glm,DC2,1,1.0
+stephenson,edger_glm,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,edger_glm,Memory B cells,20,0.05
+stephenson,edger_glm,Naive B cells,7,0.2857142857142857
+stephenson,edger_glm,Non-classical monocytes,20,0.1
+stephenson,edger_glm,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,edger_glm,Tcm/Naive helper T cells,20,0.0
+stephenson,edger_glm,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,edger_ql,CD16+ NK cells,20,0.25
+stephenson,edger_ql,Classical monocytes,20,0.25
+stephenson,edger_ql,DC2,1,1.0
+stephenson,edger_ql,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,edger_ql,Memory B cells,20,0.05
+stephenson,edger_ql,Naive B cells,7,0.2857142857142857
+stephenson,edger_ql,Non-classical monocytes,20,0.1
+stephenson,edger_ql,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,edger_ql,Tcm/Naive helper T cells,20,0.0
+stephenson,edger_ql,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,glmgampoi,CD16+ NK cells,20,0.0
+stephenson,glmgampoi,Classical monocytes,20,0.0
+stephenson,glmgampoi,DC2,1,1.0
+stephenson,glmgampoi,Megakaryocytes/platelets,11,0.09090909090909091
+stephenson,glmgampoi,Memory B cells,20,0.1
+stephenson,glmgampoi,Naive B cells,7,0.0
+stephenson,glmgampoi,Non-classical monocytes,20,0.1
+stephenson,glmgampoi,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,glmgampoi,Tcm/Naive helper T cells,20,0.0
+stephenson,glmgampoi,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,limma_trend,CD16+ NK cells,20,0.55
+stephenson,limma_trend,Classical monocytes,20,0.3
+stephenson,limma_trend,DC2,1,1.0
+stephenson,limma_trend,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,limma_trend,Memory B cells,20,0.2
+stephenson,limma_trend,Naive B cells,7,0.42857142857142855
+stephenson,limma_trend,Non-classical monocytes,20,0.2
+stephenson,limma_trend,Tcm/Naive cytotoxic T cells,20,0.1
+stephenson,limma_trend,Tcm/Naive helper T cells,20,0.0
+stephenson,limma_trend,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,limma_voom,CD16+ NK cells,20,0.3
+stephenson,limma_voom,Classical monocytes,20,0.25
+stephenson,limma_voom,DC2,1,0.0
+stephenson,limma_voom,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,limma_voom,Memory B cells,20,0.0
+stephenson,limma_voom,Naive B cells,7,0.2857142857142857
+stephenson,limma_voom,Non-classical monocytes,20,0.0
+stephenson,limma_voom,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,limma_voom,Tcm/Naive helper T cells,20,0.0
+stephenson,limma_voom,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,lm_two_sample,CD16+ NK cells,20,0.55
+stephenson,lm_two_sample,Classical monocytes,20,0.3
+stephenson,lm_two_sample,DC2,1,1.0
+stephenson,lm_two_sample,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,lm_two_sample,Memory B cells,20,0.2
+stephenson,lm_two_sample,Naive B cells,7,0.42857142857142855
+stephenson,lm_two_sample,Non-classical monocytes,20,0.25
+stephenson,lm_two_sample,Tcm/Naive cytotoxic T cells,20,0.1
+stephenson,lm_two_sample,Tcm/Naive helper T cells,20,0.0
+stephenson,lm_two_sample,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,logfc_abs,CD16+ NK cells,20,0.05
+stephenson,logfc_abs,Classical monocytes,20,0.05
+stephenson,logfc_abs,DC2,1,0.0
+stephenson,logfc_abs,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,logfc_abs,Memory B cells,20,0.0
+stephenson,logfc_abs,Naive B cells,7,0.0
+stephenson,logfc_abs,Non-classical monocytes,20,0.0
+stephenson,logfc_abs,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,logfc_abs,Tcm/Naive helper T cells,20,0.0
+stephenson,logfc_abs,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,logfc_raw,CD16+ NK cells,20,0.55
+stephenson,logfc_raw,Classical monocytes,20,0.05
+stephenson,logfc_raw,DC2,1,0.0
+stephenson,logfc_raw,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,logfc_raw,Memory B cells,20,0.0
+stephenson,logfc_raw,Naive B cells,7,0.0
+stephenson,logfc_raw,Non-classical monocytes,20,0.0
+stephenson,logfc_raw,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,logfc_raw,Tcm/Naive helper T cells,20,0.0
+stephenson,logfc_raw,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,random,CD16+ NK cells,20,0.0
+stephenson,random,Classical monocytes,20,0.0
+stephenson,random,DC2,1,0.0
+stephenson,random,Megakaryocytes/platelets,11,0.0
+stephenson,random,Memory B cells,20,0.0
+stephenson,random,Naive B cells,7,0.0
+stephenson,random,Non-classical monocytes,20,0.0
+stephenson,random,Tcm/Naive cytotoxic T cells,20,0.05
+stephenson,random,Tcm/Naive helper T cells,20,0.0
+stephenson,random,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_t_rankby_abs,CD16+ NK cells,20,0.4
+stephenson,scanpy_t_rankby_abs,Classical monocytes,20,0.15
+stephenson,scanpy_t_rankby_abs,DC2,1,0.0
+stephenson,scanpy_t_rankby_abs,Megakaryocytes/platelets,11,0.36363636363636365
+stephenson,scanpy_t_rankby_abs,Memory B cells,20,0.0
+stephenson,scanpy_t_rankby_abs,Naive B cells,7,0.0
+stephenson,scanpy_t_rankby_abs,Non-classical monocytes,20,0.0
+stephenson,scanpy_t_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_t_rankby_abs,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_t_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_t_rankby_raw,CD16+ NK cells,20,0.6
+stephenson,scanpy_t_rankby_raw,Classical monocytes,20,0.15
+stephenson,scanpy_t_rankby_raw,DC2,1,0.0
+stephenson,scanpy_t_rankby_raw,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scanpy_t_rankby_raw,Memory B cells,20,0.0
+stephenson,scanpy_t_rankby_raw,Naive B cells,7,0.0
+stephenson,scanpy_t_rankby_raw,Non-classical monocytes,20,0.0
+stephenson,scanpy_t_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_t_rankby_raw,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_t_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_tover_rankby_abs,CD16+ NK cells,20,0.55
+stephenson,scanpy_tover_rankby_abs,Classical monocytes,20,0.25
+stephenson,scanpy_tover_rankby_abs,DC2,1,0.0
+stephenson,scanpy_tover_rankby_abs,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scanpy_tover_rankby_abs,Memory B cells,20,0.0
+stephenson,scanpy_tover_rankby_abs,Naive B cells,7,0.14285714285714285
+stephenson,scanpy_tover_rankby_abs,Non-classical monocytes,20,0.0
+stephenson,scanpy_tover_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_tover_rankby_abs,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_tover_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_tover_rankby_raw,CD16+ NK cells,20,0.6
+stephenson,scanpy_tover_rankby_raw,Classical monocytes,20,0.25
+stephenson,scanpy_tover_rankby_raw,DC2,1,0.0
+stephenson,scanpy_tover_rankby_raw,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scanpy_tover_rankby_raw,Memory B cells,20,0.0
+stephenson,scanpy_tover_rankby_raw,Naive B cells,7,0.14285714285714285
+stephenson,scanpy_tover_rankby_raw,Non-classical monocytes,20,0.0
+stephenson,scanpy_tover_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_tover_rankby_raw,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_tover_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,CD16+ NK cells,20,0.35
+stephenson,scanpy_wilcoxon_rankby_abs,Classical monocytes,20,0.25
+stephenson,scanpy_wilcoxon_rankby_abs,DC2,1,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scanpy_wilcoxon_rankby_abs,Memory B cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Naive B cells,7,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Non-classical monocytes,20,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,CD16+ NK cells,20,0.6
+stephenson,scanpy_wilcoxon_rankby_raw,Classical monocytes,20,0.25
+stephenson,scanpy_wilcoxon_rankby_raw,DC2,1,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scanpy_wilcoxon_rankby_raw,Memory B cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Naive B cells,7,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Non-classical monocytes,20,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_wilcoxon_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,CD16+ NK cells,20,0.5
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Classical monocytes,20,0.25
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,DC2,1,1.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Memory B cells,20,0.15
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Naive B cells,7,0.42857142857142855
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Non-classical monocytes,20,0.3
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.1
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,CD16+ NK cells,20,0.55
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Classical monocytes,20,0.25
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,DC2,1,1.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Memory B cells,20,0.15
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Naive B cells,7,0.42857142857142855
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Non-classical monocytes,20,0.3
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.1
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive helper T cells,20,0.0
+stephenson,scanpy_wilcoxontiecorrect_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_binom_all,CD16+ NK cells,20,0.35
+stephenson,scran_findMarkers_binom_all,Classical monocytes,20,0.15
+stephenson,scran_findMarkers_binom_all,DC2,1,0.0
+stephenson,scran_findMarkers_binom_all,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_findMarkers_binom_all,Memory B cells,20,0.15
+stephenson,scran_findMarkers_binom_all,Naive B cells,7,0.5714285714285714
+stephenson,scran_findMarkers_binom_all,Non-classical monocytes,20,0.25
+stephenson,scran_findMarkers_binom_all,Tcm/Naive cytotoxic T cells,20,0.25
+stephenson,scran_findMarkers_binom_all,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_findMarkers_binom_all,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_binom_any,CD16+ NK cells,20,0.2
+stephenson,scran_findMarkers_binom_any,Classical monocytes,20,0.1
+stephenson,scran_findMarkers_binom_any,DC2,1,1.0
+stephenson,scran_findMarkers_binom_any,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_findMarkers_binom_any,Memory B cells,20,0.15
+stephenson,scran_findMarkers_binom_any,Naive B cells,7,0.14285714285714285
+stephenson,scran_findMarkers_binom_any,Non-classical monocytes,20,0.05
+stephenson,scran_findMarkers_binom_any,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_binom_any,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_binom_any,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_binom_some,CD16+ NK cells,20,0.45
+stephenson,scran_findMarkers_binom_some,Classical monocytes,20,0.2
+stephenson,scran_findMarkers_binom_some,DC2,1,1.0
+stephenson,scran_findMarkers_binom_some,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_findMarkers_binom_some,Memory B cells,20,0.1
+stephenson,scran_findMarkers_binom_some,Naive B cells,7,0.42857142857142855
+stephenson,scran_findMarkers_binom_some,Non-classical monocytes,20,0.1
+stephenson,scran_findMarkers_binom_some,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_binom_some,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_binom_some,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_t_all,CD16+ NK cells,20,0.4
+stephenson,scran_findMarkers_t_all,Classical monocytes,20,0.3
+stephenson,scran_findMarkers_t_all,DC2,1,0.0
+stephenson,scran_findMarkers_t_all,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_findMarkers_t_all,Memory B cells,20,0.1
+stephenson,scran_findMarkers_t_all,Naive B cells,7,0.5714285714285714
+stephenson,scran_findMarkers_t_all,Non-classical monocytes,20,0.2
+stephenson,scran_findMarkers_t_all,Tcm/Naive cytotoxic T cells,20,0.05
+stephenson,scran_findMarkers_t_all,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_findMarkers_t_all,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_t_any,CD16+ NK cells,20,0.5
+stephenson,scran_findMarkers_t_any,Classical monocytes,20,0.2
+stephenson,scran_findMarkers_t_any,DC2,1,0.0
+stephenson,scran_findMarkers_t_any,Megakaryocytes/platelets,11,0.09090909090909091
+stephenson,scran_findMarkers_t_any,Memory B cells,20,0.0
+stephenson,scran_findMarkers_t_any,Naive B cells,7,0.2857142857142857
+stephenson,scran_findMarkers_t_any,Non-classical monocytes,20,0.0
+stephenson,scran_findMarkers_t_any,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_t_any,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_t_any,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_t_some,CD16+ NK cells,20,0.6
+stephenson,scran_findMarkers_t_some,Classical monocytes,20,0.2
+stephenson,scran_findMarkers_t_some,DC2,1,0.0
+stephenson,scran_findMarkers_t_some,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_findMarkers_t_some,Memory B cells,20,0.0
+stephenson,scran_findMarkers_t_some,Naive B cells,7,0.0
+stephenson,scran_findMarkers_t_some,Non-classical monocytes,20,0.0
+stephenson,scran_findMarkers_t_some,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_t_some,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_findMarkers_t_some,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_wilcox_all,CD16+ NK cells,20,0.35
+stephenson,scran_findMarkers_wilcox_all,Classical monocytes,20,0.2
+stephenson,scran_findMarkers_wilcox_all,DC2,1,0.0
+stephenson,scran_findMarkers_wilcox_all,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_findMarkers_wilcox_all,Memory B cells,20,0.1
+stephenson,scran_findMarkers_wilcox_all,Naive B cells,7,0.5714285714285714
+stephenson,scran_findMarkers_wilcox_all,Non-classical monocytes,20,0.05
+stephenson,scran_findMarkers_wilcox_all,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_all,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_all,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_wilcox_any,CD16+ NK cells,20,0.1
+stephenson,scran_findMarkers_wilcox_any,Classical monocytes,20,0.1
+stephenson,scran_findMarkers_wilcox_any,DC2,1,0.0
+stephenson,scran_findMarkers_wilcox_any,Megakaryocytes/platelets,11,0.36363636363636365
+stephenson,scran_findMarkers_wilcox_any,Memory B cells,20,0.0
+stephenson,scran_findMarkers_wilcox_any,Naive B cells,7,0.14285714285714285
+stephenson,scran_findMarkers_wilcox_any,Non-classical monocytes,20,0.0
+stephenson,scran_findMarkers_wilcox_any,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_any,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_any,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_findMarkers_wilcox_some,CD16+ NK cells,20,0.45
+stephenson,scran_findMarkers_wilcox_some,Classical monocytes,20,0.2
+stephenson,scran_findMarkers_wilcox_some,DC2,1,0.0
+stephenson,scran_findMarkers_wilcox_some,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_findMarkers_wilcox_some,Memory B cells,20,0.0
+stephenson,scran_findMarkers_wilcox_some,Naive B cells,7,0.0
+stephenson,scran_findMarkers_wilcox_some,Non-classical monocytes,20,0.0
+stephenson,scran_findMarkers_wilcox_some,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_some,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_findMarkers_wilcox_some,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_max_AUC,CD16+ NK cells,20,0.4
+stephenson,scran_scoreMarkers_max_AUC,Classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_max_AUC,DC2,1,0.0
+stephenson,scran_scoreMarkers_max_AUC,Megakaryocytes/platelets,11,0.36363636363636365
+stephenson,scran_scoreMarkers_max_AUC,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_max_AUC,Naive B cells,7,0.0
+stephenson,scran_scoreMarkers_max_AUC,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_max_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_max_AUC,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_max_AUC,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,CD16+ NK cells,20,0.4
+stephenson,scran_scoreMarkers_max_logFC_cohen,Classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_max_logFC_cohen,DC2,1,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_scoreMarkers_max_logFC_cohen,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Naive B cells,7,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_max_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_max_logFC_detected,CD16+ NK cells,20,0.1
+stephenson,scran_scoreMarkers_max_logFC_detected,Classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_max_logFC_detected,DC2,1,1.0
+stephenson,scran_scoreMarkers_max_logFC_detected,Megakaryocytes/platelets,11,0.2727272727272727
+stephenson,scran_scoreMarkers_max_logFC_detected,Memory B cells,20,0.15
+stephenson,scran_scoreMarkers_max_logFC_detected,Naive B cells,7,0.42857142857142855
+stephenson,scran_scoreMarkers_max_logFC_detected,Non-classical monocytes,20,0.3
+stephenson,scran_scoreMarkers_max_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.25
+stephenson,scran_scoreMarkers_max_logFC_detected,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_max_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_mean_AUC,CD16+ NK cells,20,0.55
+stephenson,scran_scoreMarkers_mean_AUC,Classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_mean_AUC,DC2,1,0.0
+stephenson,scran_scoreMarkers_mean_AUC,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_scoreMarkers_mean_AUC,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_mean_AUC,Naive B cells,7,0.2857142857142857
+stephenson,scran_scoreMarkers_mean_AUC,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_mean_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_mean_AUC,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_mean_AUC,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,CD16+ NK cells,20,0.55
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_mean_logFC_cohen,DC2,1,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Naive B cells,7,0.14285714285714285
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_mean_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_mean_logFC_detected,CD16+ NK cells,20,0.2
+stephenson,scran_scoreMarkers_mean_logFC_detected,Classical monocytes,20,0.35
+stephenson,scran_scoreMarkers_mean_logFC_detected,DC2,1,0.0
+stephenson,scran_scoreMarkers_mean_logFC_detected,Megakaryocytes/platelets,11,0.18181818181818182
+stephenson,scran_scoreMarkers_mean_logFC_detected,Memory B cells,20,0.15
+stephenson,scran_scoreMarkers_mean_logFC_detected,Naive B cells,7,0.42857142857142855
+stephenson,scran_scoreMarkers_mean_logFC_detected,Non-classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+stephenson,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_mean_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_median_AUC,CD16+ NK cells,20,0.6
+stephenson,scran_scoreMarkers_median_AUC,Classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_median_AUC,DC2,1,0.0
+stephenson,scran_scoreMarkers_median_AUC,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_scoreMarkers_median_AUC,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_median_AUC,Naive B cells,7,0.0
+stephenson,scran_scoreMarkers_median_AUC,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_median_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_median_AUC,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_median_AUC,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,CD16+ NK cells,20,0.6
+stephenson,scran_scoreMarkers_median_logFC_cohen,Classical monocytes,20,0.2
+stephenson,scran_scoreMarkers_median_logFC_cohen,DC2,1,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_scoreMarkers_median_logFC_cohen,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Naive B cells,7,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_median_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_median_logFC_detected,CD16+ NK cells,20,0.2
+stephenson,scran_scoreMarkers_median_logFC_detected,Classical monocytes,20,0.3
+stephenson,scran_scoreMarkers_median_logFC_detected,DC2,1,0.0
+stephenson,scran_scoreMarkers_median_logFC_detected,Megakaryocytes/platelets,11,0.18181818181818182
+stephenson,scran_scoreMarkers_median_logFC_detected,Memory B cells,20,0.1
+stephenson,scran_scoreMarkers_median_logFC_detected,Naive B cells,7,0.42857142857142855
+stephenson,scran_scoreMarkers_median_logFC_detected,Non-classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_median_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+stephenson,scran_scoreMarkers_median_logFC_detected,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_median_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_min_AUC,CD16+ NK cells,20,0.4
+stephenson,scran_scoreMarkers_min_AUC,Classical monocytes,20,0.2
+stephenson,scran_scoreMarkers_min_AUC,DC2,1,1.0
+stephenson,scran_scoreMarkers_min_AUC,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_scoreMarkers_min_AUC,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_min_AUC,Naive B cells,7,0.5714285714285714
+stephenson,scran_scoreMarkers_min_AUC,Non-classical monocytes,20,0.2
+stephenson,scran_scoreMarkers_min_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_min_AUC,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_min_AUC,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_min_logFC_cohen,CD16+ NK cells,20,0.5
+stephenson,scran_scoreMarkers_min_logFC_cohen,Classical monocytes,20,0.3
+stephenson,scran_scoreMarkers_min_logFC_cohen,DC2,1,0.0
+stephenson,scran_scoreMarkers_min_logFC_cohen,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,scran_scoreMarkers_min_logFC_cohen,Memory B cells,20,0.05
+stephenson,scran_scoreMarkers_min_logFC_cohen,Naive B cells,7,0.5714285714285714
+stephenson,scran_scoreMarkers_min_logFC_cohen,Non-classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.05
+stephenson,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_min_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_min_logFC_detected,CD16+ NK cells,20,0.1
+stephenson,scran_scoreMarkers_min_logFC_detected,Classical monocytes,20,0.1
+stephenson,scran_scoreMarkers_min_logFC_detected,DC2,1,0.0
+stephenson,scran_scoreMarkers_min_logFC_detected,Megakaryocytes/platelets,11,0.2727272727272727
+stephenson,scran_scoreMarkers_min_logFC_detected,Memory B cells,20,0.05
+stephenson,scran_scoreMarkers_min_logFC_detected,Naive B cells,7,0.2857142857142857
+stephenson,scran_scoreMarkers_min_logFC_detected,Non-classical monocytes,20,0.2
+stephenson,scran_scoreMarkers_min_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+stephenson,scran_scoreMarkers_min_logFC_detected,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_min_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_rank_AUC,CD16+ NK cells,20,0.55
+stephenson,scran_scoreMarkers_rank_AUC,Classical monocytes,20,0.3
+stephenson,scran_scoreMarkers_rank_AUC,DC2,1,0.0
+stephenson,scran_scoreMarkers_rank_AUC,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_scoreMarkers_rank_AUC,Memory B cells,20,0.0
+stephenson,scran_scoreMarkers_rank_AUC,Naive B cells,7,0.2857142857142857
+stephenson,scran_scoreMarkers_rank_AUC,Non-classical monocytes,20,0.0
+stephenson,scran_scoreMarkers_rank_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_rank_AUC,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_rank_AUC,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_rank_logFC_cohen,CD16+ NK cells,20,0.6
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_rank_logFC_cohen,DC2,1,0.0
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Memory B cells,20,0.1
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Naive B cells,7,0.2857142857142857
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Non-classical monocytes,20,0.05
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+stephenson,scran_scoreMarkers_rank_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,scran_scoreMarkers_rank_logFC_detected,CD16+ NK cells,20,0.05
+stephenson,scran_scoreMarkers_rank_logFC_detected,Classical monocytes,20,0.15
+stephenson,scran_scoreMarkers_rank_logFC_detected,DC2,1,1.0
+stephenson,scran_scoreMarkers_rank_logFC_detected,Megakaryocytes/platelets,11,0.18181818181818182
+stephenson,scran_scoreMarkers_rank_logFC_detected,Memory B cells,20,0.1
+stephenson,scran_scoreMarkers_rank_logFC_detected,Naive B cells,7,0.2857142857142857
+stephenson,scran_scoreMarkers_rank_logFC_detected,Non-classical monocytes,20,0.25
+stephenson,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.25
+stephenson,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive helper T cells,20,0.05
+stephenson,scran_scoreMarkers_rank_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_LR,CD16+ NK cells,20,0.5
+stephenson,seurat_LR,Classical monocytes,20,0.25
+stephenson,seurat_LR,DC2,1,1.0
+stephenson,seurat_LR,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_LR,Memory B cells,20,0.05
+stephenson,seurat_LR,Naive B cells,7,0.2857142857142857
+stephenson,seurat_LR,Non-classical monocytes,20,0.05
+stephenson,seurat_LR,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_LR,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_LR,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_MAST,CD16+ NK cells,20,0.5
+stephenson,seurat_MAST,Classical monocytes,20,0.25
+stephenson,seurat_MAST,DC2,1,0.0
+stephenson,seurat_MAST,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_MAST,Memory B cells,20,0.05
+stephenson,seurat_MAST,Naive B cells,7,0.2857142857142857
+stephenson,seurat_MAST,Non-classical monocytes,20,0.05
+stephenson,seurat_MAST,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_MAST,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_MAST,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_bimod,CD16+ NK cells,20,0.5
+stephenson,seurat_bimod,Classical monocytes,20,0.25
+stephenson,seurat_bimod,DC2,1,0.0
+stephenson,seurat_bimod,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_bimod,Memory B cells,20,0.0
+stephenson,seurat_bimod,Naive B cells,7,0.2857142857142857
+stephenson,seurat_bimod,Non-classical monocytes,20,0.05
+stephenson,seurat_bimod,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_bimod,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_bimod,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_negbinom,CD16+ NK cells,20,0.5
+stephenson,seurat_negbinom,Classical monocytes,20,0.2
+stephenson,seurat_negbinom,DC2,1,1.0
+stephenson,seurat_negbinom,Megakaryocytes/platelets,11,0.45454545454545453
+stephenson,seurat_negbinom,Memory B cells,20,0.1
+stephenson,seurat_negbinom,Naive B cells,7,0.5714285714285714
+stephenson,seurat_negbinom,Non-classical monocytes,20,0.15
+stephenson,seurat_negbinom,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_negbinom,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_negbinom,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_poisson,CD16+ NK cells,20,0.5
+stephenson,seurat_poisson,Classical monocytes,20,0.25
+stephenson,seurat_poisson,DC2,1,0.0
+stephenson,seurat_poisson,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_poisson,Memory B cells,20,0.0
+stephenson,seurat_poisson,Naive B cells,7,0.2857142857142857
+stephenson,seurat_poisson,Non-classical monocytes,20,0.05
+stephenson,seurat_poisson,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_poisson,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_poisson,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_roc,CD16+ NK cells,20,0.35
+stephenson,seurat_roc,Classical monocytes,20,0.25
+stephenson,seurat_roc,DC2,1,0.0
+stephenson,seurat_roc,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_roc,Memory B cells,20,0.0
+stephenson,seurat_roc,Naive B cells,7,0.0
+stephenson,seurat_roc,Non-classical monocytes,20,0.0
+stephenson,seurat_roc,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_roc,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_roc,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_t,CD16+ NK cells,20,0.5
+stephenson,seurat_t,Classical monocytes,20,0.25
+stephenson,seurat_t,DC2,1,0.0
+stephenson,seurat_t,Megakaryocytes/platelets,11,0.0
+stephenson,seurat_t,Memory B cells,20,0.0
+stephenson,seurat_t,Naive B cells,7,0.14285714285714285
+stephenson,seurat_t,Non-classical monocytes,20,0.0
+stephenson,seurat_t,Tcm/Naive cytotoxic T cells,20,0.0
+stephenson,seurat_t,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_t,Tem/Trm cytotoxic T cells,2,0.0
+stephenson,seurat_wilcox,CD16+ NK cells,20,0.5
+stephenson,seurat_wilcox,Classical monocytes,20,0.25
+stephenson,seurat_wilcox,DC2,1,0.0
+stephenson,seurat_wilcox,Megakaryocytes/platelets,11,0.6363636363636364
+stephenson,seurat_wilcox,Memory B cells,20,0.05
+stephenson,seurat_wilcox,Naive B cells,7,0.2857142857142857
+stephenson,seurat_wilcox,Non-classical monocytes,20,0.05
+stephenson,seurat_wilcox,Tcm/Naive cytotoxic T cells,20,0.1
+stephenson,seurat_wilcox,Tcm/Naive helper T cells,20,0.0
+stephenson,seurat_wilcox,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,cepo,CD16+ NK cells,20,0.15
+dominguez_conde,cepo,Classical monocytes,20,0.15
+dominguez_conde,cepo,Non-classical monocytes,20,0.05
+dominguez_conde,cepo,Regulatory T cells,20,0.4
+dominguez_conde,cepo,Tcm/Naive cytotoxic T cells,20,0.2
+dominguez_conde,cepo,Tcm/Naive helper T cells,20,0.1
+dominguez_conde,cepo,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,cosg,CD16+ NK cells,20,0.4
+dominguez_conde,cosg,Classical monocytes,20,0.3
+dominguez_conde,cosg,Non-classical monocytes,20,0.25
+dominguez_conde,cosg,Regulatory T cells,20,0.4
+dominguez_conde,cosg,Tcm/Naive cytotoxic T cells,20,0.25
+dominguez_conde,cosg,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,cosg,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,edger_glm,CD16+ NK cells,20,0.2
+dominguez_conde,edger_glm,Classical monocytes,20,0.25
+dominguez_conde,edger_glm,Non-classical monocytes,20,0.05
+dominguez_conde,edger_glm,Regulatory T cells,20,0.3
+dominguez_conde,edger_glm,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,edger_glm,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,edger_glm,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,edger_ql,CD16+ NK cells,20,0.15
+dominguez_conde,edger_ql,Classical monocytes,20,0.25
+dominguez_conde,edger_ql,Non-classical monocytes,20,0.2
+dominguez_conde,edger_ql,Regulatory T cells,20,0.25
+dominguez_conde,edger_ql,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,edger_ql,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,edger_ql,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,glmgampoi,CD16+ NK cells,20,0.0
+dominguez_conde,glmgampoi,Classical monocytes,20,0.0
+dominguez_conde,glmgampoi,Non-classical monocytes,20,0.2
+dominguez_conde,glmgampoi,Regulatory T cells,20,0.3
+dominguez_conde,glmgampoi,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,glmgampoi,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,glmgampoi,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,limma_trend,CD16+ NK cells,20,0.5
+dominguez_conde,limma_trend,Classical monocytes,20,0.3
+dominguez_conde,limma_trend,Non-classical monocytes,20,0.15
+dominguez_conde,limma_trend,Regulatory T cells,20,0.35
+dominguez_conde,limma_trend,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,limma_trend,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,limma_trend,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,limma_voom,CD16+ NK cells,20,0.1
+dominguez_conde,limma_voom,Classical monocytes,20,0.25
+dominguez_conde,limma_voom,Non-classical monocytes,20,0.0
+dominguez_conde,limma_voom,Regulatory T cells,20,0.0
+dominguez_conde,limma_voom,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,limma_voom,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,limma_voom,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,lm_two_sample,CD16+ NK cells,20,0.5
+dominguez_conde,lm_two_sample,Classical monocytes,20,0.25
+dominguez_conde,lm_two_sample,Non-classical monocytes,20,0.1
+dominguez_conde,lm_two_sample,Regulatory T cells,20,0.35
+dominguez_conde,lm_two_sample,Tcm/Naive cytotoxic T cells,20,0.2
+dominguez_conde,lm_two_sample,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,lm_two_sample,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,logfc_abs,CD16+ NK cells,20,0.25
+dominguez_conde,logfc_abs,Classical monocytes,20,0.3
+dominguez_conde,logfc_abs,Non-classical monocytes,20,0.1
+dominguez_conde,logfc_abs,Regulatory T cells,20,0.0
+dominguez_conde,logfc_abs,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,logfc_abs,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,logfc_abs,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,logfc_raw,CD16+ NK cells,20,0.45
+dominguez_conde,logfc_raw,Classical monocytes,20,0.3
+dominguez_conde,logfc_raw,Non-classical monocytes,20,0.1
+dominguez_conde,logfc_raw,Regulatory T cells,20,0.3
+dominguez_conde,logfc_raw,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,logfc_raw,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,logfc_raw,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,random,CD16+ NK cells,20,0.0
+dominguez_conde,random,Classical monocytes,20,0.0
+dominguez_conde,random,Non-classical monocytes,20,0.0
+dominguez_conde,random,Regulatory T cells,20,0.0
+dominguez_conde,random,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,random,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,random,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_t_rankby_abs,CD16+ NK cells,20,0.3
+dominguez_conde,scanpy_t_rankby_abs,Classical monocytes,20,0.2
+dominguez_conde,scanpy_t_rankby_abs,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_t_rankby_abs,Regulatory T cells,20,0.0
+dominguez_conde,scanpy_t_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_t_rankby_abs,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_t_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_t_rankby_raw,CD16+ NK cells,20,0.5
+dominguez_conde,scanpy_t_rankby_raw,Classical monocytes,20,0.25
+dominguez_conde,scanpy_t_rankby_raw,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_t_rankby_raw,Regulatory T cells,20,0.1
+dominguez_conde,scanpy_t_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_t_rankby_raw,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_t_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_tover_rankby_abs,CD16+ NK cells,20,0.5
+dominguez_conde,scanpy_tover_rankby_abs,Classical monocytes,20,0.25
+dominguez_conde,scanpy_tover_rankby_abs,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_tover_rankby_abs,Regulatory T cells,20,0.2
+dominguez_conde,scanpy_tover_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_tover_rankby_abs,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_tover_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_tover_rankby_raw,CD16+ NK cells,20,0.5
+dominguez_conde,scanpy_tover_rankby_raw,Classical monocytes,20,0.25
+dominguez_conde,scanpy_tover_rankby_raw,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_tover_rankby_raw,Regulatory T cells,20,0.3
+dominguez_conde,scanpy_tover_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_tover_rankby_raw,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_tover_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_abs,CD16+ NK cells,20,0.4
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Regulatory T cells,20,0.15
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_raw,CD16+ NK cells,20,0.5
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Non-classical monocytes,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Regulatory T cells,20,0.2
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_wilcoxon_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,CD16+ NK cells,20,0.55
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Non-classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Regulatory T cells,20,0.35
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,CD16+ NK cells,20,0.55
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Non-classical monocytes,20,0.25
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Regulatory T cells,20,0.35
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scanpy_wilcoxontiecorrect_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_binom_all,CD16+ NK cells,20,0.0
+dominguez_conde,scran_findMarkers_binom_all,Classical monocytes,20,0.05
+dominguez_conde,scran_findMarkers_binom_all,Non-classical monocytes,20,0.25
+dominguez_conde,scran_findMarkers_binom_all,Regulatory T cells,20,0.25
+dominguez_conde,scran_findMarkers_binom_all,Tcm/Naive cytotoxic T cells,20,0.1
+dominguez_conde,scran_findMarkers_binom_all,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_binom_all,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_binom_any,CD16+ NK cells,20,0.2
+dominguez_conde,scran_findMarkers_binom_any,Classical monocytes,20,0.1
+dominguez_conde,scran_findMarkers_binom_any,Non-classical monocytes,20,0.05
+dominguez_conde,scran_findMarkers_binom_any,Regulatory T cells,20,0.15
+dominguez_conde,scran_findMarkers_binom_any,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,scran_findMarkers_binom_any,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_binom_any,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_binom_some,CD16+ NK cells,20,0.35
+dominguez_conde,scran_findMarkers_binom_some,Classical monocytes,20,0.05
+dominguez_conde,scran_findMarkers_binom_some,Non-classical monocytes,20,0.05
+dominguez_conde,scran_findMarkers_binom_some,Regulatory T cells,20,0.25
+dominguez_conde,scran_findMarkers_binom_some,Tcm/Naive cytotoxic T cells,20,0.1
+dominguez_conde,scran_findMarkers_binom_some,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_binom_some,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_t_all,CD16+ NK cells,20,0.2
+dominguez_conde,scran_findMarkers_t_all,Classical monocytes,20,0.2
+dominguez_conde,scran_findMarkers_t_all,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_t_all,Regulatory T cells,20,0.2
+dominguez_conde,scran_findMarkers_t_all,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,scran_findMarkers_t_all,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_all,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_t_any,CD16+ NK cells,20,0.25
+dominguez_conde,scran_findMarkers_t_any,Classical monocytes,20,0.25
+dominguez_conde,scran_findMarkers_t_any,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_t_any,Regulatory T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_any,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_any,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_any,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_t_some,CD16+ NK cells,20,0.45
+dominguez_conde,scran_findMarkers_t_some,Classical monocytes,20,0.2
+dominguez_conde,scran_findMarkers_t_some,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_t_some,Regulatory T cells,20,0.1
+dominguez_conde,scran_findMarkers_t_some,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_some,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_t_some,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_wilcox_all,CD16+ NK cells,20,0.25
+dominguez_conde,scran_findMarkers_wilcox_all,Classical monocytes,20,0.2
+dominguez_conde,scran_findMarkers_wilcox_all,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_all,Regulatory T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_all,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_all,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_all,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_wilcox_any,CD16+ NK cells,20,0.15
+dominguez_conde,scran_findMarkers_wilcox_any,Classical monocytes,20,0.2
+dominguez_conde,scran_findMarkers_wilcox_any,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_any,Regulatory T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_any,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_any,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_any,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_findMarkers_wilcox_some,CD16+ NK cells,20,0.35
+dominguez_conde,scran_findMarkers_wilcox_some,Classical monocytes,20,0.2
+dominguez_conde,scran_findMarkers_wilcox_some,Non-classical monocytes,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_some,Regulatory T cells,20,0.05
+dominguez_conde,scran_findMarkers_wilcox_some,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_some,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_findMarkers_wilcox_some,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_max_AUC,CD16+ NK cells,20,0.4
+dominguez_conde,scran_scoreMarkers_max_AUC,Classical monocytes,20,0.2
+dominguez_conde,scran_scoreMarkers_max_AUC,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_max_AUC,Regulatory T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_AUC,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_AUC,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,CD16+ NK cells,20,0.45
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Classical monocytes,20,0.2
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Regulatory T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,CD16+ NK cells,20,0.1
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Classical monocytes,20,0.1
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Regulatory T cells,20,0.25
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.1
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_max_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_mean_AUC,CD16+ NK cells,20,0.5
+dominguez_conde,scran_scoreMarkers_mean_AUC,Classical monocytes,20,0.3
+dominguez_conde,scran_scoreMarkers_mean_AUC,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_AUC,Regulatory T cells,20,0.2
+dominguez_conde,scran_scoreMarkers_mean_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_AUC,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_AUC,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,CD16+ NK cells,20,0.45
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Classical monocytes,20,0.25
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Regulatory T cells,20,0.25
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_mean_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,CD16+ NK cells,20,0.05
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Classical monocytes,20,0.1
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Non-classical monocytes,20,0.05
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Regulatory T cells,20,0.3
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive helper T cells,20,0.15
+dominguez_conde,scran_scoreMarkers_mean_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_median_AUC,CD16+ NK cells,20,0.5
+dominguez_conde,scran_scoreMarkers_median_AUC,Classical monocytes,20,0.25
+dominguez_conde,scran_scoreMarkers_median_AUC,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_median_AUC,Regulatory T cells,20,0.1
+dominguez_conde,scran_scoreMarkers_median_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_median_AUC,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_median_AUC,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,CD16+ NK cells,20,0.5
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Classical monocytes,20,0.25
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Regulatory T cells,20,0.15
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,CD16+ NK cells,20,0.15
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Classical monocytes,20,0.1
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Regulatory T cells,20,0.3
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Tcm/Naive helper T cells,20,0.15
+dominguez_conde,scran_scoreMarkers_median_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_min_AUC,CD16+ NK cells,20,0.25
+dominguez_conde,scran_scoreMarkers_min_AUC,Classical monocytes,20,0.2
+dominguez_conde,scran_scoreMarkers_min_AUC,Non-classical monocytes,20,0.05
+dominguez_conde,scran_scoreMarkers_min_AUC,Regulatory T cells,20,0.3
+dominguez_conde,scran_scoreMarkers_min_AUC,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,scran_scoreMarkers_min_AUC,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_min_AUC,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,CD16+ NK cells,20,0.3
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Classical monocytes,20,0.2
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Non-classical monocytes,20,0.05
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Regulatory T cells,20,0.3
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_min_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,CD16+ NK cells,20,0.0
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Classical monocytes,20,0.05
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Non-classical monocytes,20,0.15
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Regulatory T cells,20,0.2
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.1
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Tcm/Naive helper T cells,20,0.05
+dominguez_conde,scran_scoreMarkers_min_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_rank_AUC,CD16+ NK cells,20,0.35
+dominguez_conde,scran_scoreMarkers_rank_AUC,Classical monocytes,20,0.25
+dominguez_conde,scran_scoreMarkers_rank_AUC,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_AUC,Regulatory T cells,20,0.1
+dominguez_conde,scran_scoreMarkers_rank_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_AUC,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_AUC,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,CD16+ NK cells,20,0.4
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Classical monocytes,20,0.25
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Regulatory T cells,20,0.1
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,CD16+ NK cells,20,0.1
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Classical monocytes,20,0.05
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Non-classical monocytes,20,0.0
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Regulatory T cells,20,0.2
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.25
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive helper T cells,20,0.05
+dominguez_conde,scran_scoreMarkers_rank_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_LR,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_LR,Classical monocytes,20,0.2
+dominguez_conde,seurat_LR,Non-classical monocytes,20,0.05
+dominguez_conde,seurat_LR,Regulatory T cells,20,0.25
+dominguez_conde,seurat_LR,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,seurat_LR,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_LR,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_MAST,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_MAST,Classical monocytes,20,0.2
+dominguez_conde,seurat_MAST,Non-classical monocytes,20,0.05
+dominguez_conde,seurat_MAST,Regulatory T cells,20,0.3
+dominguez_conde,seurat_MAST,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,seurat_MAST,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_MAST,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_bimod,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_bimod,Classical monocytes,20,0.2
+dominguez_conde,seurat_bimod,Non-classical monocytes,20,0.05
+dominguez_conde,seurat_bimod,Regulatory T cells,20,0.25
+dominguez_conde,seurat_bimod,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,seurat_bimod,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_bimod,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_negbinom,CD16+ NK cells,20,0.4
+dominguez_conde,seurat_negbinom,Classical monocytes,20,0.2
+dominguez_conde,seurat_negbinom,Non-classical monocytes,20,0.1
+dominguez_conde,seurat_negbinom,Regulatory T cells,20,0.25
+dominguez_conde,seurat_negbinom,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,seurat_negbinom,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_negbinom,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_poisson,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_poisson,Classical monocytes,20,0.2
+dominguez_conde,seurat_poisson,Non-classical monocytes,20,0.05
+dominguez_conde,seurat_poisson,Regulatory T cells,20,0.35
+dominguez_conde,seurat_poisson,Tcm/Naive cytotoxic T cells,20,0.05
+dominguez_conde,seurat_poisson,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_poisson,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_roc,CD16+ NK cells,20,0.4
+dominguez_conde,seurat_roc,Classical monocytes,20,0.25
+dominguez_conde,seurat_roc,Non-classical monocytes,20,0.0
+dominguez_conde,seurat_roc,Regulatory T cells,20,0.15
+dominguez_conde,seurat_roc,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,seurat_roc,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_roc,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_t,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_t,Classical monocytes,20,0.2
+dominguez_conde,seurat_t,Non-classical monocytes,20,0.0
+dominguez_conde,seurat_t,Regulatory T cells,20,0.0
+dominguez_conde,seurat_t,Tcm/Naive cytotoxic T cells,20,0.0
+dominguez_conde,seurat_t,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_t,Tem/Trm cytotoxic T cells,2,0.0
+dominguez_conde,seurat_wilcox,CD16+ NK cells,20,0.45
+dominguez_conde,seurat_wilcox,Classical monocytes,20,0.2
+dominguez_conde,seurat_wilcox,Non-classical monocytes,20,0.3
+dominguez_conde,seurat_wilcox,Regulatory T cells,20,0.35
+dominguez_conde,seurat_wilcox,Tcm/Naive cytotoxic T cells,20,0.15
+dominguez_conde,seurat_wilcox,Tcm/Naive helper T cells,20,0.0
+dominguez_conde,seurat_wilcox,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,cepo,CD16+ NK cells,20,0.3
+yoshida,cepo,Classical monocytes,20,0.2
+yoshida,cepo,DC2,1,0.0
+yoshida,cepo,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,cepo,Memory B cells,20,0.1
+yoshida,cepo,Non-classical monocytes,20,0.35
+yoshida,cepo,Regulatory T cells,20,0.4
+yoshida,cepo,Tcm/Naive cytotoxic T cells,20,0.25
+yoshida,cepo,Tcm/Naive helper T cells,20,0.15
+yoshida,cepo,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,cepo,pDC,20,0.5
+yoshida,cosg,CD16+ NK cells,20,0.55
+yoshida,cosg,Classical monocytes,20,0.3
+yoshida,cosg,DC2,1,1.0
+yoshida,cosg,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,cosg,Memory B cells,20,0.0
+yoshida,cosg,Naive B cells,7,0.5714285714285714
+yoshida,cosg,Non-classical monocytes,20,0.35
+yoshida,cosg,Regulatory T cells,20,0.4
+yoshida,cosg,Tcm/Naive cytotoxic T cells,20,0.3
+yoshida,cosg,Tcm/Naive helper T cells,20,0.0
+yoshida,cosg,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,cosg,pDC,20,0.4
+yoshida,edger_glm,CD16+ NK cells,20,0.25
+yoshida,edger_glm,Classical monocytes,20,0.25
+yoshida,edger_glm,DC2,1,1.0
+yoshida,edger_glm,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,edger_glm,Memory B cells,20,0.0
+yoshida,edger_glm,Naive B cells,7,0.14285714285714285
+yoshida,edger_glm,Non-classical monocytes,20,0.1
+yoshida,edger_glm,Regulatory T cells,20,0.35
+yoshida,edger_glm,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,edger_glm,Tcm/Naive helper T cells,20,0.0
+yoshida,edger_glm,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,edger_glm,pDC,20,0.45
+yoshida,edger_ql,CD16+ NK cells,20,0.25
+yoshida,edger_ql,Classical monocytes,20,0.25
+yoshida,edger_ql,DC2,1,1.0
+yoshida,edger_ql,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,edger_ql,Memory B cells,20,0.0
+yoshida,edger_ql,Naive B cells,7,0.0
+yoshida,edger_ql,Non-classical monocytes,20,0.1
+yoshida,edger_ql,Regulatory T cells,20,0.3
+yoshida,edger_ql,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,edger_ql,Tcm/Naive helper T cells,20,0.0
+yoshida,edger_ql,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,edger_ql,pDC,20,0.45
+yoshida,glmgampoi,CD16+ NK cells,20,0.0
+yoshida,glmgampoi,Classical monocytes,20,0.05
+yoshida,glmgampoi,DC2,1,1.0
+yoshida,glmgampoi,Megakaryocytes/platelets,11,0.0
+yoshida,glmgampoi,Memory B cells,20,0.0
+yoshida,glmgampoi,Naive B cells,7,0.0
+yoshida,glmgampoi,Non-classical monocytes,20,0.15
+yoshida,glmgampoi,Regulatory T cells,20,0.35
+yoshida,glmgampoi,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,glmgampoi,Tcm/Naive helper T cells,20,0.1
+yoshida,glmgampoi,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,glmgampoi,pDC,20,0.35
+yoshida,limma_trend,CD16+ NK cells,20,0.5
+yoshida,limma_trend,Classical monocytes,20,0.25
+yoshida,limma_trend,DC2,1,1.0
+yoshida,limma_trend,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,limma_trend,Memory B cells,20,0.0
+yoshida,limma_trend,Naive B cells,7,0.42857142857142855
+yoshida,limma_trend,Non-classical monocytes,20,0.15
+yoshida,limma_trend,Regulatory T cells,20,0.45
+yoshida,limma_trend,Tcm/Naive cytotoxic T cells,20,0.1
+yoshida,limma_trend,Tcm/Naive helper T cells,20,0.0
+yoshida,limma_trend,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,limma_trend,pDC,20,0.4
+yoshida,limma_voom,CD16+ NK cells,20,0.0
+yoshida,limma_voom,Classical monocytes,20,0.15
+yoshida,limma_voom,DC2,1,0.0
+yoshida,limma_voom,Megakaryocytes/platelets,11,0.0
+yoshida,limma_voom,Memory B cells,20,0.0
+yoshida,limma_voom,Naive B cells,7,0.0
+yoshida,limma_voom,Non-classical monocytes,20,0.0
+yoshida,limma_voom,Regulatory T cells,20,0.0
+yoshida,limma_voom,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,limma_voom,Tcm/Naive helper T cells,20,0.0
+yoshida,limma_voom,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,limma_voom,pDC,20,0.0
+yoshida,lm_two_sample,CD16+ NK cells,20,0.5
+yoshida,lm_two_sample,Classical monocytes,20,0.25
+yoshida,lm_two_sample,DC2,1,1.0
+yoshida,lm_two_sample,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,lm_two_sample,Memory B cells,20,0.0
+yoshida,lm_two_sample,Naive B cells,7,0.42857142857142855
+yoshida,lm_two_sample,Non-classical monocytes,20,0.2
+yoshida,lm_two_sample,Regulatory T cells,20,0.45
+yoshida,lm_two_sample,Tcm/Naive cytotoxic T cells,20,0.15
+yoshida,lm_two_sample,Tcm/Naive helper T cells,20,0.0
+yoshida,lm_two_sample,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,lm_two_sample,pDC,20,0.4
+yoshida,logfc_abs,CD16+ NK cells,20,0.2
+yoshida,logfc_abs,Classical monocytes,20,0.2
+yoshida,logfc_abs,DC2,1,0.0
+yoshida,logfc_abs,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,logfc_abs,Memory B cells,20,0.0
+yoshida,logfc_abs,Naive B cells,7,0.0
+yoshida,logfc_abs,Non-classical monocytes,20,0.0
+yoshida,logfc_abs,Regulatory T cells,20,0.0
+yoshida,logfc_abs,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,logfc_abs,Tcm/Naive helper T cells,20,0.0
+yoshida,logfc_abs,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,logfc_abs,pDC,20,0.2
+yoshida,logfc_raw,CD16+ NK cells,20,0.55
+yoshida,logfc_raw,Classical monocytes,20,0.2
+yoshida,logfc_raw,DC2,1,0.0
+yoshida,logfc_raw,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,logfc_raw,Memory B cells,20,0.0
+yoshida,logfc_raw,Naive B cells,7,0.0
+yoshida,logfc_raw,Non-classical monocytes,20,0.0
+yoshida,logfc_raw,Regulatory T cells,20,0.25
+yoshida,logfc_raw,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,logfc_raw,Tcm/Naive helper T cells,20,0.0
+yoshida,logfc_raw,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,logfc_raw,pDC,20,0.35
+yoshida,random,CD16+ NK cells,20,0.0
+yoshida,random,Classical monocytes,20,0.0
+yoshida,random,DC2,1,0.0
+yoshida,random,Megakaryocytes/platelets,11,0.0
+yoshida,random,Memory B cells,20,0.0
+yoshida,random,Naive B cells,7,0.0
+yoshida,random,Non-classical monocytes,20,0.0
+yoshida,random,Regulatory T cells,20,0.0
+yoshida,random,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,random,Tcm/Naive helper T cells,20,0.0
+yoshida,random,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,random,pDC,20,0.0
+yoshida,scanpy_t_rankby_abs,CD16+ NK cells,20,0.2
+yoshida,scanpy_t_rankby_abs,Classical monocytes,20,0.1
+yoshida,scanpy_t_rankby_abs,DC2,1,0.0
+yoshida,scanpy_t_rankby_abs,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scanpy_t_rankby_abs,Memory B cells,20,0.0
+yoshida,scanpy_t_rankby_abs,Naive B cells,7,0.0
+yoshida,scanpy_t_rankby_abs,Non-classical monocytes,20,0.0
+yoshida,scanpy_t_rankby_abs,Regulatory T cells,20,0.0
+yoshida,scanpy_t_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_t_rankby_abs,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_t_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_t_rankby_abs,pDC,20,0.0
+yoshida,scanpy_t_rankby_raw,CD16+ NK cells,20,0.55
+yoshida,scanpy_t_rankby_raw,Classical monocytes,20,0.15
+yoshida,scanpy_t_rankby_raw,DC2,1,0.0
+yoshida,scanpy_t_rankby_raw,Megakaryocytes/platelets,11,0.45454545454545453
+yoshida,scanpy_t_rankby_raw,Memory B cells,20,0.0
+yoshida,scanpy_t_rankby_raw,Naive B cells,7,0.14285714285714285
+yoshida,scanpy_t_rankby_raw,Non-classical monocytes,20,0.0
+yoshida,scanpy_t_rankby_raw,Regulatory T cells,20,0.25
+yoshida,scanpy_t_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_t_rankby_raw,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_t_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_t_rankby_raw,pDC,20,0.35
+yoshida,scanpy_tover_rankby_abs,CD16+ NK cells,20,0.4
+yoshida,scanpy_tover_rankby_abs,Classical monocytes,20,0.2
+yoshida,scanpy_tover_rankby_abs,DC2,1,0.0
+yoshida,scanpy_tover_rankby_abs,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,scanpy_tover_rankby_abs,Memory B cells,20,0.0
+yoshida,scanpy_tover_rankby_abs,Naive B cells,7,0.14285714285714285
+yoshida,scanpy_tover_rankby_abs,Non-classical monocytes,20,0.0
+yoshida,scanpy_tover_rankby_abs,Regulatory T cells,20,0.2
+yoshida,scanpy_tover_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_tover_rankby_abs,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_tover_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_tover_rankby_abs,pDC,20,0.4
+yoshida,scanpy_tover_rankby_raw,CD16+ NK cells,20,0.6
+yoshida,scanpy_tover_rankby_raw,Classical monocytes,20,0.2
+yoshida,scanpy_tover_rankby_raw,DC2,1,0.0
+yoshida,scanpy_tover_rankby_raw,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,scanpy_tover_rankby_raw,Memory B cells,20,0.0
+yoshida,scanpy_tover_rankby_raw,Naive B cells,7,0.14285714285714285
+yoshida,scanpy_tover_rankby_raw,Non-classical monocytes,20,0.0
+yoshida,scanpy_tover_rankby_raw,Regulatory T cells,20,0.3
+yoshida,scanpy_tover_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_tover_rankby_raw,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_tover_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_tover_rankby_raw,pDC,20,0.4
+yoshida,scanpy_wilcoxon_rankby_abs,CD16+ NK cells,20,0.2
+yoshida,scanpy_wilcoxon_rankby_abs,Classical monocytes,20,0.15
+yoshida,scanpy_wilcoxon_rankby_abs,DC2,1,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,Megakaryocytes/platelets,11,0.45454545454545453
+yoshida,scanpy_wilcoxon_rankby_abs,Memory B cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,Naive B cells,7,0.14285714285714285
+yoshida,scanpy_wilcoxon_rankby_abs,Non-classical monocytes,20,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,Regulatory T cells,20,0.15
+yoshida,scanpy_wilcoxon_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_wilcoxon_rankby_abs,pDC,20,0.4
+yoshida,scanpy_wilcoxon_rankby_raw,CD16+ NK cells,20,0.55
+yoshida,scanpy_wilcoxon_rankby_raw,Classical monocytes,20,0.15
+yoshida,scanpy_wilcoxon_rankby_raw,DC2,1,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,Megakaryocytes/platelets,11,0.45454545454545453
+yoshida,scanpy_wilcoxon_rankby_raw,Memory B cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,Naive B cells,7,0.14285714285714285
+yoshida,scanpy_wilcoxon_rankby_raw,Non-classical monocytes,20,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,Regulatory T cells,20,0.2
+yoshida,scanpy_wilcoxon_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_wilcoxon_rankby_raw,pDC,20,0.4
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,CD16+ NK cells,20,0.45
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Classical monocytes,20,0.25
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,DC2,1,1.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Megakaryocytes/platelets,11,0.2727272727272727
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Memory B cells,20,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Naive B cells,7,0.42857142857142855
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Non-classical monocytes,20,0.2
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Regulatory T cells,20,0.45
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive cytotoxic T cells,20,0.1
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_abs,pDC,20,0.45
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,CD16+ NK cells,20,0.55
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Classical monocytes,20,0.25
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,DC2,1,1.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Megakaryocytes/platelets,11,0.2727272727272727
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Memory B cells,20,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Naive B cells,7,0.42857142857142855
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Non-classical monocytes,20,0.2
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Regulatory T cells,20,0.45
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive cytotoxic T cells,20,0.1
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Tcm/Naive helper T cells,20,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scanpy_wilcoxontiecorrect_rankby_raw,pDC,20,0.45
+yoshida,scran_findMarkers_binom_all,CD16+ NK cells,20,0.25
+yoshida,scran_findMarkers_binom_all,Classical monocytes,20,0.15
+yoshida,scran_findMarkers_binom_all,DC2,1,0.0
+yoshida,scran_findMarkers_binom_all,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_findMarkers_binom_all,Memory B cells,20,0.2
+yoshida,scran_findMarkers_binom_all,Naive B cells,7,0.5714285714285714
+yoshida,scran_findMarkers_binom_all,Non-classical monocytes,20,0.3
+yoshida,scran_findMarkers_binom_all,Regulatory T cells,20,0.5
+yoshida,scran_findMarkers_binom_all,Tcm/Naive cytotoxic T cells,20,0.2
+yoshida,scran_findMarkers_binom_all,Tcm/Naive helper T cells,20,0.05
+yoshida,scran_findMarkers_binom_all,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_binom_all,pDC,20,0.4
+yoshida,scran_findMarkers_binom_any,CD16+ NK cells,20,0.2
+yoshida,scran_findMarkers_binom_any,Classical monocytes,20,0.05
+yoshida,scran_findMarkers_binom_any,DC2,1,1.0
+yoshida,scran_findMarkers_binom_any,Megakaryocytes/platelets,11,0.2727272727272727
+yoshida,scran_findMarkers_binom_any,Memory B cells,20,0.2
+yoshida,scran_findMarkers_binom_any,Naive B cells,7,0.0
+yoshida,scran_findMarkers_binom_any,Non-classical monocytes,20,0.05
+yoshida,scran_findMarkers_binom_any,Regulatory T cells,20,0.1
+yoshida,scran_findMarkers_binom_any,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_binom_any,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_binom_any,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_binom_any,pDC,20,0.4
+yoshida,scran_findMarkers_binom_some,CD16+ NK cells,20,0.5
+yoshida,scran_findMarkers_binom_some,Classical monocytes,20,0.15
+yoshida,scran_findMarkers_binom_some,DC2,1,1.0
+yoshida,scran_findMarkers_binom_some,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_findMarkers_binom_some,Memory B cells,20,0.0
+yoshida,scran_findMarkers_binom_some,Naive B cells,7,0.14285714285714285
+yoshida,scran_findMarkers_binom_some,Non-classical monocytes,20,0.1
+yoshida,scran_findMarkers_binom_some,Regulatory T cells,20,0.25
+yoshida,scran_findMarkers_binom_some,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_binom_some,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_binom_some,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_binom_some,pDC,20,0.35
+yoshida,scran_findMarkers_t_all,CD16+ NK cells,20,0.3
+yoshida,scran_findMarkers_t_all,Classical monocytes,20,0.25
+yoshida,scran_findMarkers_t_all,DC2,1,0.0
+yoshida,scran_findMarkers_t_all,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,scran_findMarkers_t_all,Memory B cells,20,0.15
+yoshida,scran_findMarkers_t_all,Naive B cells,7,0.5714285714285714
+yoshida,scran_findMarkers_t_all,Non-classical monocytes,20,0.2
+yoshida,scran_findMarkers_t_all,Regulatory T cells,20,0.25
+yoshida,scran_findMarkers_t_all,Tcm/Naive cytotoxic T cells,20,0.1
+yoshida,scran_findMarkers_t_all,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_t_all,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_t_all,pDC,20,0.45
+yoshida,scran_findMarkers_t_any,CD16+ NK cells,20,0.35
+yoshida,scran_findMarkers_t_any,Classical monocytes,20,0.2
+yoshida,scran_findMarkers_t_any,DC2,1,0.0
+yoshida,scran_findMarkers_t_any,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,scran_findMarkers_t_any,Memory B cells,20,0.05
+yoshida,scran_findMarkers_t_any,Naive B cells,7,0.14285714285714285
+yoshida,scran_findMarkers_t_any,Non-classical monocytes,20,0.0
+yoshida,scran_findMarkers_t_any,Regulatory T cells,20,0.0
+yoshida,scran_findMarkers_t_any,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_t_any,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_t_any,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_t_any,pDC,20,0.0
+yoshida,scran_findMarkers_t_some,CD16+ NK cells,20,0.45
+yoshida,scran_findMarkers_t_some,Classical monocytes,20,0.25
+yoshida,scran_findMarkers_t_some,DC2,1,0.0
+yoshida,scran_findMarkers_t_some,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scran_findMarkers_t_some,Memory B cells,20,0.0
+yoshida,scran_findMarkers_t_some,Naive B cells,7,0.14285714285714285
+yoshida,scran_findMarkers_t_some,Non-classical monocytes,20,0.0
+yoshida,scran_findMarkers_t_some,Regulatory T cells,20,0.0
+yoshida,scran_findMarkers_t_some,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_t_some,Tcm/Naive helper T cells,20,0.1
+yoshida,scran_findMarkers_t_some,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_t_some,pDC,20,0.1
+yoshida,scran_findMarkers_wilcox_all,CD16+ NK cells,20,0.35
+yoshida,scran_findMarkers_wilcox_all,Classical monocytes,20,0.3
+yoshida,scran_findMarkers_wilcox_all,DC2,1,0.0
+yoshida,scran_findMarkers_wilcox_all,Megakaryocytes/platelets,11,0.45454545454545453
+yoshida,scran_findMarkers_wilcox_all,Memory B cells,20,0.2
+yoshida,scran_findMarkers_wilcox_all,Naive B cells,7,0.5714285714285714
+yoshida,scran_findMarkers_wilcox_all,Non-classical monocytes,20,0.05
+yoshida,scran_findMarkers_wilcox_all,Regulatory T cells,20,0.25
+yoshida,scran_findMarkers_wilcox_all,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_all,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_all,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_wilcox_all,pDC,20,0.45
+yoshida,scran_findMarkers_wilcox_any,CD16+ NK cells,20,0.1
+yoshida,scran_findMarkers_wilcox_any,Classical monocytes,20,0.05
+yoshida,scran_findMarkers_wilcox_any,DC2,1,0.0
+yoshida,scran_findMarkers_wilcox_any,Megakaryocytes/platelets,11,0.2727272727272727
+yoshida,scran_findMarkers_wilcox_any,Memory B cells,20,0.0
+yoshida,scran_findMarkers_wilcox_any,Naive B cells,7,0.0
+yoshida,scran_findMarkers_wilcox_any,Non-classical monocytes,20,0.0
+yoshida,scran_findMarkers_wilcox_any,Regulatory T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_any,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_any,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_any,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_wilcox_any,pDC,20,0.15
+yoshida,scran_findMarkers_wilcox_some,CD16+ NK cells,20,0.1
+yoshida,scran_findMarkers_wilcox_some,Classical monocytes,20,0.1
+yoshida,scran_findMarkers_wilcox_some,DC2,1,0.0
+yoshida,scran_findMarkers_wilcox_some,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,scran_findMarkers_wilcox_some,Memory B cells,20,0.0
+yoshida,scran_findMarkers_wilcox_some,Naive B cells,7,0.0
+yoshida,scran_findMarkers_wilcox_some,Non-classical monocytes,20,0.0
+yoshida,scran_findMarkers_wilcox_some,Regulatory T cells,20,0.05
+yoshida,scran_findMarkers_wilcox_some,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_some,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_findMarkers_wilcox_some,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_findMarkers_wilcox_some,pDC,20,0.4
+yoshida,scran_scoreMarkers_max_AUC,CD16+ NK cells,20,0.35
+yoshida,scran_scoreMarkers_max_AUC,Classical monocytes,20,0.1
+yoshida,scran_scoreMarkers_max_AUC,DC2,1,0.0
+yoshida,scran_scoreMarkers_max_AUC,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scran_scoreMarkers_max_AUC,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_max_AUC,Naive B cells,7,0.0
+yoshida,scran_scoreMarkers_max_AUC,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_max_AUC,Regulatory T cells,20,0.0
+yoshida,scran_scoreMarkers_max_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_max_AUC,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_max_AUC,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_max_AUC,pDC,20,0.25
+yoshida,scran_scoreMarkers_max_logFC_cohen,CD16+ NK cells,20,0.35
+yoshida,scran_scoreMarkers_max_logFC_cohen,Classical monocytes,20,0.1
+yoshida,scran_scoreMarkers_max_logFC_cohen,DC2,1,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_scoreMarkers_max_logFC_cohen,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Naive B cells,7,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Regulatory T cells,20,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_max_logFC_cohen,pDC,20,0.25
+yoshida,scran_scoreMarkers_max_logFC_detected,CD16+ NK cells,20,0.2
+yoshida,scran_scoreMarkers_max_logFC_detected,Classical monocytes,20,0.05
+yoshida,scran_scoreMarkers_max_logFC_detected,DC2,1,1.0
+yoshida,scran_scoreMarkers_max_logFC_detected,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,scran_scoreMarkers_max_logFC_detected,Memory B cells,20,0.05
+yoshida,scran_scoreMarkers_max_logFC_detected,Naive B cells,7,0.0
+yoshida,scran_scoreMarkers_max_logFC_detected,Non-classical monocytes,20,0.25
+yoshida,scran_scoreMarkers_max_logFC_detected,Regulatory T cells,20,0.2
+yoshida,scran_scoreMarkers_max_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+yoshida,scran_scoreMarkers_max_logFC_detected,Tcm/Naive helper T cells,20,0.05
+yoshida,scran_scoreMarkers_max_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_max_logFC_detected,pDC,20,0.2
+yoshida,scran_scoreMarkers_mean_AUC,CD16+ NK cells,20,0.5
+yoshida,scran_scoreMarkers_mean_AUC,Classical monocytes,20,0.2
+yoshida,scran_scoreMarkers_mean_AUC,DC2,1,0.0
+yoshida,scran_scoreMarkers_mean_AUC,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scran_scoreMarkers_mean_AUC,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_mean_AUC,Naive B cells,7,0.14285714285714285
+yoshida,scran_scoreMarkers_mean_AUC,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_mean_AUC,Regulatory T cells,20,0.15
+yoshida,scran_scoreMarkers_mean_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_mean_AUC,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_mean_AUC,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_mean_AUC,pDC,20,0.4
+yoshida,scran_scoreMarkers_mean_logFC_cohen,CD16+ NK cells,20,0.55
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Classical monocytes,20,0.2
+yoshida,scran_scoreMarkers_mean_logFC_cohen,DC2,1,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Naive B cells,7,0.14285714285714285
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Regulatory T cells,20,0.2
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_mean_logFC_cohen,pDC,20,0.4
+yoshida,scran_scoreMarkers_mean_logFC_detected,CD16+ NK cells,20,0.3
+yoshida,scran_scoreMarkers_mean_logFC_detected,Classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_mean_logFC_detected,DC2,1,1.0
+yoshida,scran_scoreMarkers_mean_logFC_detected,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,scran_scoreMarkers_mean_logFC_detected,Memory B cells,20,0.1
+yoshida,scran_scoreMarkers_mean_logFC_detected,Naive B cells,7,0.2857142857142857
+yoshida,scran_scoreMarkers_mean_logFC_detected,Non-classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_mean_logFC_detected,Regulatory T cells,20,0.4
+yoshida,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+yoshida,scran_scoreMarkers_mean_logFC_detected,Tcm/Naive helper T cells,20,0.15
+yoshida,scran_scoreMarkers_mean_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_mean_logFC_detected,pDC,20,0.55
+yoshida,scran_scoreMarkers_median_AUC,CD16+ NK cells,20,0.5
+yoshida,scran_scoreMarkers_median_AUC,Classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_median_AUC,DC2,1,0.0
+yoshida,scran_scoreMarkers_median_AUC,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scran_scoreMarkers_median_AUC,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_median_AUC,Naive B cells,7,0.0
+yoshida,scran_scoreMarkers_median_AUC,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_median_AUC,Regulatory T cells,20,0.1
+yoshida,scran_scoreMarkers_median_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_median_AUC,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_median_AUC,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_median_AUC,pDC,20,0.35
+yoshida,scran_scoreMarkers_median_logFC_cohen,CD16+ NK cells,20,0.55
+yoshida,scran_scoreMarkers_median_logFC_cohen,Classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_median_logFC_cohen,DC2,1,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_scoreMarkers_median_logFC_cohen,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,Naive B cells,7,0.14285714285714285
+yoshida,scran_scoreMarkers_median_logFC_cohen,Non-classical monocytes,20,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,Regulatory T cells,20,0.2
+yoshida,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_median_logFC_cohen,pDC,20,0.4
+yoshida,scran_scoreMarkers_median_logFC_detected,CD16+ NK cells,20,0.45
+yoshida,scran_scoreMarkers_median_logFC_detected,Classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_median_logFC_detected,DC2,1,1.0
+yoshida,scran_scoreMarkers_median_logFC_detected,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,scran_scoreMarkers_median_logFC_detected,Memory B cells,20,0.05
+yoshida,scran_scoreMarkers_median_logFC_detected,Naive B cells,7,0.2857142857142857
+yoshida,scran_scoreMarkers_median_logFC_detected,Non-classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_median_logFC_detected,Regulatory T cells,20,0.35
+yoshida,scran_scoreMarkers_median_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+yoshida,scran_scoreMarkers_median_logFC_detected,Tcm/Naive helper T cells,20,0.15
+yoshida,scran_scoreMarkers_median_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_median_logFC_detected,pDC,20,0.35
+yoshida,scran_scoreMarkers_min_AUC,CD16+ NK cells,20,0.5
+yoshida,scran_scoreMarkers_min_AUC,Classical monocytes,20,0.25
+yoshida,scran_scoreMarkers_min_AUC,DC2,1,0.0
+yoshida,scran_scoreMarkers_min_AUC,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_scoreMarkers_min_AUC,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_min_AUC,Naive B cells,7,0.5714285714285714
+yoshida,scran_scoreMarkers_min_AUC,Non-classical monocytes,20,0.2
+yoshida,scran_scoreMarkers_min_AUC,Regulatory T cells,20,0.35
+yoshida,scran_scoreMarkers_min_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_min_AUC,Tcm/Naive helper T cells,20,0.05
+yoshida,scran_scoreMarkers_min_AUC,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_min_AUC,pDC,20,0.45
+yoshida,scran_scoreMarkers_min_logFC_cohen,CD16+ NK cells,20,0.45
+yoshida,scran_scoreMarkers_min_logFC_cohen,Classical monocytes,20,0.35
+yoshida,scran_scoreMarkers_min_logFC_cohen,DC2,1,0.0
+yoshida,scran_scoreMarkers_min_logFC_cohen,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,scran_scoreMarkers_min_logFC_cohen,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_min_logFC_cohen,Naive B cells,7,0.5714285714285714
+yoshida,scran_scoreMarkers_min_logFC_cohen,Non-classical monocytes,20,0.15
+yoshida,scran_scoreMarkers_min_logFC_cohen,Regulatory T cells,20,0.35
+yoshida,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,scran_scoreMarkers_min_logFC_cohen,Tcm/Naive helper T cells,20,0.1
+yoshida,scran_scoreMarkers_min_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_min_logFC_cohen,pDC,20,0.45
+yoshida,scran_scoreMarkers_min_logFC_detected,CD16+ NK cells,20,0.1
+yoshida,scran_scoreMarkers_min_logFC_detected,Classical monocytes,20,0.1
+yoshida,scran_scoreMarkers_min_logFC_detected,DC2,1,0.0
+yoshida,scran_scoreMarkers_min_logFC_detected,Megakaryocytes/platelets,11,0.18181818181818182
+yoshida,scran_scoreMarkers_min_logFC_detected,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_min_logFC_detected,Naive B cells,7,0.14285714285714285
+yoshida,scran_scoreMarkers_min_logFC_detected,Non-classical monocytes,20,0.2
+yoshida,scran_scoreMarkers_min_logFC_detected,Regulatory T cells,20,0.25
+yoshida,scran_scoreMarkers_min_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.2
+yoshida,scran_scoreMarkers_min_logFC_detected,Tcm/Naive helper T cells,20,0.1
+yoshida,scran_scoreMarkers_min_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_min_logFC_detected,pDC,20,0.25
+yoshida,scran_scoreMarkers_rank_AUC,CD16+ NK cells,20,0.4
+yoshida,scran_scoreMarkers_rank_AUC,Classical monocytes,20,0.25
+yoshida,scran_scoreMarkers_rank_AUC,DC2,1,0.0
+yoshida,scran_scoreMarkers_rank_AUC,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,scran_scoreMarkers_rank_AUC,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_rank_AUC,Naive B cells,7,0.2857142857142857
+yoshida,scran_scoreMarkers_rank_AUC,Non-classical monocytes,20,0.05
+yoshida,scran_scoreMarkers_rank_AUC,Regulatory T cells,20,0.1
+yoshida,scran_scoreMarkers_rank_AUC,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,scran_scoreMarkers_rank_AUC,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_rank_AUC,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_rank_AUC,pDC,20,0.3
+yoshida,scran_scoreMarkers_rank_logFC_cohen,CD16+ NK cells,20,0.45
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Classical monocytes,20,0.25
+yoshida,scran_scoreMarkers_rank_logFC_cohen,DC2,1,0.0
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Megakaryocytes/platelets,11,0.5454545454545454
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Memory B cells,20,0.0
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Naive B cells,7,0.42857142857142855
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Non-classical monocytes,20,0.05
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Regulatory T cells,20,0.1
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Tcm/Naive helper T cells,20,0.0
+yoshida,scran_scoreMarkers_rank_logFC_cohen,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_rank_logFC_cohen,pDC,20,0.25
+yoshida,scran_scoreMarkers_rank_logFC_detected,CD16+ NK cells,20,0.25
+yoshida,scran_scoreMarkers_rank_logFC_detected,Classical monocytes,20,0.1
+yoshida,scran_scoreMarkers_rank_logFC_detected,DC2,1,1.0
+yoshida,scran_scoreMarkers_rank_logFC_detected,Megakaryocytes/platelets,11,0.09090909090909091
+yoshida,scran_scoreMarkers_rank_logFC_detected,Memory B cells,20,0.1
+yoshida,scran_scoreMarkers_rank_logFC_detected,Naive B cells,7,0.0
+yoshida,scran_scoreMarkers_rank_logFC_detected,Non-classical monocytes,20,0.25
+yoshida,scran_scoreMarkers_rank_logFC_detected,Regulatory T cells,20,0.35
+yoshida,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive cytotoxic T cells,20,0.15
+yoshida,scran_scoreMarkers_rank_logFC_detected,Tcm/Naive helper T cells,20,0.15
+yoshida,scran_scoreMarkers_rank_logFC_detected,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,scran_scoreMarkers_rank_logFC_detected,pDC,20,0.35
+yoshida,seurat_LR,CD16+ NK cells,20,0.5
+yoshida,seurat_LR,Classical monocytes,20,0.25
+yoshida,seurat_LR,DC2,1,1.0
+yoshida,seurat_LR,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_LR,Memory B cells,20,0.0
+yoshida,seurat_LR,Naive B cells,7,0.14285714285714285
+yoshida,seurat_LR,Non-classical monocytes,20,0.05
+yoshida,seurat_LR,Regulatory T cells,20,0.35
+yoshida,seurat_LR,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,seurat_LR,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_LR,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_LR,pDC,20,0.45
+yoshida,seurat_MAST,CD16+ NK cells,20,0.5
+yoshida,seurat_MAST,Classical monocytes,20,0.25
+yoshida,seurat_MAST,DC2,1,1.0
+yoshida,seurat_MAST,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_MAST,Memory B cells,20,0.0
+yoshida,seurat_MAST,Naive B cells,7,0.14285714285714285
+yoshida,seurat_MAST,Non-classical monocytes,20,0.05
+yoshida,seurat_MAST,Regulatory T cells,20,0.35
+yoshida,seurat_MAST,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,seurat_MAST,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_MAST,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_MAST,pDC,20,0.45
+yoshida,seurat_bimod,CD16+ NK cells,20,0.5
+yoshida,seurat_bimod,Classical monocytes,20,0.25
+yoshida,seurat_bimod,DC2,1,1.0
+yoshida,seurat_bimod,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_bimod,Memory B cells,20,0.0
+yoshida,seurat_bimod,Naive B cells,7,0.14285714285714285
+yoshida,seurat_bimod,Non-classical monocytes,20,0.05
+yoshida,seurat_bimod,Regulatory T cells,20,0.3
+yoshida,seurat_bimod,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,seurat_bimod,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_bimod,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_bimod,pDC,20,0.45
+yoshida,seurat_negbinom,CD16+ NK cells,20,0.55
+yoshida,seurat_negbinom,Classical monocytes,20,0.25
+yoshida,seurat_negbinom,DC2,1,0.0
+yoshida,seurat_negbinom,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_negbinom,Memory B cells,20,0.0
+yoshida,seurat_negbinom,Naive B cells,7,0.2857142857142857
+yoshida,seurat_negbinom,Non-classical monocytes,20,0.1
+yoshida,seurat_negbinom,Regulatory T cells,20,0.4
+yoshida,seurat_negbinom,Tcm/Naive cytotoxic T cells,20,0.05
+yoshida,seurat_negbinom,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_negbinom,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_negbinom,pDC,20,0.45
+yoshida,seurat_poisson,CD16+ NK cells,20,0.55
+yoshida,seurat_poisson,Classical monocytes,20,0.25
+yoshida,seurat_poisson,DC2,1,1.0
+yoshida,seurat_poisson,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_poisson,Memory B cells,20,0.0
+yoshida,seurat_poisson,Naive B cells,7,0.14285714285714285
+yoshida,seurat_poisson,Non-classical monocytes,20,0.05
+yoshida,seurat_poisson,Regulatory T cells,20,0.25
+yoshida,seurat_poisson,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,seurat_poisson,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_poisson,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_poisson,pDC,20,0.45
+yoshida,seurat_roc,CD16+ NK cells,20,0.2
+yoshida,seurat_roc,Classical monocytes,20,0.15
+yoshida,seurat_roc,DC2,1,0.0
+yoshida,seurat_roc,Megakaryocytes/platelets,11,0.45454545454545453
+yoshida,seurat_roc,Memory B cells,20,0.0
+yoshida,seurat_roc,Naive B cells,7,0.14285714285714285
+yoshida,seurat_roc,Non-classical monocytes,20,0.0
+yoshida,seurat_roc,Regulatory T cells,20,0.1
+yoshida,seurat_roc,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,seurat_roc,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_roc,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_roc,pDC,20,0.4
+yoshida,seurat_t,CD16+ NK cells,20,0.5
+yoshida,seurat_t,Classical monocytes,20,0.25
+yoshida,seurat_t,DC2,1,0.0
+yoshida,seurat_t,Megakaryocytes/platelets,11,0.36363636363636365
+yoshida,seurat_t,Memory B cells,20,0.0
+yoshida,seurat_t,Naive B cells,7,0.14285714285714285
+yoshida,seurat_t,Non-classical monocytes,20,0.0
+yoshida,seurat_t,Regulatory T cells,20,0.0
+yoshida,seurat_t,Tcm/Naive cytotoxic T cells,20,0.0
+yoshida,seurat_t,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_t,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_t,pDC,20,0.0
+yoshida,seurat_wilcox,CD16+ NK cells,20,0.5
+yoshida,seurat_wilcox,Classical monocytes,20,0.25
+yoshida,seurat_wilcox,DC2,1,1.0
+yoshida,seurat_wilcox,Megakaryocytes/platelets,11,0.6363636363636364
+yoshida,seurat_wilcox,Memory B cells,20,0.0
+yoshida,seurat_wilcox,Naive B cells,7,0.14285714285714285
+yoshida,seurat_wilcox,Non-classical monocytes,20,0.05
+yoshida,seurat_wilcox,Regulatory T cells,20,0.45
+yoshida,seurat_wilcox,Tcm/Naive cytotoxic T cells,20,0.1
+yoshida,seurat_wilcox,Tcm/Naive helper T cells,20,0.0
+yoshida,seurat_wilcox,Tem/Trm cytotoxic T cells,2,0.0
+yoshida,seurat_wilcox,pDC,20,0.45

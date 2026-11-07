@@ -1,0 +1,97 @@
+lineage,target,n_steps,recall20,jac_vs50
+zhao_Mono,CD14+ Mo,8,0.4,1.0
+zhao_Mono,CD14+ Mo,16,0.4,1.0
+zhao_Mono,CD14+ Mo,32,0.4,1.0
+zhao_Mono,CD14+ Mo,50,0.4,1.0
+zhao_Mono,CD14+ Mo,100,0.4,1.0
+zhao_Mono,CD14+ Mo,200,0.4,1.0
+zhao_Mono,CD16+ Mo,8,0.4,0.9047619047619048
+zhao_Mono,CD16+ Mo,16,0.4,1.0
+zhao_Mono,CD16+ Mo,32,0.4,1.0
+zhao_Mono,CD16+ Mo,50,0.4,1.0
+zhao_Mono,CD16+ Mo,100,0.4,1.0
+zhao_Mono,CD16+ Mo,200,0.4,1.0
+zhao_Mono,MerTK+ Mo,8,0.4,0.9047619047619048
+zhao_Mono,MerTK+ Mo,16,0.4,0.9047619047619048
+zhao_Mono,MerTK+ Mo,32,0.4,1.0
+zhao_Mono,MerTK+ Mo,50,0.4,1.0
+zhao_Mono,MerTK+ Mo,100,0.4,1.0
+zhao_Mono,MerTK+ Mo,200,0.4,1.0
+zhao_CD8,CCR7+ CD8,8,1.0,1.0
+zhao_CD8,CCR7+ CD8,16,1.0,1.0
+zhao_CD8,CCR7+ CD8,32,1.0,1.0
+zhao_CD8,CCR7+ CD8,50,1.0,1.0
+zhao_CD8,CCR7+ CD8,100,1.0,1.0
+zhao_CD8,CCR7+ CD8,200,1.0,1.0
+zhao_CD8,CRCR3+ CD8,8,0.375,1.0
+zhao_CD8,CRCR3+ CD8,16,0.375,1.0
+zhao_CD8,CRCR3+ CD8,32,0.375,1.0
+zhao_CD8,CRCR3+ CD8,50,0.375,1.0
+zhao_CD8,CRCR3+ CD8,100,0.375,1.0
+zhao_CD8,CRCR3+ CD8,200,0.375,1.0
+zhao_CD8,CX3CR1+ CD8,8,0.6,1.0
+zhao_CD8,CX3CR1+ CD8,16,0.6,1.0
+zhao_CD8,CX3CR1+ CD8,32,0.6,1.0
+zhao_CD8,CX3CR1+ CD8,50,0.6,1.0
+zhao_CD8,CX3CR1+ CD8,100,0.6,1.0
+zhao_CD8,CX3CR1+ CD8,200,0.6,1.0
+zhao_CD8,CXCR6+ CD8,8,0.4,1.0
+zhao_CD8,CXCR6+ CD8,16,0.4,1.0
+zhao_CD8,CXCR6+ CD8,32,0.4,1.0
+zhao_CD8,CXCR6+ CD8,50,0.4,1.0
+zhao_CD8,CXCR6+ CD8,100,0.4,1.0
+zhao_CD8,CXCR6+ CD8,200,0.4,1.0
+zhao_CD4,CCR7+ CD4,8,0.875,1.0
+zhao_CD4,CCR7+ CD4,16,0.875,1.0
+zhao_CD4,CCR7+ CD4,32,0.875,1.0
+zhao_CD4,CCR7+ CD4,50,0.875,1.0
+zhao_CD4,CCR7+ CD4,100,0.875,1.0
+zhao_CD4,CCR7+ CD4,200,0.875,1.0
+zhao_CD4,CXCR3+ CD4,8,0.875,1.0
+zhao_CD4,CXCR3+ CD4,16,0.875,1.0
+zhao_CD4,CXCR3+ CD4,32,0.875,1.0
+zhao_CD4,CXCR3+ CD4,50,0.875,1.0
+zhao_CD4,CXCR3+ CD4,100,0.875,1.0
+zhao_CD4,CXCR3+ CD4,200,0.875,1.0
+zhao_CD4,Treg,8,1.0,1.0
+zhao_CD4,Treg,16,1.0,1.0
+zhao_CD4,Treg,32,1.0,1.0
+zhao_CD4,Treg,50,1.0,1.0
+zhao_CD4,Treg,100,1.0,1.0
+zhao_CD4,Treg,200,1.0,1.0
+zhao_B,Naive B,8,0.0,1.0
+zhao_B,Naive B,16,0.0,1.0
+zhao_B,Naive B,32,0.0,1.0
+zhao_B,Naive B,50,0.0,1.0
+zhao_B,Naive B,100,0.0,1.0
+zhao_B,Naive B,200,0.0,1.0
+zhao_B,TCL1A+ naive B,8,1.0,1.0
+zhao_B,TCL1A+ naive B,16,1.0,1.0
+zhao_B,TCL1A+ naive B,32,1.0,1.0
+zhao_B,TCL1A+ naive B,50,1.0,1.0
+zhao_B,TCL1A+ naive B,100,1.0,1.0
+zhao_B,TCL1A+ naive B,200,1.0,1.0
+zhao_B,Classical mem B,8,0.5,1.0
+zhao_B,Classical mem B,16,0.5,1.0
+zhao_B,Classical mem B,32,0.5,1.0
+zhao_B,Classical mem B,50,0.5,1.0
+zhao_B,Classical mem B,100,0.5,1.0
+zhao_B,Classical mem B,200,0.5,1.0
+zhao_B,CD11c+ mem B,8,0.7142857142857143,1.0
+zhao_B,CD11c+ mem B,16,0.7142857142857143,1.0
+zhao_B,CD11c+ mem B,32,0.7142857142857143,1.0
+zhao_B,CD11c+ mem B,50,0.7142857142857143,1.0
+zhao_B,CD11c+ mem B,100,0.7142857142857143,1.0
+zhao_B,CD11c+ mem B,200,0.7142857142857143,1.0
+zhao_B,ZBTB32+ mem B,8,0.6,0.9047619047619048
+zhao_B,ZBTB32+ mem B,16,0.6,1.0
+zhao_B,ZBTB32+ mem B,32,0.6,1.0
+zhao_B,ZBTB32+ mem B,50,0.6,1.0
+zhao_B,ZBTB32+ mem B,100,0.6,1.0
+zhao_B,ZBTB32+ mem B,200,0.6,0.9047619047619048
+zhao_B,MZB,8,0.3333333333333333,1.0
+zhao_B,MZB,16,0.3333333333333333,1.0
+zhao_B,MZB,32,0.3333333333333333,1.0
+zhao_B,MZB,50,0.3333333333333333,1.0
+zhao_B,MZB,100,0.3333333333333333,1.0
+zhao_B,MZB,200,0.3333333333333333,1.0

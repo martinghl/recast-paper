@@ -1,0 +1,9 @@
+comp,n,recast_specific,cosg_specific,recast_full,cosg_full
+CD4 T,11,4,0,9,7
+CD8 T,30,5,0,18,14
+NK,5,2,2,2,3
+B / ASC,23,1,2,12,11
+Mono,16,3,1,9,5
+Lung,3,1,0,3,3
+Colon,5,0,0,3,2
+Pancreas,6,0,0,3,3

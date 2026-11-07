@@ -1,0 +1,113 @@
+source,target,panel,rule,recall20,rho,ref_states
+pbmcbmn,B naive,naive,anno_sib,0.7857,0.325,B intermediate;B memory
+pbmcbmn,B naive,naive,vs_all,0.3571,0.325,B intermediate;B memory;CD14 Mono;CD16 Mono;NK;NK Proliferating...
+pbmcbmn,B naive,naive,near_auto,0.7857,0.325,B intermediate;B memory;Plasmablast
+pbmcbmn,B naive,naive,near1,0.7143,0.325,B intermediate
+pbmcbmn,B naive,naive,near2,0.7857,0.325,B intermediate;B memory
+pbmcbmn,B naive,naive,near3,0.7857,0.325,B intermediate;B memory;Plasmablast
+pbmcbmn,B naive,naive,near5,0.4286,0.325,B intermediate;B memory;Plasmablast;NK Proliferating;CD16 Mono
+pbmcbmn,B naive,naive,phase0,0.7143,0.325,B intermediate
+pbmcbmn,B intermediate,intermediate,anno_sib,0.3333,0.223,B naive;B memory
+pbmcbmn,B intermediate,intermediate,vs_all,0.3333,0.223,B memory;B naive;CD14 Mono;CD16 Mono;NK;NK Proliferating...
+pbmcbmn,B intermediate,intermediate,near_auto,0.3333,0.223,B memory;B naive;Plasmablast
+pbmcbmn,B intermediate,intermediate,near1,0.1111,0.223,B memory
+pbmcbmn,B intermediate,intermediate,near2,0.3333,0.223,B memory;B naive
+pbmcbmn,B intermediate,intermediate,near3,0.3333,0.223,B memory;B naive;Plasmablast
+pbmcbmn,B intermediate,intermediate,near5,0.3333,0.223,B memory;B naive;Plasmablast;NK Proliferating;NK
+pbmcbmn,B intermediate,intermediate,phase0,0.1111,0.223,B memory
+pbmcbmn,B memory,memory,anno_sib,0.5833,0.201,B naive;B intermediate
+pbmcbmn,B memory,memory,vs_all,0.3333,0.201,B intermediate;B naive;CD14 Mono;CD16 Mono;NK;NK Proliferating...
+pbmcbmn,B memory,memory,near_auto,0.5833,0.201,B intermediate;B naive;Plasmablast
+pbmcbmn,B memory,memory,near1,0.5,0.201,B intermediate
+pbmcbmn,B memory,memory,near2,0.5833,0.201,B intermediate;B naive
+pbmcbmn,B memory,memory,near3,0.5833,0.201,B intermediate;B naive;Plasmablast
+pbmcbmn,B memory,memory,near5,0.3333,0.201,B intermediate;B naive;Plasmablast;NK Proliferating;NK
+pbmcbmn,B memory,memory,phase0,0.5,0.201,B intermediate
+yoshida,Naive B cells,naive,anno_sib,0.7143,0.395,Non-switched memory B cells;Switched memory B cells;Memory B cells
+yoshida,Naive B cells,naive,vs_all,0.2857,0.395,CD16+ NK cells;Classical monocytes;DC2;MAIT cells;Megakaryocytes/platelets;Memory B cells...
+yoshida,Naive B cells,naive,near_auto,0.7143,0.395,Memory B cells;Non-switched memory B cells;Switched memory B cells
+yoshida,Naive B cells,naive,near1,0.7857,0.395,Memory B cells
+yoshida,Naive B cells,naive,near2,0.7857,0.395,Memory B cells;Non-switched memory B cells
+yoshida,Naive B cells,naive,near3,0.7143,0.395,Memory B cells;Non-switched memory B cells;Switched memory B cells
+yoshida,Naive B cells,naive,near5,0.4286,0.395,Memory B cells;Non-switched memory B cells;Switched memory B cells;Tcm/Naive cytotoxic T cells;Non-classical monocytes
+yoshida,Naive B cells,naive,phase0,0.7857,0.395,Memory B cells
+yoshida,Non-switched memory B cells,nonswitched,anno_sib,0.4286,0.138,Naive B cells;Switched memory B cells;Memory B cells
+yoshida,Non-switched memory B cells,nonswitched,vs_all,0.1429,0.138,CD16+ NK cells;Classical monocytes;DC2;MAIT cells;Megakaryocytes/platelets;Memory B cells...
+yoshida,Non-switched memory B cells,nonswitched,near_auto,0.4286,0.138,Memory B cells;Switched memory B cells;Naive B cells
+yoshida,Non-switched memory B cells,nonswitched,near1,0.4286,0.138,Memory B cells
+yoshida,Non-switched memory B cells,nonswitched,near2,0.2857,0.138,Memory B cells;Switched memory B cells
+yoshida,Non-switched memory B cells,nonswitched,near3,0.4286,0.138,Memory B cells;Switched memory B cells;Naive B cells
+yoshida,Non-switched memory B cells,nonswitched,near5,0.2857,0.138,Memory B cells;Switched memory B cells;Naive B cells;Tcm/Naive cytotoxic T cells;Tem/Temra cytotoxic T cells
+yoshida,Non-switched memory B cells,nonswitched,phase0,0.4286,0.138,Memory B cells
+yoshida,Switched memory B cells,switched,anno_sib,0.5455,0.172,Naive B cells;Non-switched memory B cells;Memory B cells
+yoshida,Switched memory B cells,switched,vs_all,0.2727,0.172,CD16+ NK cells;Classical monocytes;DC2;MAIT cells;Megakaryocytes/platelets;Memory B cells...
+yoshida,Switched memory B cells,switched,near_auto,0.5455,0.172,Non-switched memory B cells;Memory B cells;Naive B cells
+yoshida,Switched memory B cells,switched,near1,0.3636,0.172,Non-switched memory B cells
+yoshida,Switched memory B cells,switched,near2,0.3636,0.172,Non-switched memory B cells;Memory B cells
+yoshida,Switched memory B cells,switched,near3,0.5455,0.172,Non-switched memory B cells;Memory B cells;Naive B cells
+yoshida,Switched memory B cells,switched,near5,0.2727,0.172,Non-switched memory B cells;Memory B cells;Naive B cells;Tem/Temra cytotoxic T cells;Tcm/Naive cytotoxic T cells
+yoshida,Switched memory B cells,switched,phase0,0.3636,0.172,Non-switched memory B cells
+yoshida,Memory B cells,memory,anno_sib,0.3333,0.147,Naive B cells;Non-switched memory B cells;Switched memory B cells
+yoshida,Memory B cells,memory,vs_all,0.0833,0.147,CD16+ NK cells;Classical monocytes;DC2;MAIT cells;Megakaryocytes/platelets;Naive B cells...
+yoshida,Memory B cells,memory,near_auto,0.3333,0.147,Non-switched memory B cells;Switched memory B cells;Naive B cells
+yoshida,Memory B cells,memory,near1,0.0,0.147,Non-switched memory B cells
+yoshida,Memory B cells,memory,near2,0.0,0.147,Non-switched memory B cells;Switched memory B cells
+yoshida,Memory B cells,memory,near3,0.3333,0.147,Non-switched memory B cells;Switched memory B cells;Naive B cells
+yoshida,Memory B cells,memory,near5,0.1667,0.147,Non-switched memory B cells;Switched memory B cells;Naive B cells;Tcm/Naive cytotoxic T cells;Tem/Temra cytotoxic T cells
+yoshida,Memory B cells,memory,phase0,0.0,0.147,Non-switched memory B cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,anno_sib,0.4286,0.232,Tem/Effector helper T cells;Regulatory T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,vs_all,0.5714,0.232,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive cytotoxic T cells...
+dominguez_conde,Tcm/Naive helper T cells,naiveT,near_auto,0.4286,0.232,Tem/Effector helper T cells;Regulatory T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,near1,0.5,0.232,Tem/Effector helper T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,near2,0.4286,0.232,Tem/Effector helper T cells;Regulatory T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,near3,0.4286,0.232,Tem/Effector helper T cells;Regulatory T cells;Tcm/Naive cytotoxic T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,near5,0.2857,0.232,Tem/Effector helper T cells;Regulatory T cells;Tcm/Naive cytotoxic T cells;Cycling immune mix;Tem/Trm cytotoxic T cells
+dominguez_conde,Tcm/Naive helper T cells,naiveT,phase0,0.5,0.232,Tem/Effector helper T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,anno_sib,0.3846,0.267,Tcm/Naive helper T cells;Regulatory T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,vs_all,0.2308,0.267,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive cytotoxic T cells...
+dominguez_conde,Tem/Effector helper T cells,eff_helper,near_auto,0.3846,0.267,Tcm/Naive helper T cells;Regulatory T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,near1,0.4615,0.267,Tcm/Naive helper T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,near2,0.3846,0.267,Tcm/Naive helper T cells;Regulatory T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,near3,0.3846,0.267,Tcm/Naive helper T cells;Regulatory T cells;Cycling immune mix
+dominguez_conde,Tem/Effector helper T cells,eff_helper,near5,0.5385,0.267,Tcm/Naive helper T cells;Regulatory T cells;Cycling immune mix;Tcm/Naive cytotoxic T cells;Tem/Trm cytotoxic T cells
+dominguez_conde,Tem/Effector helper T cells,eff_helper,phase0,0.4615,0.267,Tcm/Naive helper T cells
+dominguez_conde,Regulatory T cells,treg,anno_sib,0.6667,0.483,Tcm/Naive helper T cells;Tem/Effector helper T cells
+dominguez_conde,Regulatory T cells,treg,vs_all,0.5,0.483,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Tcm/Naive cytotoxic T cells;Tcm/Naive helper T cells...
+dominguez_conde,Regulatory T cells,treg,near_auto,0.6667,0.483,Tem/Effector helper T cells;Tcm/Naive helper T cells
+dominguez_conde,Regulatory T cells,treg,near1,0.5833,0.483,Tem/Effector helper T cells
+dominguez_conde,Regulatory T cells,treg,near2,0.6667,0.483,Tem/Effector helper T cells;Tcm/Naive helper T cells
+dominguez_conde,Regulatory T cells,treg,near3,0.75,0.483,Tem/Effector helper T cells;Tcm/Naive helper T cells;Cycling immune mix
+dominguez_conde,Regulatory T cells,treg,near5,0.75,0.483,Tem/Effector helper T cells;Tcm/Naive helper T cells;Cycling immune mix;Tcm/Naive cytotoxic T cells;Tem/Trm cytotoxic T cells
+dominguez_conde,Regulatory T cells,treg,phase0,0.5833,0.483,Tem/Effector helper T cells
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,anno_sib,0.7143,0.581,Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells;gdT
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,vs_all,0.3571,0.581,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive helper T cells...
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,near_auto,0.7143,0.581,Tem/Trm cytotoxic T cells;Tem/Temra cytotoxic T cells;gdT
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,near1,0.7143,0.581,Tem/Trm cytotoxic T cells
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,near2,0.7857,0.581,Tem/Trm cytotoxic T cells;Tem/Temra cytotoxic T cells
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,near3,0.7143,0.581,Tem/Trm cytotoxic T cells;Tem/Temra cytotoxic T cells;gdT
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,near5,0.0,0.581,Tem/Trm cytotoxic T cells;Tem/Temra cytotoxic T cells;gdT;Cycling immune mix;Tcm/Naive helper T cells
+dominguez_conde,Tcm/Naive cytotoxic T cells,naiveT,phase0,0.7143,0.581,Tem/Trm cytotoxic T cells
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,anno_sib,0.7857,0.246,Tcm/Naive cytotoxic T cells;Tem/Trm cytotoxic T cells;gdT
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,vs_all,0.3571,0.246,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive cytotoxic T cells...
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,near_auto,0.7143,0.246,gdT;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells;Cycling immune mix
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,near1,0.1429,0.246,gdT
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,near2,0.6429,0.246,gdT;Tem/Trm cytotoxic T cells
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,near3,0.7857,0.246,gdT;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,near5,0.1429,0.246,gdT;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells;Cycling immune mix;CD16+ NK cells
+dominguez_conde,Tem/Temra cytotoxic T cells,eff_cyto,phase0,0.1429,0.246,gdT
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,anno_sib,0.25,0.279,Tcm/Naive cytotoxic T cells;Tem/Temra cytotoxic T cells;gdT
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,vs_all,0.25,0.279,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive cytotoxic T cells...
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,near_auto,0.1667,0.279,Tem/Temra cytotoxic T cells;gdT;Tcm/Naive cytotoxic T cells;Cycling immune mix
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,near1,0.1667,0.279,Tem/Temra cytotoxic T cells
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,near2,0.1667,0.279,Tem/Temra cytotoxic T cells;gdT
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,near3,0.25,0.279,Tem/Temra cytotoxic T cells;gdT;Tcm/Naive cytotoxic T cells
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,near5,0.1667,0.279,Tem/Temra cytotoxic T cells;gdT;Tcm/Naive cytotoxic T cells;Cycling immune mix;CD16+ NK cells
+dominguez_conde,Tem/Trm cytotoxic T cells,trm,phase0,0.1667,0.279,Tem/Temra cytotoxic T cells
+dominguez_conde,gdT,gdt,anno_sib,0.7273,0.274,Tcm/Naive cytotoxic T cells;Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells
+dominguez_conde,gdT,gdt,vs_all,0.6364,0.274,CD16+ NK cells;Classical monocytes;Cycling immune mix;Non-classical monocytes;Regulatory T cells;Tcm/Naive cytotoxic T cells...
+dominguez_conde,gdT,gdt,near_auto,0.7273,0.274,Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells
+dominguez_conde,gdT,gdt,near1,0.5455,0.274,Tem/Temra cytotoxic T cells
+dominguez_conde,gdT,gdt,near2,0.5455,0.274,Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells
+dominguez_conde,gdT,gdt,near3,0.7273,0.274,Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells
+dominguez_conde,gdT,gdt,near5,0.3636,0.274,Tem/Temra cytotoxic T cells;Tem/Trm cytotoxic T cells;Tcm/Naive cytotoxic T cells;Cycling immune mix;CD16+ NK cells
+dominguez_conde,gdT,gdt,phase0,0.5455,0.274,Tem/Temra cytotoxic T cells

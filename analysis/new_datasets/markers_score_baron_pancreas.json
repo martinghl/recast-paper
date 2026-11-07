@@ -1,0 +1,10 @@
+{
+  "alpha": ["GCG", "TTR"],
+  "beta": ["INS", "IAPP", "DLK1"],
+  "delta": ["SST", "RBP4"],
+  "gamma": ["PPY", "AQP3"],
+  "acinar": ["PRSS1", "CPA1", "CTRB1"],
+  "ductal": ["KRT19", "SPP1", "CFTR"],
+  "endothelial": ["PECAM1", "PLVAP"],
+  "stellate": ["COL1A1", "PDGFRB"]
+}

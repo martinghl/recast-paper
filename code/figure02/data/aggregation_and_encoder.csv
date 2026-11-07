@@ -1,0 +1,98 @@
+unit,per_cell_no_encoder,per_cell_encoder,population_no_encoder,population_encoder,target_cells,marker_genes
+fs37_glia_gittings|OPC,0.45,0.45,0.35,0.45,3000,20
+fs37_glia_gittings|astrocyte,0.1,0.35,0.15,0.35,3000,20
+fs37_glia_gittings|oligodendrocyte,0.1,0.1,0.1,0.05,3000,20
+fs37_glia_maitra|OPC,0.4,0.4,0.3,0.4,3000,20
+fs37_glia_maitra|astrocyte,0.15,0.3,0.2,0.3,3000,20
+fs37_glia_maitra|oligodendrocyte,0.2,0.1,0.15,0.1,3000,20
+fs37_glia_rexach|OPC,0.45,0.4,0.35,0.4,3000,20
+fs37_glia_rexach|astrocyte,0.2,0.35,0.15,0.35,3000,20
+fs37_glia_rexach|oligodendrocyte,0.2,0.1,0.15,0.1,3000,20
+fs37_gut_burclaff|enterocyte,0.05,0.1,0.1,0.1,2016,20
+fs37_gut_burclaff|enteroendocrine,0.3333333333333333,0.5,0.4166666666666667,0.5,82,12
+fs37_gut_burclaff|goblet,0.35,0.4,0.45,0.4,1189,20
+fs37_gut_burclaff|tuft,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,524,12
+fs37_gut_hickey|enterocyte,0.15,0.2,0.1,0.2,3000,20
+fs37_gut_hickey|enteroendocrine,0.1666666666666666,0.4166666666666667,0.1666666666666666,0.4166666666666667,444,12
+fs37_gut_hickey|goblet,0.25,0.4,0.15,0.35,3000,20
+fs37_gut_hickey|tuft,0.5833333333333334,0.5,0.5,0.5,155,12
+fs37_gut_kong|Paneth,0.25,0.25,0.25,0.25,824,20
+fs37_gut_kong|enterocyte,0.2,0.35,0.2,0.35,3000,20
+fs37_gut_kong|enteroendocrine,0.5,0.6666666666666666,0.6666666666666666,0.6666666666666666,274,12
+fs37_gut_kong|goblet,0.5,0.4,0.4,0.4,2867,20
+fs37_gut_kong|tuft,0.5,0.4166666666666667,0.4166666666666667,0.5,224,12
+fs37_lung_natri|AT1,0.2857142857142857,0.2857142857142857,0.4285714285714285,0.2857142857142857,1590,7
+fs37_lung_natri|AT2,0.5714285714285714,0.7142857142857143,0.8571428571428571,0.7142857142857143,3000,7
+fs37_lung_natri|ciliated,0.3,0.3,0.2,0.3,2637,20
+fs37_lung_rustam|AT1,0.6,0.6,0.4,0.6,136,5
+fs37_lung_rustam|AT2,0.8571428571428571,0.8571428571428571,0.7142857142857143,0.8571428571428571,3000,7
+fs37_lung_rustam|basal,0.25,0.35,0.25,0.35,1580,20
+fs37_lung_rustam|ciliated,0.25,0.25,0.2,0.25,3000,20
+fs37_lung_rustam|club,0.5454545454545454,0.4545454545454545,0.6363636363636364,0.4545454545454545,3000,11
+fs37_lung_rustam|ionocyte,0.5,0.55,0.05,0.55,78,20
+fs37_neuron_gittings|excitatory,0.1,0.15,0.05,0.15,3000,20
+fs37_neuron_gittings|inhibitory,0.2,0.3,0.2,0.3,3000,20
+fs37_neuron_maitra|excitatory,0.15,0.15,0.1,0.15,3000,20
+fs37_neuron_maitra|inhibitory,0.3,0.3,0.25,0.3,3000,20
+fs37_neuron_rexach|excitatory,0.15,0.15,0.1,0.15,3000,20
+fs37_neuron_rexach|inhibitory,0.25,0.3,0.2,0.35,3000,20
+fs_asc_zhao|cycling ASC,0.2,0.2,0.2,0.2,2876,5
+fs_asc_zhao|noncycling ASC,0.3,0.4,0.45,0.35,5098,20
+fs_gut_smillie|enterocyte,0.25,0.25,0.25,0.3,3000,20
+fs_gut_smillie|enteroendocrine,0.5833333333333334,0.5,0.3333333333333333,0.6666666666666666,117,12
+fs_gut_smillie|goblet,0.35,0.35,0.35,0.35,3000,20
+fs_gut_smillie|tuft,0.5,0.4166666666666667,0.3333333333333333,0.4166666666666667,228,12
+fs_lung_hlca|AT1,0.6,0.6,0.8,0.8,3000,5
+fs_lung_hlca|AT2,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571,3000,7
+fs_lung_hlca|basal,0.25,0.25,0.2,0.3,3000,20
+fs_lung_hlca|ciliated,0.2,0.3,0.25,0.3,3000,20
+fs_lung_hlca|club,0.2727272727272727,0.5454545454545454,0.5454545454545454,0.4545454545454545,3000,11
+fs_lung_hlca|ionocyte,0.55,0.55,0.25,0.55,1737,20
+fs_nk_pbmcbmn|NK,0.5833333333333334,0.4166666666666667,0.5833333333333334,0.4166666666666667,13100,12
+fs_nk_pbmcbmn|NK_CD56bright,0.6,0.8,0.8,0.8,815,10
+fs_nk_zhao|CX3CR1+ NK,0.4615384615384615,0.3846153846153846,0.4615384615384615,0.3076923076923077,3304,13
+tf_b_ren|Naive B cells,0.3,0.35,0.3,0.3,1486,20
+tf_b_steph|Memory B cells,0.2,0.25,0.2,0.3,368,20
+tf_b_steph|Naive B cells,0.5,0.45,0.45,0.5,1148,20
+tf_b_yosh|Memory B cells,0.0,0.25,0.0,0.2,236,20
+tf_b_yosh|Naive B cells,0.55,0.4,0.4,0.45,2427,20
+tf_cd4_dom|Regulatory T cells,0.25,0.45,0.1,0.4,722,20
+tf_cd4_dom|Tcm/Naive helper T cells,0.15,0.3,0.25,0.25,6884,20
+tf_cd4_dom|Tem/Effector helper T cells,0.0714285714285714,0.0,0.0714285714285714,0.0,4416,14
+tf_cd4_ren|Regulatory T cells,0.35,0.5,0.1,0.45,338,20
+tf_cd4_ren|Tcm/Naive helper T cells,0.1,0.25,0.25,0.35,4204,20
+tf_cd4_ren|Tem/Effector helper T cells,0.0833333333333333,0.0833333333333333,0.0,0.0,2140,12
+tf_cd4_ren|Tem/Temra helper T cells,0.15,0.1,0.1,0.1,288,20
+tf_cd4_steph|Tcm/Naive helper T cells,0.1,0.25,0.35,0.2,6812,20
+tf_cd4_steph|Tem/Effector helper T cells,0.0,0.15,0.0,0.15,1572,20
+tf_cd4_yosh|Regulatory T cells,0.35,0.35,0.15,0.3,386,20
+tf_cd4_yosh|Tcm/Naive helper T cells,0.2,0.35,0.35,0.4,12157,20
+tf_cd4_yosh|Tem/Effector helper T cells,0.0,0.0833333333333333,0.0,0.0,2966,12
+tf_cd4_yosh|Tem/Temra helper T cells,0.15,0.1,0.1,0.1,858,20
+tf_cd8_dom|Tcm/Naive cytotoxic T cells,0.1,0.35,0.25,0.35,957,20
+tf_cd8_dom|Tem/Temra cytotoxic T cells,0.25,0.3,0.25,0.25,1759,20
+tf_cd8_dom|Tem/Trm cytotoxic T cells,0.0909090909090909,0.0,0.0909090909090909,0.0,618,11
+tf_cd8_dom|gdT,0.3888888888888889,0.4444444444444444,0.3333333333333333,0.4444444444444444,416,18
+tf_cd8_ren|MAIT cells,0.75,0.5,0.5,0.75,624,4
+tf_cd8_ren|Tcm/Naive cytotoxic T cells,0.3,0.35,0.3,0.35,1281,20
+tf_cd8_ren|Tem/Temra cytotoxic T cells,0.25,0.2,0.25,0.2,3046,20
+tf_cd8_ren|Tem/Trm cytotoxic T cells,0.0,0.0,0.0,0.0,1649,11
+tf_cd8_ren|gdT,0.4375,0.375,0.375,0.4375,899,16
+tf_cd8_steph|MAIT cells,0.75,0.5,0.75,0.75,434,4
+tf_cd8_steph|Tcm/Naive cytotoxic T cells,0.15,0.4,0.3,0.45,1387,20
+tf_cd8_steph|Tem/Temra cytotoxic T cells,0.2,0.2,0.25,0.2,2172,20
+tf_cd8_steph|Tem/Trm cytotoxic T cells,0.0909090909090909,0.0,0.0909090909090909,0.0,1259,11
+tf_cd8_steph|gdT,0.4375,0.375,0.375,0.375,778,16
+tf_cd8_yosh|MAIT cells,0.75,0.75,0.5,0.5,1111,4
+tf_cd8_yosh|Tcm/Naive cytotoxic T cells,0.2,0.45,0.35,0.45,2044,20
+tf_cd8_yosh|Tem/Temra cytotoxic T cells,0.2,0.15,0.25,0.2,4767,20
+tf_cd8_yosh|Tem/Trm cytotoxic T cells,0.0,0.0,0.0,0.0,1158,11
+tf_cd8_yosh|gdT,0.4375,0.375,0.375,0.375,432,16
+tf_mono_dom|Classical monocytes,0.35,0.4,0.4,0.35,5884,20
+tf_mono_dom|Non-classical monocytes,0.4444444444444444,0.5555555555555556,0.2222222222222222,0.5555555555555556,213,9
+tf_mono_ren|Classical monocytes,0.3,0.35,0.3,0.35,3218,20
+tf_mono_ren|Non-classical monocytes,0.3333333333333333,0.5555555555555556,0.2222222222222222,0.5555555555555556,633,9
+tf_mono_steph|Classical monocytes,0.3,0.35,0.3,0.35,2667,20
+tf_mono_steph|Non-classical monocytes,0.3333333333333333,0.4444444444444444,0.3333333333333333,0.4444444444444444,821,9
+tf_mono_yosh|Classical monocytes,0.3,0.35,0.35,0.35,6917,20
+tf_mono_yosh|Non-classical monocytes,0.3333333333333333,0.4444444444444444,0.3333333333333333,0.5555555555555556,1185,9

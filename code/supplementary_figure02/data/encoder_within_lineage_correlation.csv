@@ -1,0 +1,7 @@
+lineage,n,spearman,pearson
+dom_cytoT,5,0.9,0.988
+dom_helperT,5,0.6,0.716
+pbmcbmn_Bmat,5,0.7,0.991
+yoshida_Bsw,5,0.9,0.813
+zhao_B,5,0.2,0.185
+zhao_CD8,5,0.7,0.842

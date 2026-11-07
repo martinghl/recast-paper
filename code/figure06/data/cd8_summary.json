@@ -1,0 +1,120 @@
+{
+  "lineage": "tf_cd8_dom",
+  "regime": "fine",
+  "states": [
+    "Tcm/Naive cytotoxic T cells",
+    "Tem/Temra cytotoxic T cells",
+    "Tem/Trm cytotoxic T cells",
+    "gdT"
+  ],
+  "counts": {
+    "Tcm/Naive cytotoxic T cells": 957,
+    "Tem/Temra cytotoxic T cells": 1759,
+    "Tem/Trm cytotoxic T cells": 618,
+    "gdT": 416
+  },
+  "n_cells": 3750,
+  "field": [
+    "ANS",
+    "Seurat",
+    "Scanpy",
+    "UCell"
+  ],
+  "recast_argmax_ba": 0.7607428992607739,
+  "mean_auroc": {
+    "RECAST": 0.9497149516988477,
+    "ANS": 0.923901657841715,
+    "Seurat": 0.9227934250498804,
+    "Scanpy": 0.9232212159492112,
+    "UCell": 0.9195429352475064
+  },
+  "per_program_auroc": {
+    "RECAST": {
+      "Tcm/Naive cytotoxic T cells": 0.9854094857983892,
+      "Tem/Temra cytotoxic T cells": 0.8975834689873617,
+      "Tem/Trm cytotoxic T cells": 0.9254180667666886,
+      "gdT": 0.9904487852429513
+    },
+    "ANS": {
+      "Tcm/Naive cytotoxic T cells": 0.9918261095341728,
+      "Tem/Temra cytotoxic T cells": 0.8835213263551815,
+      "Tem/Trm cytotoxic T cells": 0.8444411379351676,
+      "gdT": 0.9758180575423376
+    },
+    "Seurat": {
+      "Tcm/Naive cytotoxic T cells": 0.990544730238793,
+      "Tem/Temra cytotoxic T cells": 0.8829499661495491,
+      "Tem/Trm cytotoxic T cells": 0.8431371333391197,
+      "gdT": 0.9745418704720595
+    },
+    "Scanpy": {
+      "Tcm/Naive cytotoxic T cells": 0.9884268066793345,
+      "Tem/Temra cytotoxic T cells": 0.8836989305770224,
+      "Tem/Trm cytotoxic T cells": 0.8443967067167603,
+      "gdT": 0.9763624198237275
+    },
+    "UCell": {
+      "Tcm/Naive cytotoxic T cells": 0.989280934834474,
+      "Tem/Temra cytotoxic T cells": 0.8785866701464151,
+      "Tem/Trm cytotoxic T cells": 0.83572693606451,
+      "gdT": 0.9745771999446264
+    }
+  },
+  "sig_genes": {
+    "Tcm/Naive cytotoxic T cells": [
+      "CCR7",
+      "SELL",
+      "TCF7",
+      "LEF1",
+      "IL7R",
+      "TXK",
+      "NOSIP",
+      "MAL",
+      "TRABD2A",
+      "ADTRP",
+      "PLAC8",
+      "LDHB"
+    ],
+    "Tem/Temra cytotoxic T cells": [
+      "GZMB",
+      "GZMH",
+      "GNLY",
+      "NKG7",
+      "PRF1",
+      "FGFBP2",
+      "FCGR3A",
+      "KLRD1",
+      "CX3CR1",
+      "SPON2",
+      "KLRG1",
+      "CMC1"
+    ],
+    "Tem/Trm cytotoxic T cells": [
+      "ITGAE",
+      "ITGA1",
+      "ZNF683",
+      "CXCR6",
+      "XCL1",
+      "XCL2",
+      "CD69",
+      "GZMK",
+      "DUSP2",
+      "CD8A",
+      "CD160",
+      "KLRC1"
+    ],
+    "gdT": [
+      "TRDC",
+      "TRGC1",
+      "TRGC2",
+      "TRDV1",
+      "TRDV2",
+      "KLRC1",
+      "KLRD1",
+      "TRGV9",
+      "TRDV3",
+      "KLRG1",
+      "NKG7"
+    ]
+  }
+}

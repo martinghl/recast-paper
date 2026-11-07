@@ -1,0 +1,6 @@
+FM,dim,gene_coverage,objective,input_bandwidth_ok,sep_coarse_knn,sep_coarse_is_proxy,sep_fine_knn,RECAST_delta_mean,RECAST_delta_pos,note
+SCimilarity,128,28231,contrastive,True,0.914,False,0.866,0.162,6/6,
+scTab_SSL,64,19331,SSL-MLP,True,0.88,False,0.859,0.16,6/6,
+PBMC_SSL,64,19331,SSL-MLP,True,0.9,False,0.865,0.131,6/6,
+scVI,10,13714,VAE,True,0.851,False,0.861,-0.024,4/6,dataset-specific gene space
+scFoundation,3072,19264,transformer,False,0.737,True,0.783,-0.389,0/6,512-token/cell cap; 89.7% cells truncated; 8608 genes never reach encoder

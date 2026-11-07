@@ -1,0 +1,32 @@
+﻿lineage,compartment,siblings,with_panel,without_panel
+fs37_glia_gittings,glia,"OPC, astrocyte, oligodendrocyte","OPC, astrocyte, oligodendrocyte",
+fs37_glia_maitra,glia,"OPC, astrocyte, oligodendrocyte","OPC, astrocyte, oligodendrocyte",
+fs37_glia_rexach,glia,"OPC, astrocyte, oligodendrocyte","OPC, astrocyte, oligodendrocyte",
+fs37_gut_burclaff,gut epithelium,"BEST4, enterocyte, enteroendocrine, goblet, stem, tuft","enterocyte, enteroendocrine, goblet, tuft","BEST4, stem"
+fs37_gut_hickey,gut epithelium,"BEST4, enterocyte, enteroendocrine, goblet, stem, tuft","enterocyte, enteroendocrine, goblet, tuft","BEST4, stem"
+fs37_gut_kong,gut epithelium,"BEST4, Paneth, enterocyte, enteroendocrine, goblet, stem, tuft","Paneth, enterocyte, enteroendocrine, goblet, tuft","BEST4, stem"
+fs37_lung_natri,lung epithelium,"AT1, AT2, ciliated","AT1, AT2, ciliated",
+fs37_lung_rustam,lung epithelium,"AT1, AT2, basal, ciliated, club, ionocyte","AT1, AT2, basal, ciliated, club, ionocyte",
+fs37_neuron_gittings,neuron,"excitatory, inhibitory","excitatory, inhibitory",
+fs37_neuron_maitra,neuron,"excitatory, inhibitory","excitatory, inhibitory",
+fs37_neuron_rexach,neuron,"excitatory, inhibitory","excitatory, inhibitory",
+fs_asc_zhao,ASC,"MZB, cycling ASC, noncycling ASC","cycling ASC, noncycling ASC",MZB
+fs_gut_smillie,gut epithelium,"BEST4, enterocyte, enteroendocrine, goblet, stem, tuft","enterocyte, enteroendocrine, goblet, tuft","BEST4, stem"
+fs_lung_hlca,lung epithelium,"AT1, AT2, basal, ciliated, club, ionocyte","AT1, AT2, basal, ciliated, club, ionocyte",
+fs_nk_pbmcbmn,NK,"NK, NK Proliferating, NK_CD56bright","NK, NK_CD56bright",NK Proliferating
+fs_nk_zhao,NK,"CX3CR1+ NK, CXCR6+ NK",CX3CR1+ NK,CXCR6+ NK
+tf_b_ren,B,"Naive B cells, Non-switched memory B cells, Switched memory B cells",Naive B cells,"Non-switched memory B cells, Switched memory B cells"
+tf_b_steph,B,"Memory B cells, Naive B cells, Switched memory B cells","Memory B cells, Naive B cells",Switched memory B cells
+tf_b_yosh,B,"Memory B cells, Naive B cells, Non-switched memory B cells, Switched memory B cells","Memory B cells, Naive B cells","Non-switched memory B cells, Switched memory B cells"
+tf_cd4_dom,CD4 T,"Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells","Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells",
+tf_cd4_ren,CD4 T,"Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells, Tem/Temra helper T cells","Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells, Tem/Temra helper T cells",
+tf_cd4_steph,CD4 T,"Tcm/Naive helper T cells, Tem/Effector helper T cells","Tcm/Naive helper T cells, Tem/Effector helper T cells",
+tf_cd4_yosh,CD4 T,"Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells, Tem/Temra helper T cells","Regulatory T cells, Tcm/Naive helper T cells, Tem/Effector helper T cells, Tem/Temra helper T cells",
+tf_cd8_dom,CD8 T,"Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT","Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT",
+tf_cd8_ren,CD8 T,"MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT","MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT",
+tf_cd8_steph,CD8 T,"MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT","MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT",
+tf_cd8_yosh,CD8 T,"MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT","MAIT cells, Tcm/Naive cytotoxic T cells, Tem/Temra cytotoxic T cells, Tem/Trm cytotoxic T cells, gdT",
+tf_mono_dom,monocyte,"Classical monocytes, Non-classical monocytes","Classical monocytes, Non-classical monocytes",
+tf_mono_ren,monocyte,"Classical monocytes, Non-classical monocytes","Classical monocytes, Non-classical monocytes",
+tf_mono_steph,monocyte,"Classical monocytes, Non-classical monocytes","Classical monocytes, Non-classical monocytes",
+tf_mono_yosh,monocyte,"Classical monocytes, Non-classical monocytes","Classical monocytes, Non-classical monocytes",

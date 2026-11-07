@@ -1,0 +1,29 @@
+task,regime,n_cells,n_states,panel_sizes,expr_mean_check
+lawlor,distinct,490,2,Alpha:19;Beta:18,0.7647645473480225
+baron_pancreas,distinct,5523,8,acinar:3;alpha:2;beta:2;delta:2;ductal:3;endothelial:2;gamma:2;stellate:2,0.9096551537513733
+ss3_pbmc,distinct,941,5,CD14 monocytes:20;Cytotoxic T:3;NK cells:20;Naive B:11;Naive/Memory CD8 T:20,0.2756528854370117
+pbmc3k,distinct,2593,7,B:20;CD14+ Mono:20;CD8 T:20;FCGR3A+ Mono:19;Memory CD4 T:20;NK:20;Naive CD4 T:19,0.12903009355068207
+pelka_crc_epi,distinct,6516,7,Best4:5;Enterocyte:7;Enteroendocrine:7;Goblet:6;Prolif:5;Stem_TA:4;Tuft:7,0.43603846430778503
+yoshida,distinct,7012,15,CD16+ NK cells:20;Classical monocytes:20;DC2:1;MAIT cells:0;Megakaryocytes/platelets:11;Memory B cells:20;Naive B cells:6;Non-classical monocytes:20;Regulatory T cells:20;Tcm/Naive cytotoxic T cells:18;Tcm/Naive helper T cells:19;Tem/Effector helper T cells:0;Tem/Temra cytotoxic T cells:0;Tem/Trm cytotoxic T cells:2;pDC:20,0.12085238248109817
+stephenson,distinct,7217,13,CD16+ NK cells:20;Classical monocytes:20;DC2:1;MAIT cells:0;Megakaryocytes/platelets:11;Memory B cells:20;Naive B cells:6;Non-classical monocytes:20;Tcm/Naive cytotoxic T cells:19;Tcm/Naive helper T cells:19;Tem/Effector helper T cells:0;Tem/Temra cytotoxic T cells:0;Tem/Trm cytotoxic T cells:2,0.12982882043490043
+dominguez_conde,distinct,6881,9,CD16+ NK cells:20;Classical monocytes:20;Non-classical monocytes:20;Regulatory T cells:20;Tcm/Naive cytotoxic T cells:19;Tcm/Naive helper T cells:19;Tem/Effector helper T cells:0;Tem/Temra cytotoxic T cells:0;Tem/Trm cytotoxic T cells:2,0.1749835895995299
+ren,distinct,7132,12,CD16+ NK cells:20;Classical monocytes:20;DC2:1;MAIT cells:0;Naive B cells:16;Non-classical monocytes:20;Regulatory T cells:20;Tcm/Naive cytotoxic T cells:19;Tcm/Naive helper T cells:19;Tem/Effector helper T cells:0;Tem/Temra cytotoxic T cells:0;Tem/Trm cytotoxic T cells:2,0.15147432126104832
+tf_mono_steph,fine,3488,2,Classical monocytes:9;Non-classical monocytes:9,1.604299783706665
+fs_nk_zhao,fine,4733,2,CX3CR1+ NK:7;CXCR6+ NK:7,1.208146095275879
+tf_mono_yosh,fine,5185,2,Classical monocytes:9;Non-classical monocytes:9,1.492936372756958
+fs_nk_pbmcbmn,fine,3974,3,NK:9;NK Proliferating:8;NK_CD56bright:9,1.42829167842865
+tf_mono_ren,fine,3851,2,Classical monocytes:9;Non-classical monocytes:9,1.6636782884597778
+tf_cd8_dom,fine,3750,4,Tcm/Naive cytotoxic T cells:12;Tem/Temra cytotoxic T cells:12;Tem/Trm cytotoxic T cells:12;gdT:11,0.628002405166626
+tf_cd8_steph,fine,6030,5,MAIT cells:12;Tcm/Naive cytotoxic T cells:12;Tem/Temra cytotoxic T cells:12;Tem/Trm cytotoxic T cells:12;gdT:11,0.6081775426864624
+tf_mono_dom,fine,6097,2,Classical monocytes:9;Non-classical monocytes:9,1.6691728830337524
+fs_asc_zhao,fine,7998,3,MZB:8;cycling ASC:8;noncycling ASC:9,1.0492792129516602
+tf_cd8_yosh,fine,5901,5,MAIT cells:12;Tcm/Naive cytotoxic T cells:12;Tem/Temra cytotoxic T cells:12;Tem/Trm cytotoxic T cells:12;gdT:11,0.5472836494445801
+tf_cd4_dom,fine,6054,3,Regulatory T cells:11;Tcm/Naive helper T cells:12;Tem/Effector helper T cells:12,0.5357421636581421
+tf_cd4_steph,fine,5572,2,Tcm/Naive helper T cells:12;Tem/Effector helper T cells:12,0.8744173049926758
+tf_cd4_ren,fine,6970,4,Regulatory T cells:11;Tcm/Naive helper T cells:12;Tem/Effector helper T cells:12;Tem/Temra helper T cells:10,0.48314985632896423
+fs_b_pbmcbmn,fine,7336,3,B intermediate:9;B memory:12;B naive:12,0.6092879772186279
+tf_cd8_ren,fine,7499,5,MAIT cells:12;Tcm/Naive cytotoxic T cells:12;Tem/Temra cytotoxic T cells:12;Tem/Trm cytotoxic T cells:12;gdT:11,0.5749157071113586
+tf_cd4_yosh,fine,5244,4,Regulatory T cells:11;Tcm/Naive helper T cells:12;Tem/Effector helper T cells:12;Tem/Temra helper T cells:10,0.5392811298370361
+tf_b_steph,fine,1765,3,Memory B cells:12;Naive B cells:12;Switched memory B cells:11,0.4623962640762329
+tf_b_ren,fine,2652,3,Naive B cells:12;Non-switched memory B cells:7;Switched memory B cells:11,0.5583980679512024
+tf_b_yosh,fine,4097,4,Memory B cells:12;Naive B cells:12;Non-switched memory B cells:7;Switched memory B cells:11,0.4408354163169861

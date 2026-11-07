@@ -1,0 +1,497 @@
+lineage,state,mode,eps,seed,jaccard20,recall20
+fs_lung_hlca,AT1,boundary,0.025,0,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.025,1,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.025,2,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.05,0,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.05,1,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.05,2,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.1,0,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.1,1,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.1,2,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.2,0,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.2,1,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.2,2,1.0,0.6
+fs_lung_hlca,AT1,boundary,0.4,0,0.6666666666666666,0.6
+fs_lung_hlca,AT1,boundary,0.4,1,0.7391304347826086,0.6
+fs_lung_hlca,AT1,boundary,0.4,2,0.8181818181818182,0.6
+fs_lung_hlca,AT1,none,0.0,-1,1.0,0.6
+fs_lung_hlca,AT1,random,0.025,0,1.0,0.6
+fs_lung_hlca,AT1,random,0.025,1,1.0,0.6
+fs_lung_hlca,AT1,random,0.025,2,1.0,0.6
+fs_lung_hlca,AT1,random,0.05,0,1.0,0.6
+fs_lung_hlca,AT1,random,0.05,1,1.0,0.6
+fs_lung_hlca,AT1,random,0.05,2,0.9047619047619048,0.6
+fs_lung_hlca,AT1,random,0.1,0,1.0,0.6
+fs_lung_hlca,AT1,random,0.1,1,1.0,0.6
+fs_lung_hlca,AT1,random,0.1,2,0.9047619047619048,0.6
+fs_lung_hlca,AT1,random,0.2,0,1.0,0.6
+fs_lung_hlca,AT1,random,0.2,1,1.0,0.6
+fs_lung_hlca,AT1,random,0.2,2,0.9047619047619048,0.6
+fs_lung_hlca,AT1,random,0.4,0,1.0,0.6
+fs_lung_hlca,AT1,random,0.4,1,0.9047619047619048,0.6
+fs_lung_hlca,AT1,random,0.4,2,0.9047619047619048,0.6
+fs_lung_hlca,AT2,boundary,0.025,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.025,1,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.025,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.05,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.05,1,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.05,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.1,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.1,1,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.1,2,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,boundary,0.2,0,0.8181818181818182,0.7142857142857143
+fs_lung_hlca,AT2,boundary,0.2,1,0.8181818181818182,0.7142857142857143
+fs_lung_hlca,AT2,boundary,0.2,2,0.8181818181818182,0.7142857142857143
+fs_lung_hlca,AT2,boundary,0.4,0,0.4285714285714285,0.7142857142857143
+fs_lung_hlca,AT2,boundary,0.4,1,0.3793103448275862,0.7142857142857143
+fs_lung_hlca,AT2,boundary,0.4,2,0.4814814814814814,0.8571428571428571
+fs_lung_hlca,AT2,none,0.0,-1,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.025,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.025,1,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.025,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.05,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.05,1,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,random,0.05,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.1,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.1,1,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.1,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.2,0,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,random,0.2,1,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,random,0.2,2,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.4,0,1.0,0.8571428571428571
+fs_lung_hlca,AT2,random,0.4,1,0.9047619047619048,0.8571428571428571
+fs_lung_hlca,AT2,random,0.4,2,0.8181818181818182,0.7142857142857143
+fs_lung_hlca,basal,boundary,0.025,0,0.8181818181818182,0.25
+fs_lung_hlca,basal,boundary,0.025,1,0.9047619047619048,0.25
+fs_lung_hlca,basal,boundary,0.025,2,0.9047619047619048,0.25
+fs_lung_hlca,basal,boundary,0.05,0,0.8181818181818182,0.25
+fs_lung_hlca,basal,boundary,0.05,1,0.8181818181818182,0.25
+fs_lung_hlca,basal,boundary,0.05,2,0.8181818181818182,0.25
+fs_lung_hlca,basal,boundary,0.1,0,0.7391304347826086,0.25
+fs_lung_hlca,basal,boundary,0.1,1,0.8181818181818182,0.25
+fs_lung_hlca,basal,boundary,0.1,2,0.6666666666666666,0.25
+fs_lung_hlca,basal,boundary,0.2,0,0.5384615384615384,0.2
+fs_lung_hlca,basal,boundary,0.2,1,0.5384615384615384,0.2
+fs_lung_hlca,basal,boundary,0.2,2,0.5384615384615384,0.25
+fs_lung_hlca,basal,boundary,0.4,0,0.3793103448275862,0.2
+fs_lung_hlca,basal,boundary,0.4,1,0.2903225806451613,0.2
+fs_lung_hlca,basal,boundary,0.4,2,0.2903225806451613,0.2
+fs_lung_hlca,basal,none,0.0,-1,1.0,0.25
+fs_lung_hlca,basal,random,0.025,0,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.025,1,1.0,0.25
+fs_lung_hlca,basal,random,0.025,2,1.0,0.25
+fs_lung_hlca,basal,random,0.05,0,1.0,0.25
+fs_lung_hlca,basal,random,0.05,1,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.05,2,1.0,0.25
+fs_lung_hlca,basal,random,0.1,0,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.1,1,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.1,2,1.0,0.25
+fs_lung_hlca,basal,random,0.2,0,0.8181818181818182,0.25
+fs_lung_hlca,basal,random,0.2,1,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.2,2,1.0,0.25
+fs_lung_hlca,basal,random,0.4,0,0.9047619047619048,0.25
+fs_lung_hlca,basal,random,0.4,1,0.8181818181818182,0.25
+fs_lung_hlca,basal,random,0.4,2,0.8181818181818182,0.25
+fs_lung_hlca,ciliated,boundary,0.025,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.025,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.025,2,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.05,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.05,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.05,2,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.1,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.1,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.1,2,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,boundary,0.2,0,0.8181818181818182,0.2
+fs_lung_hlca,ciliated,boundary,0.2,1,0.8181818181818182,0.2
+fs_lung_hlca,ciliated,boundary,0.2,2,0.8181818181818182,0.2
+fs_lung_hlca,ciliated,boundary,0.4,0,0.6666666666666666,0.25
+fs_lung_hlca,ciliated,boundary,0.4,1,0.7391304347826086,0.25
+fs_lung_hlca,ciliated,boundary,0.4,2,0.6,0.25
+fs_lung_hlca,ciliated,none,0.0,-1,1.0,0.2
+fs_lung_hlca,ciliated,random,0.025,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.025,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.025,2,0.9047619047619048,0.15
+fs_lung_hlca,ciliated,random,0.05,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.05,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.05,2,0.9047619047619048,0.15
+fs_lung_hlca,ciliated,random,0.1,0,1.0,0.2
+fs_lung_hlca,ciliated,random,0.1,1,0.8181818181818182,0.2
+fs_lung_hlca,ciliated,random,0.1,2,0.9047619047619048,0.15
+fs_lung_hlca,ciliated,random,0.2,0,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.2,1,0.9047619047619048,0.25
+fs_lung_hlca,ciliated,random,0.2,2,0.9047619047619048,0.15
+fs_lung_hlca,ciliated,random,0.4,0,0.7391304347826086,0.2
+fs_lung_hlca,ciliated,random,0.4,1,0.9047619047619048,0.2
+fs_lung_hlca,ciliated,random,0.4,2,0.8181818181818182,0.2
+fs_lung_hlca,club,boundary,0.025,0,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,boundary,0.025,1,0.8181818181818182,0.2727272727272727
+fs_lung_hlca,club,boundary,0.025,2,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,boundary,0.05,0,0.7391304347826086,0.2727272727272727
+fs_lung_hlca,club,boundary,0.05,1,0.8181818181818182,0.2727272727272727
+fs_lung_hlca,club,boundary,0.05,2,0.7391304347826086,0.2727272727272727
+fs_lung_hlca,club,boundary,0.1,0,0.8181818181818182,0.2727272727272727
+fs_lung_hlca,club,boundary,0.1,1,0.7391304347826086,0.2727272727272727
+fs_lung_hlca,club,boundary,0.1,2,0.7391304347826086,0.2727272727272727
+fs_lung_hlca,club,boundary,0.2,0,0.4814814814814814,0.09090909090909091
+fs_lung_hlca,club,boundary,0.2,1,0.4814814814814814,0.09090909090909091
+fs_lung_hlca,club,boundary,0.2,2,0.5384615384615384,0.18181818181818182
+fs_lung_hlca,club,boundary,0.4,0,0.0256410256410256,0.09090909090909091
+fs_lung_hlca,club,boundary,0.4,1,0.0256410256410256,0.09090909090909091
+fs_lung_hlca,club,boundary,0.4,2,0.0256410256410256,0.09090909090909091
+fs_lung_hlca,club,none,0.0,-1,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.025,0,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.025,1,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.025,2,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.05,0,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.05,1,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.05,2,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.1,0,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.1,1,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.1,2,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.2,0,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.2,1,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.2,2,1.0,0.2727272727272727
+fs_lung_hlca,club,random,0.4,0,0.9047619047619048,0.2727272727272727
+fs_lung_hlca,club,random,0.4,1,0.7391304347826086,0.18181818181818182
+fs_lung_hlca,club,random,0.4,2,0.9047619047619048,0.18181818181818182
+fs_lung_hlca,ionocyte,boundary,0.025,0,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.025,1,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.025,2,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.05,0,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.05,1,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.05,2,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.1,0,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.1,1,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.1,2,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.2,0,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.2,1,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.2,2,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.4,0,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.4,1,1.0,0.55
+fs_lung_hlca,ionocyte,boundary,0.4,2,1.0,0.55
+fs_lung_hlca,ionocyte,none,0.0,-1,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.025,0,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.025,1,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.025,2,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.05,0,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.05,1,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.05,2,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.1,0,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.1,1,0.9047619047619048,0.5
+fs_lung_hlca,ionocyte,random,0.1,2,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.2,0,0.9047619047619048,0.55
+fs_lung_hlca,ionocyte,random,0.2,1,0.9047619047619048,0.55
+fs_lung_hlca,ionocyte,random,0.2,2,1.0,0.55
+fs_lung_hlca,ionocyte,random,0.4,0,0.8181818181818182,0.5
+fs_lung_hlca,ionocyte,random,0.4,1,0.8181818181818182,0.55
+fs_lung_hlca,ionocyte,random,0.4,2,1.0,0.55
+tf_b_yosh,Memory B cells,boundary,0.025,0,0.3793103448275862,0.0
+tf_b_yosh,Memory B cells,boundary,0.025,1,0.4285714285714285,0.0
+tf_b_yosh,Memory B cells,boundary,0.025,2,0.3333333333333333,0.0
+tf_b_yosh,Memory B cells,boundary,0.05,0,0.2121212121212121,0.0
+tf_b_yosh,Memory B cells,boundary,0.05,1,0.25,0.0
+tf_b_yosh,Memory B cells,boundary,0.05,2,0.2121212121212121,0.0
+tf_b_yosh,Memory B cells,boundary,0.1,0,0.1111111111111111,0.0
+tf_b_yosh,Memory B cells,boundary,0.1,1,0.1111111111111111,0.0
+tf_b_yosh,Memory B cells,boundary,0.1,2,0.0526315789473684,0.0
+tf_b_yosh,Memory B cells,boundary,0.2,0,0.0526315789473684,0.0
+tf_b_yosh,Memory B cells,boundary,0.2,1,0.0256410256410256,0.0
+tf_b_yosh,Memory B cells,boundary,0.2,2,0.0256410256410256,0.05
+tf_b_yosh,Memory B cells,boundary,0.4,0,0.0,0.0
+tf_b_yosh,Memory B cells,boundary,0.4,1,0.0,0.0
+tf_b_yosh,Memory B cells,boundary,0.4,2,0.0,0.0
+tf_b_yosh,Memory B cells,none,0.0,-1,1.0,0.0
+tf_b_yosh,Memory B cells,random,0.025,0,0.6666666666666666,0.0
+tf_b_yosh,Memory B cells,random,0.025,1,0.6,0.0
+tf_b_yosh,Memory B cells,random,0.025,2,0.7391304347826086,0.0
+tf_b_yosh,Memory B cells,random,0.05,0,0.7391304347826086,0.0
+tf_b_yosh,Memory B cells,random,0.05,1,0.7391304347826086,0.0
+tf_b_yosh,Memory B cells,random,0.05,2,0.5384615384615384,0.0
+tf_b_yosh,Memory B cells,random,0.1,0,0.3793103448275862,0.0
+tf_b_yosh,Memory B cells,random,0.1,1,0.5384615384615384,0.0
+tf_b_yosh,Memory B cells,random,0.1,2,0.4285714285714285,0.0
+tf_b_yosh,Memory B cells,random,0.2,0,0.1428571428571428,0.0
+tf_b_yosh,Memory B cells,random,0.2,1,0.081081081081081,0.0
+tf_b_yosh,Memory B cells,random,0.2,2,0.25,0.0
+tf_b_yosh,Memory B cells,random,0.4,0,0.0256410256410256,0.0
+tf_b_yosh,Memory B cells,random,0.4,1,0.0256410256410256,0.0
+tf_b_yosh,Memory B cells,random,0.4,2,0.0526315789473684,0.0
+tf_b_yosh,Naive B cells,boundary,0.025,0,0.8181818181818182,0.5
+tf_b_yosh,Naive B cells,boundary,0.025,1,0.8181818181818182,0.5
+tf_b_yosh,Naive B cells,boundary,0.025,2,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.05,0,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.05,1,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.05,2,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.1,0,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.1,1,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.1,2,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.2,0,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,boundary,0.2,1,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.2,2,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,boundary,0.4,0,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,boundary,0.4,1,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,boundary,0.4,2,0.8181818181818182,0.55
+tf_b_yosh,Naive B cells,none,0.0,-1,1.0,0.55
+tf_b_yosh,Naive B cells,random,0.025,0,0.8181818181818182,0.5
+tf_b_yosh,Naive B cells,random,0.025,1,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,random,0.025,2,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.05,0,0.8181818181818182,0.5
+tf_b_yosh,Naive B cells,random,0.05,1,0.8181818181818182,0.55
+tf_b_yosh,Naive B cells,random,0.05,2,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.1,0,0.8181818181818182,0.55
+tf_b_yosh,Naive B cells,random,0.1,1,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.1,2,0.9047619047619048,0.5
+tf_b_yosh,Naive B cells,random,0.2,0,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.2,1,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.2,2,0.8181818181818182,0.55
+tf_b_yosh,Naive B cells,random,0.4,0,0.9047619047619048,0.55
+tf_b_yosh,Naive B cells,random,0.4,1,0.8181818181818182,0.5
+tf_b_yosh,Naive B cells,random,0.4,2,0.8181818181818182,0.5
+tf_b_yosh,Non-switched memory B cells,boundary,0.025,0,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,boundary,0.025,1,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,boundary,0.025,2,1.0,
+tf_b_yosh,Non-switched memory B cells,boundary,0.05,0,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,boundary,0.05,1,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,boundary,0.05,2,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,boundary,0.1,0,0.6666666666666666,
+tf_b_yosh,Non-switched memory B cells,boundary,0.1,1,0.8181818181818182,
+tf_b_yosh,Non-switched memory B cells,boundary,0.1,2,0.7391304347826086,
+tf_b_yosh,Non-switched memory B cells,boundary,0.2,0,0.5384615384615384,
+tf_b_yosh,Non-switched memory B cells,boundary,0.2,1,0.5384615384615384,
+tf_b_yosh,Non-switched memory B cells,boundary,0.2,2,0.3333333333333333,
+tf_b_yosh,Non-switched memory B cells,boundary,0.4,0,0.2903225806451613,
+tf_b_yosh,Non-switched memory B cells,boundary,0.4,1,0.3333333333333333,
+tf_b_yosh,Non-switched memory B cells,boundary,0.4,2,0.3793103448275862,
+tf_b_yosh,Non-switched memory B cells,none,0.0,-1,1.0,
+tf_b_yosh,Non-switched memory B cells,random,0.025,0,1.0,
+tf_b_yosh,Non-switched memory B cells,random,0.025,1,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.025,2,1.0,
+tf_b_yosh,Non-switched memory B cells,random,0.05,0,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.05,1,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.05,2,1.0,
+tf_b_yosh,Non-switched memory B cells,random,0.1,0,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.1,1,1.0,
+tf_b_yosh,Non-switched memory B cells,random,0.1,2,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.2,0,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.2,1,0.9047619047619048,
+tf_b_yosh,Non-switched memory B cells,random,0.2,2,0.8181818181818182,
+tf_b_yosh,Non-switched memory B cells,random,0.4,0,0.5384615384615384,
+tf_b_yosh,Non-switched memory B cells,random,0.4,1,0.5384615384615384,
+tf_b_yosh,Non-switched memory B cells,random,0.4,2,0.7391304347826086,
+tf_b_yosh,Switched memory B cells,boundary,0.025,0,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,boundary,0.025,1,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,boundary,0.025,2,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,boundary,0.05,0,0.8181818181818182,
+tf_b_yosh,Switched memory B cells,boundary,0.05,1,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,boundary,0.05,2,0.8181818181818182,
+tf_b_yosh,Switched memory B cells,boundary,0.1,0,0.6666666666666666,
+tf_b_yosh,Switched memory B cells,boundary,0.1,1,0.7391304347826086,
+tf_b_yosh,Switched memory B cells,boundary,0.1,2,0.7391304347826086,
+tf_b_yosh,Switched memory B cells,boundary,0.2,0,0.6,
+tf_b_yosh,Switched memory B cells,boundary,0.2,1,0.7391304347826086,
+tf_b_yosh,Switched memory B cells,boundary,0.2,2,0.6666666666666666,
+tf_b_yosh,Switched memory B cells,boundary,0.4,0,0.6,
+tf_b_yosh,Switched memory B cells,boundary,0.4,1,0.6,
+tf_b_yosh,Switched memory B cells,boundary,0.4,2,0.5384615384615384,
+tf_b_yosh,Switched memory B cells,none,0.0,-1,1.0,
+tf_b_yosh,Switched memory B cells,random,0.025,0,1.0,
+tf_b_yosh,Switched memory B cells,random,0.025,1,1.0,
+tf_b_yosh,Switched memory B cells,random,0.025,2,1.0,
+tf_b_yosh,Switched memory B cells,random,0.05,0,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,random,0.05,1,1.0,
+tf_b_yosh,Switched memory B cells,random,0.05,2,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,random,0.1,0,1.0,
+tf_b_yosh,Switched memory B cells,random,0.1,1,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,random,0.1,2,0.9047619047619048,
+tf_b_yosh,Switched memory B cells,random,0.2,0,0.8181818181818182,
+tf_b_yosh,Switched memory B cells,random,0.2,1,0.8181818181818182,
+tf_b_yosh,Switched memory B cells,random,0.2,2,0.8181818181818182,
+tf_b_yosh,Switched memory B cells,random,0.4,0,0.6,
+tf_b_yosh,Switched memory B cells,random,0.4,1,0.6666666666666666,
+tf_b_yosh,Switched memory B cells,random,0.4,2,0.8181818181818182,
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.025,0,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.025,1,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.025,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.05,0,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.05,1,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.05,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.1,0,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.1,1,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.1,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.2,0,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.2,1,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.2,2,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.4,0,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.4,1,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,boundary,0.4,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,none,0.0,-1,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.025,0,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.025,1,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.025,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.05,0,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.05,1,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.05,2,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.1,0,1.0,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.1,1,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.1,2,0.9047619047619048,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.2,0,0.8181818181818182,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.2,1,0.8181818181818182,0.05
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.2,2,0.9047619047619048,0.1
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.4,0,0.7391304347826086,0.05
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.4,1,0.6666666666666666,0.15
+tf_cd8_dom,Tcm/Naive cytotoxic T cells,random,0.4,2,0.8181818181818182,0.15
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.025,0,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.025,1,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.025,2,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.05,0,0.8181818181818182,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.05,1,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.05,2,0.8181818181818182,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.1,0,0.7391304347826086,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.1,1,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.1,2,0.7391304347826086,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.2,0,0.7391304347826086,0.2
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.2,1,0.7391304347826086,0.2
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.2,2,0.6,0.2
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.4,0,0.5384615384615384,0.15
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.4,1,0.4814814814814814,0.1
+tf_cd8_dom,Tem/Temra cytotoxic T cells,boundary,0.4,2,0.4814814814814814,0.1
+tf_cd8_dom,Tem/Temra cytotoxic T cells,none,0.0,-1,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.025,0,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.025,1,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.025,2,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.05,0,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.05,1,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.05,2,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.1,0,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.1,1,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.1,2,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.2,0,1.0,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.2,1,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.2,2,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.4,0,0.6666666666666666,0.2
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.4,1,0.7391304347826086,0.25
+tf_cd8_dom,Tem/Temra cytotoxic T cells,random,0.4,2,0.9047619047619048,0.25
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.025,0,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.025,1,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.025,2,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.05,0,0.6666666666666666,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.05,1,0.7391304347826086,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.05,2,0.6666666666666666,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.1,0,0.6666666666666666,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.1,1,0.6,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.1,2,0.6,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.2,0,0.5384615384615384,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.2,1,0.6,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.2,2,0.6,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.4,0,0.2903225806451613,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.4,1,0.2903225806451613,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,boundary,0.4,2,0.3793103448275862,0.0
+tf_cd8_dom,Tem/Trm cytotoxic T cells,none,0.0,-1,1.0,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.025,0,0.9047619047619048,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.025,1,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.025,2,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.05,0,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.05,1,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.05,2,1.0,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.1,0,0.9047619047619048,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.1,1,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.1,2,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.2,0,0.8181818181818182,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.2,1,0.7391304347826086,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.2,2,0.6666666666666666,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.4,0,0.6,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.4,1,0.6,0.09090909090909091
+tf_cd8_dom,Tem/Trm cytotoxic T cells,random,0.4,2,0.3333333333333333,0.18181818181818182
+tf_cd8_dom,gdT,boundary,0.025,0,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.025,1,0.9047619047619048,0.4444444444444444
+tf_cd8_dom,gdT,boundary,0.025,2,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.05,0,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.05,1,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.05,2,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.1,0,0.8181818181818182,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.1,1,0.7391304347826086,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.1,2,0.7391304347826086,0.3888888888888889
+tf_cd8_dom,gdT,boundary,0.2,0,0.4814814814814814,0.3333333333333333
+tf_cd8_dom,gdT,boundary,0.2,1,0.4814814814814814,0.3333333333333333
+tf_cd8_dom,gdT,boundary,0.2,2,0.5384615384615384,0.3333333333333333
+tf_cd8_dom,gdT,boundary,0.4,0,0.1764705882352941,0.1111111111111111
+tf_cd8_dom,gdT,boundary,0.4,1,0.1764705882352941,0.1111111111111111
+tf_cd8_dom,gdT,boundary,0.4,2,0.1764705882352941,0.16666666666666666
+tf_cd8_dom,gdT,none,0.0,-1,1.0,0.3888888888888889
+tf_cd8_dom,gdT,random,0.025,0,1.0,0.3888888888888889
+tf_cd8_dom,gdT,random,0.025,1,0.9047619047619048,0.4444444444444444
+tf_cd8_dom,gdT,random,0.025,2,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,random,0.05,0,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,random,0.05,1,0.9047619047619048,0.3888888888888889
+tf_cd8_dom,gdT,random,0.05,2,1.0,0.3888888888888889
+tf_cd8_dom,gdT,random,0.1,0,0.8181818181818182,0.4444444444444444
+tf_cd8_dom,gdT,random,0.1,1,0.8181818181818182,0.4444444444444444
+tf_cd8_dom,gdT,random,0.1,2,1.0,0.3888888888888889
+tf_cd8_dom,gdT,random,0.2,0,0.9047619047619048,0.4444444444444444
+tf_cd8_dom,gdT,random,0.2,1,0.9047619047619048,0.4444444444444444
+tf_cd8_dom,gdT,random,0.2,2,0.8181818181818182,0.3888888888888889
+tf_cd8_dom,gdT,random,0.4,0,0.8181818181818182,0.3888888888888889
+tf_cd8_dom,gdT,random,0.4,1,0.7391304347826086,0.3888888888888889
+tf_cd8_dom,gdT,random,0.4,2,0.7391304347826086,0.4444444444444444
+tf_mono_steph,Classical monocytes,boundary,0.025,0,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,boundary,0.025,1,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,boundary,0.025,2,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,boundary,0.05,0,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.05,1,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.05,2,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.1,0,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.1,1,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.1,2,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.2,0,0.6666666666666666,0.3
+tf_mono_steph,Classical monocytes,boundary,0.2,1,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.2,2,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,boundary,0.4,0,0.6666666666666666,0.3
+tf_mono_steph,Classical monocytes,boundary,0.4,1,0.6666666666666666,0.3
+tf_mono_steph,Classical monocytes,boundary,0.4,2,0.6666666666666666,0.3
+tf_mono_steph,Classical monocytes,none,0.0,-1,1.0,0.3
+tf_mono_steph,Classical monocytes,random,0.025,0,0.9047619047619048,0.3
+tf_mono_steph,Classical monocytes,random,0.025,1,0.9047619047619048,0.3
+tf_mono_steph,Classical monocytes,random,0.025,2,0.9047619047619048,0.3
+tf_mono_steph,Classical monocytes,random,0.05,0,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.05,1,1.0,0.3
+tf_mono_steph,Classical monocytes,random,0.05,2,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.1,0,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.1,1,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.1,2,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.2,0,0.8181818181818182,0.3
+tf_mono_steph,Classical monocytes,random,0.2,1,0.7391304347826086,0.3
+tf_mono_steph,Classical monocytes,random,0.2,2,0.6666666666666666,0.3
+tf_mono_steph,Classical monocytes,random,0.4,0,0.4285714285714285,0.3
+tf_mono_steph,Classical monocytes,random,0.4,1,0.4814814814814814,0.3
+tf_mono_steph,Classical monocytes,random,0.4,2,0.4814814814814814,0.3
+tf_mono_steph,Non-classical monocytes,boundary,0.025,0,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.025,1,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.025,2,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.05,0,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.05,1,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.05,2,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.1,0,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.1,1,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.1,2,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.2,0,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.2,1,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.2,2,0.8181818181818182,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,boundary,0.4,0,0.6,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,boundary,0.4,1,0.6,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,boundary,0.4,2,0.5384615384615384,0.5555555555555556
+tf_mono_steph,Non-classical monocytes,none,0.0,-1,1.0,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.025,0,1.0,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.025,1,0.9047619047619048,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.025,2,1.0,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.05,0,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.05,1,1.0,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.05,2,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.1,0,0.9047619047619048,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.1,1,0.9047619047619048,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.1,2,0.8181818181818182,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.2,0,0.7391304347826086,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.2,1,0.8181818181818182,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.2,2,0.8181818181818182,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.4,0,0.3793103448275862,0.4444444444444444
+tf_mono_steph,Non-classical monocytes,random,0.4,1,0.6,0.3333333333333333
+tf_mono_steph,Non-classical monocytes,random,0.4,2,0.5384615384615384,0.3333333333333333

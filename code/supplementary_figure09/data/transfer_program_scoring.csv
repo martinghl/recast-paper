@@ -1,0 +1,6 @@
+track,method,value,rank,n_field,recast_value,recast_rank,n_pairs,source
+fine_subtype_auroc,SIGnature_native,0.6843777529179533,24,52,0.8948787341300433,6,42.0,arm3_transfer_pairwise_signature_v3.csv
+fine_subtype_sum_max,SIGnature_native,0.5501983565610034,21,52,0.7248885872379722,5,42.0,arm3_transfer_pairwise_signature_v3.csv
+fine_subtype_ontarget,SIGnature_native,0.5544394723006657,27,52,0.765563924397741,8,42.0,arm3_transfer_pairwise_signature_v3.csv
+fine_subtype_knn,SIGnature_native,0.772679844224158,46,52,0.855923849044129,14,42.0,arm3_transfer_pairwise_signature_v3.csv
+broad_cross_atlas_auroc,native_direct (SIGnature native),0.8899632784063846,28,52,0.9411556480495743,4,,transferability_currency_v3.csv

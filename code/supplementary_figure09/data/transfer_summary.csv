@@ -1,0 +1,379 @@
+method,cell_type,src,tgt,transfer_auc,retention
+M0,CD16+ NK cells,ren,stephenson,0.9738851893242179,0.9976937484018271
+M0,CD16+ NK cells,ren,dominguez_conde,0.9746236729342543,0.9958587559130114
+M0,CD16+ NK cells,stephenson,ren,0.9772890268915224,1.0017361370661206
+M0,CD16+ NK cells,stephenson,dominguez_conde,0.9771945030698389,0.9984855992491466
+M0,CD16+ NK cells,dominguez_conde,ren,0.976532721817077,1.0009609128459858
+M0,CD16+ NK cells,dominguez_conde,stephenson,0.9761407277149619,1.0000044279114797
+M0,Classical monocytes,ren,stephenson,0.9948826865391827,0.9990136378985566
+M0,Classical monocytes,ren,dominguez_conde,0.9973383540108769,0.9985023967012528
+M0,Classical monocytes,stephenson,ren,0.9977731898694842,1.0010434569926974
+M0,Classical monocytes,stephenson,dominguez_conde,0.9973319595513256,0.998495994778413
+M0,Classical monocytes,dominguez_conde,ren,0.9980468458669982,1.001318009915706
+M0,Classical monocytes,dominguez_conde,stephenson,0.9962104893138357,1.000346953975181
+M0,Non-classical monocytes,ren,stephenson,0.9988800243605359,1.0001137212804223
+M0,Non-classical monocytes,ren,dominguez_conde,0.995755868544601,0.9991108640634807
+M0,Non-classical monocytes,stephenson,ren,0.9976700236966825,0.9994081333788838
+M0,Non-classical monocytes,stephenson,dominguez_conde,0.9945921361502349,0.997943210711085
+M0,Non-classical monocytes,dominguez_conde,ren,0.998675157977883,1.0004150187737637
+M0,Non-classical monocytes,dominguez_conde,stephenson,0.9989958891595615,1.0002297291817646
+M0,Tcm/Naive cytotoxic T cells,ren,stephenson,0.9617962328767122,0.995305633258742
+M0,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9607577063740855,0.9887380504392692
+M0,Tcm/Naive cytotoxic T cells,stephenson,ren,0.969269613583138,1.0038173674555224
+M0,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.9676102403343783,0.9957901521539034
+M0,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.962801912568306,0.99711913765938
+M0,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.9590086517664023,0.9924209316063362
+M0,Tcm/Naive helper T cells,ren,stephenson,0.8847735797122726,0.9891641190794165
+M0,Tcm/Naive helper T cells,ren,dominguez_conde,0.825635586141778,0.9243466791169486
+M0,Tcm/Naive helper T cells,stephenson,ren,0.8798370004757373,0.9861432222402962
+M0,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.7947256954532249,0.8897412729433275
+M0,Tcm/Naive helper T cells,dominguez_conde,ren,0.8864903514509991,0.9936004637133106
+M0,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.893331106870229,0.9987313111913814
+M0,Tem/Effector helper T cells,ren,stephenson,0.9170807092875318,0.9746019059703922
+M0,Tem/Effector helper T cells,ren,dominguez_conde,0.8513438490715579,0.9783985432027672
+M0,Tem/Effector helper T cells,stephenson,ren,0.9350668808411216,1.0139472378767258
+M0,Tem/Effector helper T cells,stephenson,dominguez_conde,0.8671312839673914,0.9965420974433213
+M0,Tem/Effector helper T cells,dominguez_conde,ren,0.906936273364486,0.9834435890627804
+M0,Tem/Effector helper T cells,dominguez_conde,stephenson,0.9100313295165395,0.9671103745368549
+M0,Tem/Temra cytotoxic T cells,ren,stephenson,0.9518158379373848,0.9990562012122957
+M0,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9639615193291643,0.9856370595043632
+M0,Tem/Temra cytotoxic T cells,stephenson,ren,0.9445025853578466,1.0049957359278143
+M0,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9681516131324617,0.9899213713285567
+M0,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.946076739986868,1.0066707114274929
+M0,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9555513927255985,1.0029771584262674
+M0,Tem/Trm cytotoxic T cells,ren,stephenson,0.9416102065131057,1.0350904794390063
+M0,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.9564439724919094,1.0130958888672144
+M0,Tem/Trm cytotoxic T cells,stephenson,ren,0.7864964751364463,0.9008399883273696
+M0,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9459704692556635,1.0020020209817457
+M0,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7784191176470588,0.8915883173326669
+M0,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.9016192911040508,0.9911293843726615
+M0,gdT,ren,stephenson,0.9558803823907456,0.9837017240988756
+M0,gdT,ren,dominguez_conde,0.9579789663461539,0.9887514793339833
+M0,gdT,stephenson,ren,0.9392662680756395,1.0118766482289956
+M0,gdT,stephenson,dominguez_conde,0.9562271634615384,0.9869434044654175
+M0,gdT,dominguez_conde,ren,0.8944755978865406,0.9636234161441977
+M0,gdT,dominguez_conde,stephenson,0.9225109254498715,0.9493610336425224
+m0_discr,CD16+ NK cells,ren,stephenson,0.9732038686563238,0.9974835305543303
+m0_discr,CD16+ NK cells,ren,dominguez_conde,0.9744929649526733,0.9962790994338839
+m0_discr,CD16+ NK cells,stephenson,ren,0.9771020206624126,1.001955135715194
+m0_discr,CD16+ NK cells,stephenson,dominguez_conde,0.9753102615758505,0.9971146678504799
+m0_discr,CD16+ NK cells,dominguez_conde,ren,0.9737336295958674,0.9985010678114818
+m0_discr,CD16+ NK cells,dominguez_conde,stephenson,0.9750256047856957,0.9993507156782172
+m0_discr,Classical monocytes,ren,stephenson,0.994432391263592,0.9983931614343498
+m0_discr,Classical monocytes,ren,dominguez_conde,0.9960362529741672,0.9974466996504393
+m0_discr,Classical monocytes,stephenson,ren,0.9979535425730268,1.0007337819122877
+m0_discr,Classical monocytes,stephenson,dominguez_conde,0.9975220300815772,0.9989345807067533
+m0_discr,Classical monocytes,dominguez_conde,ren,0.9978847886886264,1.000664836483646
+m0_discr,Classical monocytes,dominguez_conde,stephenson,0.9956473565804275,0.9996129658920134
+m0_discr,Non-classical monocytes,ren,stephenson,0.9988763702801461,0.99981438127549
+m0_discr,Non-classical monocytes,ren,dominguez_conde,0.9959043427230048,0.9982699613285475
+m0_discr,Non-classical monocytes,stephenson,ren,0.9984225908372828,1.0002237441395752
+m0_discr,Non-classical monocytes,stephenson,dominguez_conde,0.9956789906103286,0.9980440739263584
+m0_discr,Non-classical monocytes,dominguez_conde,ren,0.9986095971563981,1.0004110878178931
+m0_discr,Non-classical monocytes,dominguez_conde,stephenson,0.9991881851400731,1.0001264889501997
+m0_discr,Tcm/Naive cytotoxic T cells,ren,stephenson,0.9563369232155732,0.9929706123583335
+m0_discr,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9577564002089863,0.9843828241271143
+m0_discr,Tcm/Naive cytotoxic T cells,stephenson,ren,0.9643090359094458,1.000157276545098
+m0_discr,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.9646202978056426,0.9914375437815499
+m0_discr,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.958604361826698,0.9942405308943663
+m0_discr,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.9590547043979812,0.9957925015685479
+m0_discr,Tcm/Naive helper T cells,ren,stephenson,0.8869463355108631,0.9936751129722747
+m0_discr,Tcm/Naive helper T cells,ren,dominguez_conde,0.8400989976757698,0.9084586379004822
+m0_discr,Tcm/Naive helper T cells,stephenson,ren,0.8806683367031398,0.9785904978984943
+m0_discr,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.7973315477919813,0.862211160668164
+m0_discr,Tcm/Naive helper T cells,dominguez_conde,ren,0.899210082659372,0.999193914248335
+m0_discr,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.8961956749119202,1.0040374517139647
+m0_discr,Tem/Effector helper T cells,ren,stephenson,0.9254343988549619,0.9841769519981035
+m0_discr,Tem/Effector helper T cells,ren,dominguez_conde,0.8694003198596015,1.0027489412372836
+m0_discr,Tem/Effector helper T cells,stephenson,ren,0.927425496495327,0.9965014709004288
+m0_discr,Tem/Effector helper T cells,stephenson,dominguez_conde,0.8611820510643116,0.9932701543711698
+m0_discr,Tem/Effector helper T cells,dominguez_conde,ren,0.9035488025700935,0.9708464067398606
+m0_discr,Tem/Effector helper T cells,dominguez_conde,stephenson,0.9054941952926209,0.9629710309857787
+m0_discr,Tem/Temra cytotoxic T cells,ren,stephenson,0.9431957872928178,0.9908173750473714
+m0_discr,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9569756964184195,0.9814843839822689
+m0_discr,Tem/Temra cytotoxic T cells,stephenson,ren,0.9409599474720945,1.0158032360661107
+m0_discr,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9631984437180215,0.9878664993514317
+m0_discr,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.946509910538411,1.0217946392687203
+m0_discr,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9545751323664826,1.0027712588194864
+m0_discr,Tem/Trm cytotoxic T cells,ren,stephenson,0.9394072676727562,1.0290514186923316
+m0_discr,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.9582471682847897,1.015910355111681
+m0_discr,Tem/Trm cytotoxic T cells,stephenson,ren,0.7877344981807156,0.9178331359096148
+m0_discr,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9482973300970875,1.0053617785219213
+m0_discr,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7775047756215888,0.9059139190191356
+m0_discr,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.8964279686258936,0.9819707645601317
+m0_discr,gdT,ren,stephenson,0.960109736503856,1.0011971025594373
+m0_discr,gdT,ren,dominguez_conde,0.9618192608173077,0.9892351643366164
+m0_discr,gdT,stephenson,ren,0.921344827586207,0.9922416822810841
+m0_discr,gdT,stephenson,dominguez_conde,0.9584196213942308,0.9857386208586713
+m0_discr,gdT,dominguez_conde,ren,0.9112509733036708,0.9813711128111897
+m0_discr,gdT,dominguez_conde,stephenson,0.9392922557840617,0.9794887492464707
+m0_discrRU,CD16+ NK cells,ren,stephenson,0.9745160892716277,0.9963623590443534
+m0_discrRU,CD16+ NK cells,ren,dominguez_conde,0.9756473362752622,0.9936871656094658
+m0_discrRU,CD16+ NK cells,stephenson,ren,0.9750781107566091,1.0005167663687928
+m0_discrRU,CD16+ NK cells,stephenson,dominguez_conde,0.9777570030698388,0.9958358403811169
+m0_discrRU,CD16+ NK cells,dominguez_conde,ren,0.9739754633849894,0.9993853522076832
+m0_discrRU,CD16+ NK cells,dominguez_conde,stephenson,0.9733319090191954,0.9951516323638642
+m0_discrRU,Classical monocytes,ren,stephenson,0.9975598050243719,0.9989450594053535
+m0_discrRU,Classical monocytes,ren,dominguez_conde,0.9989850866757307,0.9991755311621683
+m0_discrRU,Classical monocytes,stephenson,ren,0.9988894888129273,0.9999455609017773
+m0_discrRU,Classical monocytes,stephenson,dominguez_conde,0.998949502889191,0.9991399405920078
+m0_discrRU,Classical monocytes,dominguez_conde,ren,0.9989465506525793,1.000002683069841
+m0_discrRU,Classical monocytes,dominguez_conde,stephenson,0.9978524090738657,0.999238069777395
+m0_discrRU,Non-classical monocytes,ren,stephenson,0.9995972898903775,1.000058339928944
+m0_discrRU,Non-classical monocytes,ren,dominguez_conde,0.9986109154929577,1.001448941866357
+m0_discrRU,Non-classical monocytes,stephenson,ren,0.9993147709320696,0.9998745348156007
+m0_discrRU,Non-classical monocytes,stephenson,dominguez_conde,0.9985498826291079,1.001387735548688
+m0_discrRU,Non-classical monocytes,dominguez_conde,ren,0.9986486966824645,0.9992080874660281
+m0_discrRU,Non-classical monocytes,dominguez_conde,stephenson,0.9991865103532278,0.999647370925573
+m0_discrRU,Tcm/Naive cytotoxic T cells,ren,stephenson,0.9642301730353281,0.9915533844987124
+m0_discrRU,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9780381400208986,0.9953218466861996
+m0_discrRU,Tcm/Naive cytotoxic T cells,stephenson,ren,0.9777620023419203,0.9960732064383826
+m0_discrRU,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.9699463166144199,0.9870870260933924
+m0_discrRU,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.9719257416081186,0.9901276461396552
+m0_discrRU,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.955240086517664,0.9823085475678529
+m0_discrRU,Tcm/Naive helper T cells,ren,stephenson,0.861029534277745,1.0600598095506957
+m0_discrRU,Tcm/Naive helper T cells,ren,dominguez_conde,0.9251115085705984,0.9786934182427379
+m0_discrRU,Tcm/Naive helper T cells,stephenson,ren,0.8437010287821122,0.9339138370787089
+m0_discrRU,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.8538112743317838,0.9032635167419848
+m0_discrRU,Tcm/Naive helper T cells,dominguez_conde,ren,0.8646052420313988,0.9570532352076102
+m0_discrRU,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.8392078501174398,1.033193959502413
+m0_discrRU,Tem/Effector helper T cells,ren,stephenson,0.8917769163486005,0.965700457009788
+m0_discrRU,Tem/Effector helper T cells,ren,dominguez_conde,0.8944363819067029,0.9522601618528785
+m0_discrRU,Tem/Effector helper T cells,stephenson,ren,0.9221688960280373,1.0130495277401923
+m0_discrRU,Tem/Effector helper T cells,stephenson,dominguez_conde,0.9046968127264494,0.9631839119492954
+m0_discrRU,Tem/Effector helper T cells,dominguez_conde,ren,0.8955654497663551,0.9838242862603069
+m0_discrRU,Tem/Effector helper T cells,dominguez_conde,stephenson,0.9024434239821884,0.9772511611238062
+m0_discrRU,Tem/Temra cytotoxic T cells,ren,stephenson,0.9265760531767956,0.9559584620052455
+m0_discrRU,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9652288587265494,0.9878661714741627
+m0_discrRU,Tem/Temra cytotoxic T cells,stephenson,ren,0.948852429415627,1.019301232480319
+m0_discrRU,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9764814525298465,0.9993826700321138
+m0_discrRU,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.9325359077478661,1.0017732690898649
+m0_discrRU,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9481457182320442,0.9782121170198429
+m0_discrRU,Tem/Trm cytotoxic T cells,ren,stephenson,0.7753155281969818,0.8556687915816594
+m0_discrRU,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.7824993932038836,0.8132006795385496
+m0_discrRU,Tem/Trm cytotoxic T cells,stephenson,ren,0.8147215736810187,1.0505468430075287
+m0_discrRU,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9340234627831716,0.9706697810081505
+m0_discrRU,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7963341798059431,1.0268371252209716
+m0_discrRU,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.8870363383637808,0.9789682834056658
+m0_discrRU,gdT,ren,stephenson,0.9808893798200513,1.0000071252931197
+m0_discrRU,gdT,ren,dominguez_conde,0.9763762019230768,0.9868840858115177
+m0_discrRU,gdT,stephenson,ren,0.9607523637374862,0.9785776620118924
+m0_discrRU,gdT,stephenson,dominguez_conde,0.9876376201923077,0.9982667008851762
+m0_discrRU,gdT,dominguez_conde,ren,0.9473555339265851,0.9649322744078241
+m0_discrRU,gdT,dominguez_conde,stephenson,0.9705957583547558,0.9895128789263641
+m0_tau,CD16+ NK cells,ren,stephenson,0.9750303214567446,0.99876574783843
+m0_tau,CD16+ NK cells,ren,dominguez_conde,0.9751296847019698,0.9961711889543592
+m0_tau,CD16+ NK cells,stephenson,ren,0.9776193216347614,1.0018126909736516
+m0_tau,CD16+ NK cells,stephenson,dominguez_conde,0.9766843662061908,0.9977594176246601
+m0_tau,CD16+ NK cells,dominguez_conde,ren,0.975849722728654,0.9999992993979746
+m0_tau,CD16+ NK cells,dominguez_conde,stephenson,0.9755355311596109,0.999283255997504
+m0_tau,Classical monocytes,ren,stephenson,0.9955467285339333,0.9990335598096337
+m0_tau,Classical monocytes,ren,dominguez_conde,0.9972401215159756,0.9981704141366118
+m0_tau,Classical monocytes,stephenson,ren,0.9975071472964574,1.0001953666021572
+m0_tau,Classical monocytes,stephenson,dominguez_conde,0.9981212610469068,0.9990523756537283
+m0_tau,Classical monocytes,dominguez_conde,ren,0.9977383856432567,1.0004272281218227
+m0_tau,Classical monocytes,dominguez_conde,stephenson,0.9958505343082114,0.9993384296419263
+m0_tau,Non-classical monocytes,ren,stephenson,0.9992378197320341,1.0005067328082053
+m0_tau,Non-classical monocytes,ren,dominguez_conde,0.9966731220657277,1.0000217865693455
+m0_tau,Non-classical monocytes,stephenson,ren,0.9980862954186414,0.999805945850782
+m0_tau,Non-classical monocytes,stephenson,dominguez_conde,0.9952083333333334,0.998552076377824
+m0_tau,Non-classical monocytes,dominguez_conde,ren,0.9985683254344393,1.0002888063790605
+m0_tau,Non-classical monocytes,dominguez_conde,stephenson,0.9989958891595615,1.0002644950127064
+m0_tau,Tcm/Naive cytotoxic T cells,ren,stephenson,0.9626297764960347,0.9925399721343121
+m0_tau,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9591009665621735,0.9821364011420953
+m0_tau,Tcm/Naive cytotoxic T cells,stephenson,ren,0.9717427302888368,1.0048375572638935
+m0_tau,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.9691799895506791,0.9924574994519443
+m0_tau,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.9717705893832943,1.0048663651608292
+m0_tau,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.9640838590483056,0.9940392349777756
+m0_tau,Tcm/Naive helper T cells,ren,stephenson,0.8896171645625368,0.9951941398871181
+m0_tau,Tcm/Naive helper T cells,ren,dominguez_conde,0.8260867954677513,0.9254713754239158
+m0_tau,Tcm/Naive helper T cells,stephenson,ren,0.881024485608944,0.9840445619789984
+m0_tau,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.7998162223997676,0.8960402508450088
+m0_tau,Tcm/Naive helper T cells,dominguez_conde,ren,0.8937033182683157,0.9982059576433573
+m0_tau,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.8962081161920141,1.0025672849873037
+m0_tau,Tem/Effector helper T cells,ren,stephenson,0.9063858937659032,0.9628331347053907
+m0_tau,Tem/Effector helper T cells,ren,dominguez_conde,0.8601082993659419,0.9745091904204417
+m0_tau,Tem/Effector helper T cells,stephenson,ren,0.9363558411214954,1.015318887125093
+m0_tau,Tem/Effector helper T cells,stephenson,dominguez_conde,0.888513572803442,1.0066925794676764
+m0_tau,Tem/Effector helper T cells,dominguez_conde,ren,0.918051168224299,0.9954705780752873
+m0_tau,Tem/Effector helper T cells,dominguez_conde,stephenson,0.903656528307888,0.9599337918120688
+m0_tau,Tem/Temra cytotoxic T cells,ren,stephenson,0.9275028775322284,0.989633657304186
+m0_tau,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9329755542922115,0.9694461429926622
+m0_tau,Tem/Temra cytotoxic T cells,stephenson,ren,0.930949872783979,1.020078200915784
+m0_tau,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9523353467879477,0.9895627216937709
+m0_tau,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.9333540914313854,1.0227125973576896
+m0_tau,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9377082757826887,1.0005226861573582
+m0_tau,Tem/Trm cytotoxic T cells,ren,stephenson,0.9397377382843526,1.035402923795311
+m0_tau,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.9586919498381877,1.025547303903909
+m0_tau,Tem/Trm cytotoxic T cells,stephenson,ren,0.7850629548211037,0.9119472609729553
+m0_tau,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9448199838187701,1.0107079622848816
+m0_tau,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7553550257731958,0.8774378444248365
+m0_tau,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.8792544678316124,0.9687624638923159
+m0_tau,gdT,ren,stephenson,0.9189011889460155,0.9663777568443241
+m0_tau,gdT,ren,dominguez_conde,0.9294672475961538,0.9577493439843949
+m0_tau,gdT,stephenson,ren,0.9272498609566185,1.031073133609759
+m0_tau,gdT,stephenson,dominguez_conde,0.9411460336538462,0.9697834954988428
+m0_tau,gdT,dominguez_conde,ren,0.9160375417130144,1.0186053817940735
+m0_tau,gdT,dominguez_conde,stephenson,0.9410179145244216,0.9896371800666585
+m0_tau_discr,CD16+ NK cells,ren,stephenson,0.9734952340257692,0.9982265393354782
+m0_tau_discr,CD16+ NK cells,ren,dominguez_conde,0.9743704751854695,0.996155548424244
+m0_tau_discr,CD16+ NK cells,stephenson,ren,0.9771467069279854,1.0023535692010477
+m0_tau_discr,CD16+ NK cells,stephenson,dominguez_conde,0.9752436684574061,0.997048264639317
+m0_tau_discr,CD16+ NK cells,dominguez_conde,ren,0.9752644333029473,1.0004227397023724
+m0_tau_discr,CD16+ NK cells,dominguez_conde,stephenson,0.9742009433342098,0.9989501769416207
+m0_tau_discr,Classical monocytes,ren,stephenson,0.9957178946381702,0.9989390235226536
+m0_tau_discr,Classical monocytes,ren,dominguez_conde,0.9970768291128485,0.9981304194684173
+m0_tau_discr,Classical monocytes,stephenson,ren,0.9985455640149161,1.0009263800062025
+m0_tau_discr,Classical monocytes,stephenson,dominguez_conde,0.9981104584466349,0.9991651410168311
+m0_tau_discr,Classical monocytes,dominguez_conde,ren,0.9978937616532008,1.0002730235626889
+m0_tau_discr,Classical monocytes,dominguez_conde,stephenson,0.9958918260217473,0.9991135175710242
+m0_tau_discr,Non-classical monocytes,ren,stephenson,0.999165042630938,1.0002220678094802
+m0_tau_discr,Non-classical monocytes,ren,dominguez_conde,0.9962846244131456,0.9992042476226015
+m0_tau_discr,Non-classical monocytes,stephenson,ren,0.9983830963665087,0.9999416547157725
+m0_tau_discr,Non-classical monocytes,stephenson,dominguez_conde,0.9965686619718309,0.9994891175565221
+m0_tau_discr,Non-classical monocytes,dominguez_conde,ren,0.9987474328593997,1.0003065599679755
+m0_tau_discr,Non-classical monocytes,dominguez_conde,stephenson,0.9992745127892814,1.0003316537772333
+m0_tau_discr,Tcm/Naive cytotoxic T cells,ren,stephenson,0.9576448269646719,0.9915094867789738
+m0_tau_discr,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9634186259143157,0.9854708531922345
+m0_tau_discr,Tcm/Naive cytotoxic T cells,stephenson,ren,0.9683336260733802,1.0031961610482634
+m0_tau_discr,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.9651464211076279,0.9872381968552024
+m0_tau_discr,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.9680702576112413,1.0029233106348883
+m0_tau_discr,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.9626725847152127,0.99671503832222
+m0_tau_discr,Tcm/Naive helper T cells,ren,stephenson,0.8899607127128596,0.9916047179925893
+m0_tau_discr,Tcm/Naive helper T cells,ren,dominguez_conde,0.8461202335124928,0.9232219297815906
+m0_tau_discr,Tcm/Naive helper T cells,stephenson,ren,0.892148117863939,0.9887989523809113
+m0_tau_discr,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.8129376815804765,0.8870156574146248
+m0_tau_discr,Tcm/Naive helper T cells,dominguez_conde,ren,0.9033322728353947,1.0011947423821494
+m0_tau_discr,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.8972129697592482,0.9996852682916835
+m0_tau_discr,Tem/Effector helper T cells,ren,stephenson,0.9178372296437661,0.9697147723776253
+m0_tau_discr,Tem/Effector helper T cells,ren,dominguez_conde,0.8615565698596015,0.9762072602813275
+m0_tau_discr,Tem/Effector helper T cells,stephenson,ren,0.9385795852803738,1.0110289641536563
+m0_tau_discr,Tem/Effector helper T cells,stephenson,dominguez_conde,0.8919252151268117,1.0106171795273613
+m0_tau_discr,Tem/Effector helper T cells,dominguez_conde,ren,0.9084124707943924,0.9785332365791475
+m0_tau_discr,Tem/Effector helper T cells,dominguez_conde,stephenson,0.8938107108778626,0.9443302385805513
+m0_tau_discr,Tem/Temra cytotoxic T cells,ren,stephenson,0.9378462246777164,0.9860106547858227
+m0_tau_discr,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9528520821489483,0.9759996846761567
+m0_tau_discr,Tem/Temra cytotoxic T cells,stephenson,ren,0.9403241135915954,1.01907024956123
+m0_tau_discr,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9659053439454235,0.989370048907951
+m0_tau_discr,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.9490858708141825,1.0285657479647674
+m0_tau_discr,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9564285220994475,1.0055472725874484
+m0_tau_discr,Tem/Trm cytotoxic T cells,ren,stephenson,0.9348152799841144,1.0262699757271476
+m0_tau_discr,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.9628713592233009,1.0170813421765728
+m0_tau_discr,Tem/Trm cytotoxic T cells,stephenson,ren,0.7884586870830808,0.9224155644563042
+m0_tau_discr,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9471832524271845,1.0005099896656053
+m0_tau_discr,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7794542904790783,0.9118813466055291
+m0_tau_discr,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.9034519459888801,0.9918383091645744
+m0_tau_discr,gdT,ren,stephenson,0.9579803984575836,1.0070665603829594
+m0_tau_discr,gdT,ren,dominguez_conde,0.9613846153846154,0.9913945576123399
+m0_tau_discr,gdT,stephenson,ren,0.9097323414905452,0.9769773735224118
+m0_tau_discr,gdT,stephenson,dominguez_conde,0.9545778245192307,0.9843752904941032
+m0_tau_discr,gdT,dominguez_conde,ren,0.9135921857619577,0.9811225273731714
+m0_tau_discr,gdT,dominguez_conde,stephenson,0.9435957583547557,0.9919448626383859
+m0_tau_discrRU,CD16+ NK cells,ren,stephenson,0.9742481757822773,0.9967993690546948
+m0_tau_discrRU,CD16+ NK cells,ren,dominguez_conde,0.9754891596316193,0.9918304802211805
+m0_tau_discrRU,CD16+ NK cells,stephenson,ren,0.9762467904892129,1.0007882446571397
+m0_tau_discrRU,CD16+ NK cells,stephenson,dominguez_conde,0.9778021712714249,0.9941822392569568
+m0_tau_discrRU,CD16+ NK cells,dominguez_conde,ren,0.976295559860225,1.000838240020693
+m0_tau_discrRU,CD16+ NK cells,dominguez_conde,stephenson,0.9744997863528793,0.9970568037250982
+m0_tau_discrRU,Classical monocytes,ren,stephenson,0.9976103299587551,0.9987963303819941
+m0_tau_discrRU,Classical monocytes,ren,dominguez_conde,0.9989811140380693,0.9990947304999228
+m0_tau_discrRU,Classical monocytes,stephenson,ren,0.9989076678060909,0.999909324952657
+m0_tau_discrRU,Classical monocytes,stephenson,dominguez_conde,0.9991059759517334,0.9992196066144249
+m0_tau_discrRU,Classical monocytes,dominguez_conde,ren,0.999008545680547,1.0000103039826524
+m0_tau_discrRU,Classical monocytes,dominguez_conde,stephenson,0.9983463629546308,0.9995332384043389
+m0_tau_discrRU,Non-classical monocytes,ren,stephenson,0.9996068818514008,0.9999243060563532
+m0_tau_discrRU,Non-classical monocytes,ren,dominguez_conde,0.9981637323943662,1.001096522205899
+m0_tau_discrRU,Non-classical monocytes,stephenson,ren,0.9994083728278041,0.999914451172661
+m0_tau_discrRU,Non-classical monocytes,stephenson,dominguez_conde,0.9985727699530518,1.0015067615926472
+m0_tau_discrRU,Non-classical monocytes,dominguez_conde,ren,0.9988779620853081,0.9993837718418702
+m0_tau_discrRU,Non-classical monocytes,dominguez_conde,stephenson,0.9994867539585871,0.9998041400170425
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,ren,stephenson,0.963860264960346,0.9946697017984003
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.9775074451410658,0.9955540733287235
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,stephenson,ren,0.973645150273224,0.994824386783978
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.976475182863114,0.9945027535452612
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.9719777517564402,0.9931207181460575
+m0_tau_discrRU,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.9563345800288392,0.9869034611318047
+m0_tau_discrRU,Tcm/Naive helper T cells,ren,stephenson,0.8542313747798004,1.0142799421732973
+m0_tau_discrRU,Tcm/Naive helper T cells,ren,dominguez_conde,0.9174131137420104,0.9732710557031893
+m0_tau_discrRU,Tcm/Naive helper T cells,stephenson,ren,0.8558142542816365,0.9516235818135559
+m0_tau_discrRU,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.8382886675624637,0.8893290102805055
+m0_tau_discrRU,Tcm/Naive helper T cells,dominguez_conde,ren,0.8682330072549952,0.9654326275580501
+m0_tau_discrRU,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.8386709483264827,0.9958041182815195
+m0_tau_discrRU,Tem/Effector helper T cells,ren,stephenson,0.8910799141221375,0.966695303494156
+m0_tau_discrRU,Tem/Effector helper T cells,ren,dominguez_conde,0.8804542997056161,0.9413961930169287
+m0_tau_discrRU,Tem/Effector helper T cells,stephenson,ren,0.9179559579439251,1.0077951243599237
+m0_tau_discrRU,Tem/Effector helper T cells,stephenson,dominguez_conde,0.9085996801403984,0.9714896958837739
+m0_tau_discrRU,Tem/Effector helper T cells,dominguez_conde,ren,0.9142498247663553,1.0037262767052397
+m0_tau_discrRU,Tem/Effector helper T cells,dominguez_conde,stephenson,0.9082725429389313,0.9853468669156998
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,ren,stephenson,0.9288967541436463,0.9562566401527116
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9661586839113132,0.988754593134432
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,stephenson,ren,0.950620957813526,1.014209029612248
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9792813388288801,1.0021841524189745
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.9395038369993435,1.002348272472023
+m0_tau_discrRU,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9490661544659301,0.9770201134881988
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,ren,stephenson,0.7729685266084194,0.8525233345515619
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.7807837783171521,0.8119136205406292
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,stephenson,ren,0.811755609460279,1.0430079537942143
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9333782362459546,0.970592018135467
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.7682185794420862,0.9870681265058701
+m0_tau_discrRU,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.8828892970611595,0.9737572768622812
+m0_tau_discrRU,gdT,ren,stephenson,0.9805383997429307,0.9989712163185881
+m0_tau_discrRU,gdT,ren,dominguez_conde,0.9803583233173078,0.9903670416805413
+m0_tau_discrRU,gdT,stephenson,ren,0.9613179922135706,0.9782167823386697
+m0_tau_discrRU,gdT,stephenson,dominguez_conde,0.9845597956730768,0.9946114078971771
+m0_tau_discrRU,gdT,dominguez_conde,ren,0.9657892102335929,0.9827665988823188
+m0_tau_discrRU,gdT,dominguez_conde,stephenson,0.9790988110539848,0.9975045652787392
+native_direct,CD16+ NK cells,ren,stephenson,0.9650782934525374,0.9901241316424997
+native_direct,CD16+ NK cells,ren,dominguez_conde,0.9690622601688411,0.992357432008347
+native_direct,CD16+ NK cells,stephenson,ren,0.9740147751443331,1.0055455880977642
+native_direct,CD16+ NK cells,stephenson,dominguez_conde,0.9722343949859298,0.9956058213951362
+native_direct,CD16+ NK cells,dominguez_conde,ren,0.9741751747189302,1.0057111801284857
+native_direct,CD16+ NK cells,dominguez_conde,stephenson,0.9716472521693401,0.9968635688357264
+native_direct,Classical monocytes,ren,stephenson,0.9926445913010874,0.9988344766004796
+native_direct,Classical monocytes,ren,dominguez_conde,0.9944700246430999,0.9979447898751981
+native_direct,Classical monocytes,stephenson,ren,0.9974618551895587,0.999606403872447
+native_direct,Classical monocytes,stephenson,dominguez_conde,0.9959786072399729,0.9994586435915895
+native_direct,Classical monocytes,dominguez_conde,ren,0.9959918039154755,0.9981331919797325
+native_direct,Classical monocytes,dominguez_conde,stephenson,0.9919168541432319,0.9981022014543304
+native_direct,Non-classical monocytes,ren,stephenson,0.9987802984165651,1.0002756862001827
+native_direct,Non-classical monocytes,ren,dominguez_conde,0.9951965962441315,1.0024377974464604
+native_direct,Non-classical monocytes,stephenson,ren,0.9972349921011059,0.9994312145647068
+native_direct,Non-classical monocytes,stephenson,dominguez_conde,0.9930774647887324,1.0003032468695523
+native_direct,Non-classical monocytes,dominguez_conde,ren,0.9973890205371249,0.9995855822193793
+native_direct,Non-classical monocytes,dominguez_conde,stephenson,0.9986543848964676,1.000149584160608
+native_direct,Tcm/Naive cytotoxic T cells,ren,stephenson,0.855442456741168,1.091300142649826
+native_direct,Tcm/Naive cytotoxic T cells,ren,dominguez_conde,0.8366203631138976,0.9490826956393408
+native_direct,Tcm/Naive cytotoxic T cells,stephenson,ren,0.7636314402810305,0.9144929230668912
+native_direct,Tcm/Naive cytotoxic T cells,stephenson,dominguez_conde,0.8084342345872517,0.9171076589068627
+native_direct,Tcm/Naive cytotoxic T cells,dominguez_conde,ren,0.8314482338017173,0.9957074651461605
+native_direct,Tcm/Naive cytotoxic T cells,dominguez_conde,stephenson,0.8484006398702236,1.0823167964349902
+native_direct,Tcm/Naive helper T cells,ren,stephenson,0.6849105438931298,1.0186867295850832
+native_direct,Tcm/Naive helper T cells,ren,dominguez_conde,0.5768361871731552,0.8214563894949231
+native_direct,Tcm/Naive helper T cells,stephenson,ren,0.5635020070171266,0.8357272309226096
+native_direct,Tcm/Naive helper T cells,stephenson,dominguez_conde,0.44581721201336433,0.6348759067108577
+native_direct,Tcm/Naive helper T cells,dominguez_conde,ren,0.7067208908182683,1.0481344977725344
+native_direct,Tcm/Naive helper T cells,dominguez_conde,stephenson,0.7542780754550793,1.121859011711986
+native_direct,Tem/Effector helper T cells,ren,stephenson,0.9109560671119592,0.9911752553807881
+native_direct,Tem/Effector helper T cells,ren,dominguez_conde,0.7667925441576087,0.8889219039891062
+native_direct,Tem/Effector helper T cells,stephenson,ren,0.8641430490654206,1.002536678942224
+native_direct,Tem/Effector helper T cells,stephenson,dominguez_conde,0.7949444067028986,0.9215575985394369
+native_direct,Tem/Effector helper T cells,dominguez_conde,ren,0.8625858352803738,1.0007300753502004
+native_direct,Tem/Effector helper T cells,dominguez_conde,stephenson,0.917104683524173,0.9978653216338574
+native_direct,Tem/Temra cytotoxic T cells,ren,stephenson,0.9644424493554328,1.0001641560185832
+native_direct,Tem/Temra cytotoxic T cells,ren,dominguez_conde,0.9728861213757817,0.9983815305680953
+native_direct,Tem/Temra cytotoxic T cells,stephenson,ren,0.9401213476690742,1.0014028413827127
+native_direct,Tem/Temra cytotoxic T cells,stephenson,dominguez_conde,0.9726527146105742,0.998142007155876
+native_direct,Tem/Temra cytotoxic T cells,dominguez_conde,ren,0.9397214789888378,1.000976907397104
+native_direct,Tem/Temra cytotoxic T cells,dominguez_conde,stephenson,0.9669093577348066,1.0027224355083346
+native_direct,Tem/Trm cytotoxic T cells,ren,stephenson,0.8758564336775218,0.9619612278949178
+native_direct,Tem/Trm cytotoxic T cells,ren,dominguez_conde,0.8925603762135922,0.9555776697021345
+native_direct,Tem/Trm cytotoxic T cells,stephenson,ren,0.8022864993935718,1.0039392024585299
+native_direct,Tem/Trm cytotoxic T cells,stephenson,dominguez_conde,0.9393044093851134,1.0056219641620898
+native_direct,Tem/Trm cytotoxic T cells,dominguez_conde,ren,0.8116641146149182,1.0156738577885118
+native_direct,Tem/Trm cytotoxic T cells,dominguez_conde,stephenson,0.9119660444797457,1.0016207476637755
+native_direct,gdT,ren,stephenson,0.9308622268637532,0.9691167237465598
+native_direct,gdT,ren,dominguez_conde,0.9469996995192307,0.9932875562613913
+native_direct,gdT,stephenson,ren,0.9193033926585095,1.0367863344792148
+native_direct,gdT,stephenson,dominguez_conde,0.9549534254807691,1.0016300478456233
+native_direct,gdT,dominguez_conde,ren,0.8544041991101223,0.9635933086217717
+native_direct,gdT,dominguez_conde,stephenson,0.8935452281491002,0.9302661543596763

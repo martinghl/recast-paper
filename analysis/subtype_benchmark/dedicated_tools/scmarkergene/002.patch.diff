@@ -1,0 +1,67 @@
+--- scmarkergene_src/002_geneContribution.py	2026-09-10 04:27:01.344519009 +0000
++++ scmarkergene/002_geneContribution_fast.py	2026-09-10 04:58:57.458650637 +0000
+@@ -445,32 +445,39 @@
+ 
+ 
+ def explain(args, model, param_index, pool_loader, universal_dict):
++    """Batched DeepLIFT, saved as float32 npy instead of 6-decimal text.
++
++    Only the loop shape changes.  The original ran the pool through `DataLoader(..., batch_size=1)`
++    and called `explainer.attribute` once per cell, then wrote one text line per cell holding every
++    gene at 6 decimals -- for the benchmark's largest lineage that is ~700 MB per model and 15
++    models per lineage.  DeepLIFT's rescale rule is per-example and the model is in eval() mode, so
++    a batch of B rows against the same single baseline row gives the same attribution each cell
++    would get alone; captum broadcasts the (1, F) baseline over the batch.
++
++    The saved product is unchanged: attribution * input, per cell, per gene.
++    """
+     model.eval()
+     attributions = []
+     all_labels = []
+     explainer = DeepLift(model, multiply_by_inputs=False)
+     base_data = torch.FloatTensor(universal_dict['data'][:1]).to(args.device)
+-    
++
+     with torch.no_grad():
+         for batch_idx, (data, label) in enumerate(pool_loader):
+-            data, label = data.to(args.device), label.squeeze().long().to(args.device)
++            data = data.to(args.device)
++            label = label.view(-1).long().to(args.device)
+             att = explainer.attribute(data, target=label, baselines=base_data)
+-            att = att.cpu().numpy().squeeze(0) 
+-            data = data.cpu().numpy().squeeze(0)
+-            attributions.append(att * data)  
+-            all_labels.append(label.item())
+-            
+-    attributions = np.array(attributions)
+-    # att_zscore = zscore(attributions, axis=0)
+-    
+-    outfile = f"{args.output_dir}/explain_dir/model_{param_index}_explanation.dat"
+-    with open(outfile, "w") as fo:
+-        for idx, (label, att) in enumerate(zip(all_labels, attributions)):
+-            att_str = "|".join([f"{x:.6f}" for x in att])
+-            fo.write(f"{label}\t{att_str}\n")
++            attributions.append((att * data).cpu().numpy().astype(np.float32))
++            all_labels.append(label.cpu().numpy().astype(np.int64))
++
++    attributions = np.concatenate(attributions, axis=0)
++    all_labels = np.concatenate(all_labels, axis=0)
++
++    np.save(f"{args.output_dir}/explain_dir/model_{param_index}_explanation.npy", attributions)
++    np.save(f"{args.output_dir}/explain_dir/model_{param_index}_labels.npy", all_labels)
+ 
+     return attributions
+-    
++
+ def save_performance(args, model, param_index, train_loader, test_loader, pool_loader):
+     model = model.to(args.device)
+ 
+@@ -605,7 +612,7 @@
+         args.batch_size
+     )
+     pool_loader = get_Dataloader(
+-        pool_original, 1
++        pool_original, args.batch_size
+     )
+ 
+     infoLine("------------- Starting Global Search -----------------")

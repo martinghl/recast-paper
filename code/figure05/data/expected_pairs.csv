@@ -1,0 +1,19 @@
+program,CD4 T:Tcm/naive,CD4 T:Tem/effector,CD4 T:Tem/Temra,CD4 T:Treg,CD8 T:Tcm/naive,CD8 T:Tem/Temra,CD8 T:Tem/Trm,CD8 T:MAIT,CD8 T:γδ T,NK:CD56bright,NK:CX3CR1+,NK:CXCR6+,NK:NK,NK:Proliferating,B / ASC:Naive,B / ASC:Non-switched,B / ASC:Switched,B / ASC:Memory,B / ASC:MZB,B / ASC:ASC cycling,B / ASC:ASC non-cycling,Mono:Classical,Mono:Non-classical,Lung:AT1,Lung:AT2,Lung:Basal,Lung:Club,Lung:Ciliated,Lung:Ionocyte,Colon:Stem,Colon:Enterocyte,Colon:BEST4+,Colon:Goblet,Colon:Tuft,Colon:Enteroendocrine,Pancreas:α,Pancreas:β,Pancreas:δ,Pancreas:γ
+FOXP3,P,P,P,E,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+TCF/LEF–β-catenin targets,E,U,U,U,E,U,U,U,U,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,U,U,U,U,U,U,U,U,U
+TBX21,U,P,E,U,U,E,P,E,E,P,E,P,E,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+leukocyte cytotoxicity,U,P,E,U,U,E,E,E,E,P,E,P,E,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+E2F targets,U,U,U,U,U,U,U,U,U,U,U,U,U,E,U,U,U,U,U,E,U,U,U,U,U,U,U,U,U,P,U,U,U,U,U,U,U,U,U
+PAX5,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,E,E,E,E,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+B-cell receptor signaling,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,E,E,E,E,P,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+SPI1 (PU.1),U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,P,P,P,U,U,E,E,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+myeloid leukocyte migration,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,E,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U
+NKX2-1,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,E,P,P,P,P,U,U,U,U,U,U,U,U,U,U
+surfactant metabolism,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,U,P,U,U,U,U,U,U,U,U,U,U,U,U
+cilium movement,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,U,U,U,U,U,U,U,U,U,U,U
+WNT signaling,P,U,U,U,P,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,U,U,U,U,U,U,U,U,U
+chloride transport,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,U,E,E,P,U,U,U,U,U,U
+SPDEF,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,U,U,U,U,U,E,U,U,U,U,U,U
+NEUROD1,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,E,E,E,E,E
+PDX1,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,E,P,P
+pancreas β-cell program,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,P,P,E,P,P

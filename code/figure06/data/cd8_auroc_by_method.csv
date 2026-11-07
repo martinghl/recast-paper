@@ -1,0 +1,21 @@
+method,state,auroc
+RECAST,Tcm/Naive cytotoxic T cells,0.9854094857983892
+RECAST,Tem/Temra cytotoxic T cells,0.8975834689873617
+RECAST,Tem/Trm cytotoxic T cells,0.9254180667666886
+RECAST,gdT,0.9904487852429513
+ANS,Tcm/Naive cytotoxic T cells,0.9918261095341728
+ANS,Tem/Temra cytotoxic T cells,0.8835213263551815
+ANS,Tem/Trm cytotoxic T cells,0.8444411379351676
+ANS,gdT,0.9758180575423376
+Seurat,Tcm/Naive cytotoxic T cells,0.990544730238793
+Seurat,Tem/Temra cytotoxic T cells,0.8829499661495491
+Seurat,Tem/Trm cytotoxic T cells,0.8431371333391197
+Seurat,gdT,0.9745418704720595
+Scanpy,Tcm/Naive cytotoxic T cells,0.9884268066793345
+Scanpy,Tem/Temra cytotoxic T cells,0.8836989305770224
+Scanpy,Tem/Trm cytotoxic T cells,0.8443967067167603
+Scanpy,gdT,0.9763624198237275
+UCell,Tcm/Naive cytotoxic T cells,0.989280934834474
+UCell,Tem/Temra cytotoxic T cells,0.8785866701464151
+UCell,Tem/Trm cytotoxic T cells,0.83572693606451
+UCell,gdT,0.9745771999446264

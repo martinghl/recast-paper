@@ -1,0 +1,25 @@
+Dataset	Biological material analysed	Processed input cells	Principal analyses	Source	CELLxGENE identifier
+pbmc3k	Peripheral blood mononuclear cells	2638	Broad cell-type evaluation; program scoring	10x Genomics; TENxPBMCData	
+Smart-seq3 PBMC	Peripheral blood mononuclear cells	3129	Broad cell-type evaluation; program scoring	E-MTAB-8735	
+CITE-seq CBMC	Cord-blood mononuclear cells	8617	Broad cell-type AUROC evaluation	GSE100866	
+Lawlor	Pancreatic islets	604	Broad cell-type evaluation; program scoring	GSE86469	
+Domínguez Conde	Healthy-donor blood	25980	Broad and fine-subtype evaluation; program scoring; transfer	CellTypist Blood; E-MTAB-11536	
+Ren	Healthy-donor blood	24472	Broad and fine-subtype evaluation; program scoring; transfer	CellTypist Blood; GSE158055	
+Stephenson	Healthy-donor blood	24350	Broad and fine-subtype evaluation; program scoring; transfer	CellTypist Blood; E-MTAB-10026	
+Yoshida	Healthy-donor blood	46431	Broad and fine-subtype evaluation; program scoring; transfer	CellTypist Blood; GSE168215	
+Zhao	Immune cells from blood, liver and spleen	60672	Fine-subtype, reference and robustness analyses; program scoring; cell-cycle comparison	GSE125188	
+Hao PBMC subset (pbmcbmn)	B cells, monocytes and natural killer cells	68574	Fine-subtype evaluation; program scoring	GSE164378; ANS-processed input	
+Human Lung Cell Atlas	Healthy and diseased respiratory epithelium, including nasal tissue	16737	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID 9f222629-9e39-47d0-b83f-e08d610c7479
+Smillie	Normal colonic epithelium	8136	Fine-subtype evaluation	CELLxGENE Discover	Asset/version ID 774d77e7-210d-4237-8ca8-8d2bb841a2e4
+Rustam	Normal distal-airway and alveolar epithelium	10794	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID b61a921b-7fa3-4b42-b455-aaaf32447920
+Natri	Normal peripheral-lung epithelium	7273	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID f14bc322-1322-4184-8d16-409557525ea5
+Kong	Normal terminal-ileum epithelium	10477	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID fe4b89d5-461e-440c-a5a8-621b37b122c0
+Burclaff	Normal colonic epithelium from organ donors	4673	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID 019c7af2-c827-4454-9970-44d5e39ce068
+Hickey	Normal colonic epithelium (nuclei)	11343	Fine-subtype evaluation	Zenodo 7675308	
+Rexach	Motor, insular and visual cortex of control donors (nuclei)	15000	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset ID ac0c6561-7a48-4185-af6f-af799f699172
+Gittings	Frontal cortex of control donors (nuclei)	15000	Fine-subtype evaluation	CELLxGENE Census 2025-11-08	Dataset IDs 3b8b5de4-3aa1-4ac6-8890-8d03c8219981 and 98f5d518-1e60-4307-b732-ab045cd3cbc2
+Maitra	Dorsolateral prefrontal cortex of control donors (nuclei)	15000	Fine-subtype evaluation	GSE213982	
+Baron	Pancreatic islets	8569	Strong-marker control; program scoring	GSE84133	
+Pelka	Colorectal epithelium from normal and tumour specimens	39994	Program scoring	GSE178341	
+Jerber	Induced pluripotent stem cell–to–midbrain differentiation	82166	Developmental expression analysis	Zenodo 4333872	
+Zeng	Bone-marrow haematopoietic cells	263159	Cell-cycle comparisons	CELLxGENE Discover	Asset ID 4d7b34ed-d725-43eb-865f-87be6a467323

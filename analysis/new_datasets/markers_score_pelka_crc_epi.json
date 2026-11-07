@@ -1,0 +1,9 @@
+{
+  "Stem_TA": ["LGR5", "OLFM4", "ASCL2", "SMOC2"],
+  "Prolif": ["MKI67", "TOP2A", "PCNA", "UBE2C", "BIRC5"],
+  "Enterocyte": ["FABP1", "KRT20", "CEACAM7", "GUCA2A", "GUCA2B", "SLC26A3", "ANPEP"],
+  "Goblet": ["MUC2", "TFF3", "SPINK4", "ZG16", "CLCA1", "FCGBP", "ITLN1"],
+  "Best4": ["BEST4", "OTOP2", "SPIB", "CA7", "MT1G"],
+  "Tuft": ["POU2F3", "TRPM5", "AVIL", "SH2D6", "LRMP", "HCK", "BMX"],
+  "Enteroendocrine": ["CHGA", "CHGB", "NEUROD1", "PYY", "SCG2", "PCSK1N", "GCG"]
+}

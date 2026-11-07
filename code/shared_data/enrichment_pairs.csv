@@ -1,0 +1,1264 @@
+program,collection,term,cls,lineage,state,comp,subtype,n_program_genes,k_recast,k_cosg,dk,hit_recast,hit_cosg,hit_recast_specific,hit_cosg_specific,program_order
+FOXP3,CollecTRI,FOXP3,U,fs_asc_zhao,MZB,B / ASC,MZB,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,BEST4,Colon,BEST4+,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,goblet,Colon,Goblet,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,stem,Colon,Stem,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_gut_smillie,tuft,Colon,Tuft,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,AT1,Lung,AT1,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,AT2,Lung,AT2,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,basal,Lung,Basal,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,ciliated,Lung,Ciliated,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,club,Lung,Club,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_nk_pbmcbmn,NK,NK,NK,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,51,0,1,-1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,51,2,0,2,True,False,True,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_panc_baron,alpha,Pancreas,α,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_panc_baron,beta,Pancreas,β,51,0,1,-1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_panc_baron,delta,Pancreas,δ,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,fs_panc_baron,gamma,Pancreas,γ,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_ren,Naive B cells,B / ASC,Naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,51,0,2,-2,False,True,False,True,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_steph,Memory B cells,B / ASC,Memory,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_steph,Naive B cells,B / ASC,Naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_yosh,Memory B cells,B / ASC,Memory,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_yosh,Naive B cells,B / ASC,Naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,E,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,51,3,3,0,True,True,False,False,1
+FOXP3,CollecTRI,FOXP3,E,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,51,4,3,1,True,True,False,False,1
+FOXP3,CollecTRI,FOXP3,E,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,51,4,3,1,True,True,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,51,1,0,1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,51,1,2,-1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_dom,gdT,CD8 T,γδ T,51,0,1,-1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_ren,gdT,CD8 T,γδ T,51,1,0,1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,51,1,1,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_steph,gdT,CD8 T,γδ T,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,51,2,1,1,True,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,51,1,0,1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_cd8_yosh,gdT,CD8 T,γδ T,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_dom,Classical monocytes,Mono,Classical,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,51,2,1,1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_ren,Classical monocytes,Mono,Classical,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,51,2,1,1,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_steph,Classical monocytes,Mono,Classical,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,51,2,2,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_yosh,Classical monocytes,Mono,Classical,51,0,0,0,False,False,False,False,1
+FOXP3,CollecTRI,FOXP3,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,51,2,1,1,False,False,False,False,1
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_asc_zhao,MZB,B / ASC,MZB,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_gut_smillie,BEST4,Colon,BEST4+,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_gut_smillie,goblet,Colon,Goblet,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_gut_smillie,tuft,Colon,Tuft,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,AT1,Lung,AT1,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,AT2,Lung,AT2,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,basal,Lung,Basal,8,0,1,-1,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,ciliated,Lung,Ciliated,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,club,Lung,Club,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_nk_pbmcbmn,NK,NK,NK,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_panc_baron,alpha,Pancreas,α,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_panc_baron,beta,Pancreas,β,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_panc_baron,delta,Pancreas,δ,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,fs_panc_baron,gamma,Pancreas,γ,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_ren,Naive B cells,B / ASC,Naive,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_steph,Memory B cells,B / ASC,Memory,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_steph,Naive B cells,B / ASC,Naive,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_yosh,Memory B cells,B / ASC,Memory,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_yosh,Naive B cells,B / ASC,Naive,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,8,2,1,1,True,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,8,2,2,0,True,True,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,8,2,0,2,True,False,True,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,8,2,0,2,True,False,True,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,8,3,3,0,True,True,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_dom,gdT,CD8 T,γδ T,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,8,2,2,0,True,True,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_ren,gdT,CD8 T,γδ T,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,8,2,2,0,True,True,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_steph,gdT,CD8 T,γδ T,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,E,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,8,2,2,0,True,True,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_cd8_yosh,gdT,CD8 T,γδ T,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_dom,Classical monocytes,Mono,Classical,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,8,1,0,1,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_ren,Classical monocytes,Mono,Classical,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,8,1,1,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_steph,Classical monocytes,Mono,Classical,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,8,1,1,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_yosh,Classical monocytes,Mono,Classical,8,0,0,0,False,False,False,False,2
+TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,8,1,1,0,False,False,False,False,2
+TBX21,CollecTRI,TBX21,U,fs_asc_zhao,MZB,B / ASC,MZB,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,BEST4,Colon,BEST4+,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,goblet,Colon,Goblet,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,stem,Colon,Stem,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_gut_smillie,tuft,Colon,Tuft,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,AT1,Lung,AT1,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,AT2,Lung,AT2,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,basal,Lung,Basal,53,0,1,-1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,ciliated,Lung,Ciliated,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,club,Lung,Club,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,fs_nk_pbmcbmn,NK,NK,NK,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,53,2,0,2,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_panc_baron,alpha,Pancreas,α,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_panc_baron,beta,Pancreas,β,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_panc_baron,delta,Pancreas,δ,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,fs_panc_baron,gamma,Pancreas,γ,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_ren,Naive B cells,B / ASC,Naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_steph,Memory B cells,B / ASC,Memory,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_steph,Naive B cells,B / ASC,Naive,53,0,2,-2,False,True,False,True,3
+TBX21,CollecTRI,TBX21,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_yosh,Memory B cells,B / ASC,Memory,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_yosh,Naive B cells,B / ASC,Naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,53,2,0,2,True,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,53,0,1,-1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,53,2,0,2,True,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,53,2,3,-1,False,True,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,53,2,2,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,53,2,0,2,False,False,True,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_dom,gdT,CD8 T,γδ T,53,1,1,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_ren,MAIT cells,CD8 T,MAIT,53,1,1,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,53,2,0,2,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_ren,gdT,CD8 T,γδ T,53,2,1,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_steph,MAIT cells,CD8 T,MAIT,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,53,1,1,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_steph,gdT,CD8 T,γδ T,53,1,1,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,53,1,0,1,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,53,3,0,3,True,False,True,False,3
+TBX21,CollecTRI,TBX21,E,tf_cd8_yosh,gdT,CD8 T,γδ T,53,1,1,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_dom,Classical monocytes,Mono,Classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_ren,Classical monocytes,Mono,Classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_steph,Classical monocytes,Mono,Classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_yosh,Classical monocytes,Mono,Classical,53,0,0,0,False,False,False,False,3
+TBX21,CollecTRI,TBX21,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,53,0,0,0,False,False,False,False,3
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_asc_zhao,MZB,B / ASC,MZB,149,3,2,1,True,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,149,1,0,1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,BEST4,Colon,BEST4+,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,goblet,Colon,Goblet,149,0,1,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,stem,Colon,Stem,149,0,1,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_gut_smillie,tuft,Colon,Tuft,149,0,1,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,AT1,Lung,AT1,149,2,2,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,AT2,Lung,AT2,149,0,1,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,basal,Lung,Basal,149,1,0,1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,ciliated,Lung,Ciliated,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,club,Lung,Club,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,149,2,2,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,fs_nk_pbmcbmn,NK,NK,NK,149,5,10,-5,True,True,True,True,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,149,3,4,-1,False,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_panc_baron,alpha,Pancreas,α,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_panc_baron,beta,Pancreas,β,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_panc_baron,delta,Pancreas,δ,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,fs_panc_baron,gamma,Pancreas,γ,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_ren,Naive B cells,B / ASC,Naive,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_steph,Memory B cells,B / ASC,Memory,149,2,3,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_steph,Naive B cells,B / ASC,Naive,149,1,2,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_yosh,Memory B cells,B / ASC,Memory,149,0,2,-2,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_yosh,Naive B cells,B / ASC,Naive,149,1,2,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,149,2,1,1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,149,0,1,-1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,149,3,2,1,True,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,149,2,3,-1,False,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,149,8,5,3,True,True,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,149,2,2,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,149,7,5,2,True,True,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,149,6,6,0,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,149,6,3,3,True,False,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_dom,gdT,CD8 T,γδ T,149,8,6,2,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_ren,MAIT cells,CD8 T,MAIT,149,4,3,1,True,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,149,6,6,0,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_ren,gdT,CD8 T,γδ T,149,9,5,4,True,True,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_steph,MAIT cells,CD8 T,MAIT,149,5,4,1,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,149,6,5,1,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,149,4,4,0,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_steph,gdT,CD8 T,γδ T,149,9,4,5,True,True,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,149,5,3,2,True,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,149,0,0,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,149,6,6,0,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,E,tf_cd8_yosh,gdT,CD8 T,γδ T,149,7,6,1,True,True,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_dom,Classical monocytes,Mono,Classical,149,2,0,2,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,149,3,3,0,True,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_ren,Classical monocytes,Mono,Classical,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,149,4,2,2,True,False,True,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_steph,Classical monocytes,Mono,Classical,149,1,1,0,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,149,2,1,1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_yosh,Classical monocytes,Mono,Classical,149,1,0,1,False,False,False,False,4
+leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,149,2,1,1,False,False,False,False,4
+E2F targets,Hallmark,E2F_TARGETS,U,fs_asc_zhao,MZB,B / ASC,MZB,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,E,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,198,4,16,-12,True,True,False,True,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,198,1,1,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_gut_smillie,BEST4,Colon,BEST4+,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,198,0,1,-1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_gut_smillie,goblet,Colon,Goblet,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_gut_smillie,tuft,Colon,Tuft,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,AT1,Lung,AT1,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,AT2,Lung,AT2,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,basal,Lung,Basal,198,0,1,-1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,ciliated,Lung,Ciliated,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,club,Lung,Club,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_nk_pbmcbmn,NK,NK,NK,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,E,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,198,17,18,-1,True,True,True,True,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_panc_baron,alpha,Pancreas,α,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_panc_baron,beta,Pancreas,β,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_panc_baron,delta,Pancreas,δ,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,fs_panc_baron,gamma,Pancreas,γ,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_ren,Naive B cells,B / ASC,Naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,198,0,1,-1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_steph,Memory B cells,B / ASC,Memory,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_steph,Naive B cells,B / ASC,Naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_yosh,Memory B cells,B / ASC,Memory,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_yosh,Naive B cells,B / ASC,Naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,198,0,1,-1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,198,1,1,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_dom,gdT,CD8 T,γδ T,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_ren,gdT,CD8 T,γδ T,198,1,0,1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_steph,gdT,CD8 T,γδ T,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_cd8_yosh,gdT,CD8 T,γδ T,198,0,1,-1,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_dom,Classical monocytes,Mono,Classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_ren,Classical monocytes,Mono,Classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_steph,Classical monocytes,Mono,Classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_yosh,Classical monocytes,Mono,Classical,198,0,0,0,False,False,False,False,5
+E2F targets,Hallmark,E2F_TARGETS,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,198,0,0,0,False,False,False,False,5
+PAX5,CollecTRI,PAX5,E,fs_asc_zhao,MZB,B / ASC,MZB,68,5,3,2,True,True,True,False,6
+PAX5,CollecTRI,PAX5,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,68,2,3,-1,False,True,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,BEST4,Colon,BEST4+,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,goblet,Colon,Goblet,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,stem,Colon,Stem,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_gut_smillie,tuft,Colon,Tuft,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,AT1,Lung,AT1,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,AT2,Lung,AT2,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,basal,Lung,Basal,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,ciliated,Lung,Ciliated,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,club,Lung,Club,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_nk_pbmcbmn,NK,NK,NK,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_panc_baron,alpha,Pancreas,α,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_panc_baron,beta,Pancreas,β,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_panc_baron,delta,Pancreas,δ,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,fs_panc_baron,gamma,Pancreas,γ,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_ren,Naive B cells,B / ASC,Naive,68,4,4,0,True,True,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_ren,Switched memory B cells,B / ASC,Switched,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_steph,Memory B cells,B / ASC,Memory,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_steph,Naive B cells,B / ASC,Naive,68,4,4,0,True,True,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_steph,Switched memory B cells,B / ASC,Switched,68,2,0,2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_yosh,Memory B cells,B / ASC,Memory,68,2,1,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_yosh,Naive B cells,B / ASC,Naive,68,4,3,1,True,True,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,E,tf_b_yosh,Switched memory B cells,B / ASC,Switched,68,2,0,2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,68,2,0,2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,68,2,1,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,68,1,2,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,68,2,0,2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,68,0,2,-2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,68,2,0,2,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,68,2,3,-1,False,True,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,68,2,1,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_dom,gdT,CD8 T,γδ T,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,68,2,1,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_ren,gdT,CD8 T,γδ T,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,68,2,2,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_steph,gdT,CD8 T,γδ T,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,68,0,1,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,68,1,2,-1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_cd8_yosh,gdT,CD8 T,γδ T,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_dom,Classical monocytes,Mono,Classical,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,68,1,0,1,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_ren,Classical monocytes,Mono,Classical,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_steph,Classical monocytes,Mono,Classical,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,68,1,1,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_yosh,Classical monocytes,Mono,Classical,68,0,0,0,False,False,False,False,6
+PAX5,CollecTRI,PAX5,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,68,1,1,0,False,False,False,False,6
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,fs_asc_zhao,MZB,B / ASC,MZB,74,6,4,2,True,True,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,BEST4,Colon,BEST4+,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,goblet,Colon,Goblet,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,stem,Colon,Stem,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_gut_smillie,tuft,Colon,Tuft,74,2,2,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,AT1,Lung,AT1,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,AT2,Lung,AT2,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,basal,Lung,Basal,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,ciliated,Lung,Ciliated,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,club,Lung,Club,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK,NK,NK,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_panc_baron,alpha,Pancreas,α,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_panc_baron,beta,Pancreas,β,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_panc_baron,delta,Pancreas,δ,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,fs_panc_baron,gamma,Pancreas,γ,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_ren,Naive B cells,B / ASC,Naive,74,4,4,0,True,True,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,74,1,3,-2,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_ren,Switched memory B cells,B / ASC,Switched,74,2,1,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_steph,Memory B cells,B / ASC,Memory,74,3,3,0,True,True,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_steph,Naive B cells,B / ASC,Naive,74,5,6,-1,True,True,False,True,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_steph,Switched memory B cells,B / ASC,Switched,74,3,2,1,True,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_yosh,Memory B cells,B / ASC,Memory,74,2,0,2,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_yosh,Naive B cells,B / ASC,Naive,74,5,4,1,True,True,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,74,2,1,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,E,tf_b_yosh,Switched memory B cells,B / ASC,Switched,74,3,3,0,True,True,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,74,1,2,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_dom,gdT,CD8 T,γδ T,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_ren,gdT,CD8 T,γδ T,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_steph,gdT,CD8 T,γδ T,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,74,0,0,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_cd8_yosh,gdT,CD8 T,γδ T,74,2,1,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_dom,Classical monocytes,Mono,Classical,74,1,0,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,74,0,1,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_ren,Classical monocytes,Mono,Classical,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,74,2,1,1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_steph,Classical monocytes,Mono,Classical,74,1,2,-1,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_yosh,Classical monocytes,Mono,Classical,74,1,1,0,False,False,False,False,7
+B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,74,2,1,1,False,False,False,False,7
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,335,0,1,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,BEST4,Colon,BEST4+,335,2,4,-2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,335,0,1,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,335,0,2,-2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,goblet,Colon,Goblet,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,stem,Colon,Stem,335,2,4,-2,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_gut_smillie,tuft,Colon,Tuft,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,AT1,Lung,AT1,335,0,1,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,AT2,Lung,AT2,335,0,1,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,basal,Lung,Basal,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,ciliated,Lung,Ciliated,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,club,Lung,Club,335,3,3,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_nk_pbmcbmn,NK,NK,NK,335,4,4,0,True,True,True,True,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,335,6,3,3,True,False,True,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,335,5,4,1,True,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_panc_baron,alpha,Pancreas,α,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_panc_baron,beta,Pancreas,β,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_panc_baron,delta,Pancreas,δ,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,fs_panc_baron,gamma,Pancreas,γ,335,0,0,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,335,2,3,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,335,3,4,-1,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,335,2,1,1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,335,3,4,-1,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,335,3,4,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,335,2,1,1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,335,3,3,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,335,4,3,1,True,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,335,4,4,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,335,3,3,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,335,3,4,-1,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,335,1,2,-1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_dom,gdT,CD8 T,γδ T,335,3,4,-1,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,335,2,1,1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,335,2,4,-2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,335,3,1,2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_ren,gdT,CD8 T,γδ T,335,2,2,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,335,3,3,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_steph,gdT,CD8 T,γδ T,335,2,0,2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,335,2,1,1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,335,3,5,-2,False,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,335,4,3,1,True,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,U,tf_cd8_yosh,gdT,CD8 T,γδ T,335,3,1,2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_dom,Classical monocytes,Mono,Classical,335,7,3,4,True,False,True,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,335,2,0,2,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_ren,Classical monocytes,Mono,Classical,335,7,7,0,True,True,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,335,2,1,1,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_steph,Classical monocytes,Mono,Classical,335,7,10,-3,True,True,False,True,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,335,1,1,0,False,False,False,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_yosh,Classical monocytes,Mono,Classical,335,8,4,4,True,True,True,False,8
+SPI1 (PU.1),CollecTRI,SPI1,E,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,335,1,1,0,False,False,False,False,8
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_asc_zhao,MZB,B / ASC,MZB,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,226,1,0,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,226,3,1,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,BEST4,Colon,BEST4+,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,goblet,Colon,Goblet,226,0,1,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,stem,Colon,Stem,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_gut_smillie,tuft,Colon,Tuft,226,0,1,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,AT1,Lung,AT1,226,2,3,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,AT2,Lung,AT2,226,1,3,-2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,basal,Lung,Basal,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,ciliated,Lung,Ciliated,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,club,Lung,Club,226,3,2,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,226,3,4,-1,False,True,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_nk_pbmcbmn,NK,NK,NK,226,3,0,3,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,226,1,2,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,226,3,3,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_panc_baron,alpha,Pancreas,α,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_panc_baron,beta,Pancreas,β,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_panc_baron,delta,Pancreas,δ,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,fs_panc_baron,gamma,Pancreas,γ,226,2,0,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_ren,Naive B cells,B / ASC,Naive,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_steph,Memory B cells,B / ASC,Memory,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_steph,Naive B cells,B / ASC,Naive,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_yosh,Memory B cells,B / ASC,Memory,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_yosh,Naive B cells,B / ASC,Naive,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,226,0,0,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,226,1,0,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,226,3,2,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,226,3,3,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,226,3,3,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,226,2,0,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,226,3,2,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,226,2,0,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,226,3,3,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,226,1,2,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,226,3,3,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_dom,gdT,CD8 T,γδ T,226,1,2,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,226,1,2,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,226,1,4,-3,False,True,False,True,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_ren,gdT,CD8 T,γδ T,226,3,1,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,226,3,4,-1,False,True,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,226,3,4,-1,False,True,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,226,4,3,1,True,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_steph,gdT,CD8 T,γδ T,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,226,1,3,-2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,226,1,3,-2,False,False,False,True,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,226,0,1,-1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,U,tf_cd8_yosh,gdT,CD8 T,γδ T,226,2,2,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_dom,Classical monocytes,Mono,Classical,226,8,2,6,True,False,True,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,226,1,1,0,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_ren,Classical monocytes,Mono,Classical,226,7,5,2,True,True,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,226,2,1,1,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_steph,Classical monocytes,Mono,Classical,226,7,6,1,True,True,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,226,3,1,2,False,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_yosh,Classical monocytes,Mono,Classical,226,6,3,3,True,False,False,False,9
+myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,E,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,226,4,2,2,True,False,False,False,9
+NKX2-1,CollecTRI,NKX2-1,U,fs_asc_zhao,MZB,B / ASC,MZB,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,63,1,2,-1,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,BEST4,Colon,BEST4+,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,63,1,0,1,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,goblet,Colon,Goblet,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,stem,Colon,Stem,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_gut_smillie,tuft,Colon,Tuft,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,E,fs_lung_hlca,AT2,Lung,AT2,63,6,6,0,True,True,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_nk_pbmcbmn,NK,NK,NK,63,0,1,-1,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_panc_baron,alpha,Pancreas,α,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_panc_baron,beta,Pancreas,β,63,1,1,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_panc_baron,delta,Pancreas,δ,63,1,1,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,fs_panc_baron,gamma,Pancreas,γ,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_ren,Naive B cells,B / ASC,Naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_steph,Memory B cells,B / ASC,Memory,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_steph,Naive B cells,B / ASC,Naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_yosh,Memory B cells,B / ASC,Memory,63,0,1,-1,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_yosh,Naive B cells,B / ASC,Naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_dom,gdT,CD8 T,γδ T,63,0,1,-1,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_ren,gdT,CD8 T,γδ T,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_steph,gdT,CD8 T,γδ T,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_cd8_yosh,gdT,CD8 T,γδ T,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_dom,Classical monocytes,Mono,Classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_ren,Classical monocytes,Mono,Classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_steph,Classical monocytes,Mono,Classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_yosh,Classical monocytes,Mono,Classical,63,0,0,0,False,False,False,False,10
+NKX2-1,CollecTRI,NKX2-1,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,63,0,0,0,False,False,False,False,10
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_asc_zhao,MZB,B / ASC,MZB,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,BEST4,Colon,BEST4+,29,1,1,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,goblet,Colon,Goblet,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,stem,Colon,Stem,29,0,1,-1,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_gut_smillie,tuft,Colon,Tuft,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_lung_hlca,AT1,Lung,AT1,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,E,fs_lung_hlca,AT2,Lung,AT2,29,9,9,0,True,True,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_lung_hlca,basal,Lung,Basal,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_lung_hlca,ciliated,Lung,Ciliated,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_nk_pbmcbmn,NK,NK,NK,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_panc_baron,alpha,Pancreas,α,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_panc_baron,beta,Pancreas,β,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_panc_baron,delta,Pancreas,δ,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,fs_panc_baron,gamma,Pancreas,γ,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_ren,Naive B cells,B / ASC,Naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,29,2,0,2,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_steph,Memory B cells,B / ASC,Memory,29,1,1,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_steph,Naive B cells,B / ASC,Naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_yosh,Memory B cells,B / ASC,Memory,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_yosh,Naive B cells,B / ASC,Naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,29,1,0,1,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_dom,gdT,CD8 T,γδ T,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_ren,gdT,CD8 T,γδ T,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,29,0,1,-1,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_steph,gdT,CD8 T,γδ T,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_cd8_yosh,gdT,CD8 T,γδ T,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_dom,Classical monocytes,Mono,Classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_ren,Classical monocytes,Mono,Classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_steph,Classical monocytes,Mono,Classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_yosh,Classical monocytes,Mono,Classical,29,0,0,0,False,False,False,False,11
+surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,29,0,0,0,False,False,False,False,11
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_asc_zhao,MZB,B / ASC,MZB,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,BEST4,Colon,BEST4+,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,216,1,0,1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,goblet,Colon,Goblet,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,stem,Colon,Stem,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_gut_smillie,tuft,Colon,Tuft,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_lung_hlca,AT1,Lung,AT1,216,1,0,1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_lung_hlca,AT2,Lung,AT2,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_lung_hlca,basal,Lung,Basal,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,E,fs_lung_hlca,ciliated,Lung,Ciliated,216,11,9,2,True,True,True,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_lung_hlca,club,Lung,Club,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_nk_pbmcbmn,NK,NK,NK,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_panc_baron,alpha,Pancreas,α,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_panc_baron,beta,Pancreas,β,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_panc_baron,delta,Pancreas,δ,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,fs_panc_baron,gamma,Pancreas,γ,216,1,0,1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_ren,Naive B cells,B / ASC,Naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_steph,Memory B cells,B / ASC,Memory,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_steph,Naive B cells,B / ASC,Naive,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_yosh,Memory B cells,B / ASC,Memory,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_yosh,Naive B cells,B / ASC,Naive,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_dom,gdT,CD8 T,γδ T,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,216,1,1,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_ren,gdT,CD8 T,γδ T,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,216,1,1,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_steph,gdT,CD8 T,γδ T,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,216,1,1,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_cd8_yosh,gdT,CD8 T,γδ T,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_dom,Classical monocytes,Mono,Classical,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_ren,Classical monocytes,Mono,Classical,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,216,0,1,-1,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_steph,Classical monocytes,Mono,Classical,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_yosh,Classical monocytes,Mono,Classical,216,0,0,0,False,False,False,False,12
+cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,216,0,1,-1,False,False,False,False,12
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_asc_zhao,MZB,B / ASC,MZB,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_gut_smillie,BEST4,Colon,BEST4+,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,453,3,2,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_gut_smillie,goblet,Colon,Goblet,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,E,fs_gut_smillie,stem,Colon,Stem,453,6,4,2,True,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_gut_smillie,tuft,Colon,Tuft,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,AT1,Lung,AT1,453,3,3,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,AT2,Lung,AT2,453,2,2,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,basal,Lung,Basal,453,1,3,-2,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,ciliated,Lung,Ciliated,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,club,Lung,Club,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK,NK,NK,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,453,5,3,2,True,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_panc_baron,alpha,Pancreas,α,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_panc_baron,beta,Pancreas,β,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_panc_baron,delta,Pancreas,δ,453,2,2,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,fs_panc_baron,gamma,Pancreas,γ,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_ren,Naive B cells,B / ASC,Naive,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_steph,Memory B cells,B / ASC,Memory,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_steph,Naive B cells,B / ASC,Naive,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_yosh,Memory B cells,B / ASC,Memory,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_yosh,Naive B cells,B / ASC,Naive,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,453,1,3,-2,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,453,2,1,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,453,1,2,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_dom,gdT,CD8 T,γδ T,453,0,2,-2,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_ren,gdT,CD8 T,γδ T,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,453,0,1,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_steph,gdT,CD8 T,γδ T,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,453,3,1,2,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_cd8_yosh,gdT,CD8 T,γδ T,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_dom,Classical monocytes,Mono,Classical,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_ren,Classical monocytes,Mono,Classical,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,453,1,1,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_steph,Classical monocytes,Mono,Classical,453,0,0,0,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,453,1,2,-1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_yosh,Classical monocytes,Mono,Classical,453,1,0,1,False,False,False,False,13
+WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,453,1,2,-1,False,False,False,False,13
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_asc_zhao,MZB,B / ASC,MZB,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,E,fs_gut_smillie,BEST4,Colon,BEST4+,128,2,2,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,E,fs_gut_smillie,enterocyte,Colon,Enterocyte,128,5,3,2,True,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_gut_smillie,stem,Colon,Stem,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_gut_smillie,tuft,Colon,Tuft,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_lung_hlca,AT1,Lung,AT1,128,2,1,1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_lung_hlca,AT2,Lung,AT2,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_lung_hlca,basal,Lung,Basal,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_lung_hlca,ciliated,Lung,Ciliated,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_lung_hlca,club,Lung,Club,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_nk_pbmcbmn,NK,NK,NK,128,1,0,1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_panc_baron,alpha,Pancreas,α,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_panc_baron,beta,Pancreas,β,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_panc_baron,delta,Pancreas,δ,128,1,2,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,fs_panc_baron,gamma,Pancreas,γ,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_ren,Naive B cells,B / ASC,Naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_steph,Memory B cells,B / ASC,Memory,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_steph,Naive B cells,B / ASC,Naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_yosh,Memory B cells,B / ASC,Memory,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_yosh,Naive B cells,B / ASC,Naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,128,1,1,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,128,1,1,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_dom,gdT,CD8 T,γδ T,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,128,1,2,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_ren,gdT,CD8 T,γδ T,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,128,1,1,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_steph,gdT,CD8 T,γδ T,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,128,1,1,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_cd8_yosh,gdT,CD8 T,γδ T,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_dom,Classical monocytes,Mono,Classical,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_ren,Classical monocytes,Mono,Classical,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_steph,Classical monocytes,Mono,Classical,128,0,1,-1,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_yosh,Classical monocytes,Mono,Classical,128,0,0,0,False,False,False,False,14
+chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,128,0,0,0,False,False,False,False,14
+SPDEF,CollecTRI,SPDEF,U,fs_asc_zhao,MZB,B / ASC,MZB,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,18,0,2,-2,False,True,False,True,15
+SPDEF,CollecTRI,SPDEF,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_gut_smillie,BEST4,Colon,BEST4+,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,18,1,0,1,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,E,fs_gut_smillie,goblet,Colon,Goblet,18,2,3,-1,False,True,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_gut_smillie,stem,Colon,Stem,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_gut_smillie,tuft,Colon,Tuft,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_lung_hlca,AT1,Lung,AT1,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_lung_hlca,AT2,Lung,AT2,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_lung_hlca,basal,Lung,Basal,18,0,1,-1,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_lung_hlca,ciliated,Lung,Ciliated,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_nk_pbmcbmn,NK,NK,NK,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,18,1,1,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_panc_baron,alpha,Pancreas,α,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_panc_baron,beta,Pancreas,β,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_panc_baron,delta,Pancreas,δ,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,fs_panc_baron,gamma,Pancreas,γ,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_ren,Naive B cells,B / ASC,Naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,18,0,2,-2,False,True,False,True,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_steph,Memory B cells,B / ASC,Memory,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_steph,Naive B cells,B / ASC,Naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_yosh,Memory B cells,B / ASC,Memory,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_yosh,Naive B cells,B / ASC,Naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,18,0,1,-1,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_dom,gdT,CD8 T,γδ T,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_ren,gdT,CD8 T,γδ T,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_steph,gdT,CD8 T,γδ T,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_cd8_yosh,gdT,CD8 T,γδ T,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_dom,Classical monocytes,Mono,Classical,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,18,1,0,1,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_ren,Classical monocytes,Mono,Classical,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,18,1,1,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_steph,Classical monocytes,Mono,Classical,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,18,1,1,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_yosh,Classical monocytes,Mono,Classical,18,0,0,0,False,False,False,False,15
+SPDEF,CollecTRI,SPDEF,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,18,1,1,0,False,False,False,False,15
+NEUROD1,CollecTRI,NEUROD1,U,fs_asc_zhao,MZB,B / ASC,MZB,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_gut_smillie,BEST4,Colon,BEST4+,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,E,fs_gut_smillie,enteroendocrine,Colon,Enteroendocrine,71,5,4,1,True,True,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_gut_smillie,goblet,Colon,Goblet,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_gut_smillie,stem,Colon,Stem,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_gut_smillie,tuft,Colon,Tuft,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,AT1,Lung,AT1,71,1,1,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,AT2,Lung,AT2,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,basal,Lung,Basal,71,1,0,1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,ciliated,Lung,Ciliated,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,club,Lung,Club,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_nk_pbmcbmn,NK,NK,NK,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,E,fs_panc_baron,alpha,Pancreas,α,71,1,2,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,E,fs_panc_baron,beta,Pancreas,β,71,6,4,2,True,True,False,False,16
+NEUROD1,CollecTRI,NEUROD1,E,fs_panc_baron,delta,Pancreas,δ,71,1,1,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,E,fs_panc_baron,gamma,Pancreas,γ,71,1,0,1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_ren,Naive B cells,B / ASC,Naive,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,71,0,2,-2,False,False,False,True,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_steph,Memory B cells,B / ASC,Memory,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_steph,Naive B cells,B / ASC,Naive,71,0,2,-2,False,True,False,True,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_yosh,Memory B cells,B / ASC,Memory,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_yosh,Naive B cells,B / ASC,Naive,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,71,1,2,-1,False,True,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_dom,gdT,CD8 T,γδ T,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_ren,gdT,CD8 T,γδ T,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_steph,gdT,CD8 T,γδ T,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_cd8_yosh,gdT,CD8 T,γδ T,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_dom,Classical monocytes,Mono,Classical,71,0,1,-1,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_ren,Classical monocytes,Mono,Classical,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_steph,Classical monocytes,Mono,Classical,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,71,0,0,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_yosh,Classical monocytes,Mono,Classical,71,1,1,0,False,False,False,False,16
+NEUROD1,CollecTRI,NEUROD1,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,71,0,0,0,False,False,False,False,16
+PDX1,CollecTRI,PDX1,U,fs_asc_zhao,MZB,B / ASC,MZB,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_gut_smillie,BEST4,Colon,BEST4+,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,84,1,1,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_gut_smillie,goblet,Colon,Goblet,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_gut_smillie,stem,Colon,Stem,84,1,1,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_gut_smillie,tuft,Colon,Tuft,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,AT1,Lung,AT1,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,AT2,Lung,AT2,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,basal,Lung,Basal,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,ciliated,Lung,Ciliated,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,club,Lung,Club,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_nk_pbmcbmn,NK,NK,NK,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,E,fs_panc_baron,beta,Pancreas,β,84,7,7,0,True,True,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_ren,Naive B cells,B / ASC,Naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_steph,Memory B cells,B / ASC,Memory,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_steph,Naive B cells,B / ASC,Naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_yosh,Memory B cells,B / ASC,Memory,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_yosh,Naive B cells,B / ASC,Naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,84,1,1,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_dom,gdT,CD8 T,γδ T,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_ren,gdT,CD8 T,γδ T,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_steph,gdT,CD8 T,γδ T,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_cd8_yosh,gdT,CD8 T,γδ T,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_dom,Classical monocytes,Mono,Classical,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_ren,Classical monocytes,Mono,Classical,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_steph,Classical monocytes,Mono,Classical,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,84,0,1,-1,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_yosh,Classical monocytes,Mono,Classical,84,0,0,0,False,False,False,False,17
+PDX1,CollecTRI,PDX1,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,84,0,1,-1,False,False,False,False,17
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_asc_zhao,MZB,B / ASC,MZB,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_asc_zhao,cycling ASC,B / ASC,ASC cycling,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_asc_zhao,noncycling ASC,B / ASC,ASC non-cycling,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_gut_smillie,BEST4,Colon,BEST4+,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_gut_smillie,enterocyte,Colon,Enterocyte,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_gut_smillie,goblet,Colon,Goblet,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_gut_smillie,stem,Colon,Stem,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_gut_smillie,tuft,Colon,Tuft,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,AT1,Lung,AT1,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,AT2,Lung,AT2,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,basal,Lung,Basal,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,ciliated,Lung,Ciliated,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,club,Lung,Club,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_lung_hlca,ionocyte,Lung,Ionocyte,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_nk_pbmcbmn,NK,NK,NK,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_nk_pbmcbmn,NK Proliferating,NK,Proliferating,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_nk_pbmcbmn,NK_CD56bright,NK,CD56bright,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_nk_zhao,CX3CR1+ NK,NK,CX3CR1+,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,fs_nk_zhao,CXCR6+ NK,NK,CXCR6+,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,E,fs_panc_baron,beta,Pancreas,β,39,7,6,1,True,True,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_ren,Naive B cells,B / ASC,Naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_ren,Non-switched memory B cells,B / ASC,Non-switched,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_ren,Switched memory B cells,B / ASC,Switched,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_steph,Memory B cells,B / ASC,Memory,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_steph,Naive B cells,B / ASC,Naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_steph,Switched memory B cells,B / ASC,Switched,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_yosh,Memory B cells,B / ASC,Memory,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_yosh,Naive B cells,B / ASC,Naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_yosh,Non-switched memory B cells,B / ASC,Non-switched,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_b_yosh,Switched memory B cells,B / ASC,Switched,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_dom,Regulatory T cells,CD4 T,Treg,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_dom,Tcm/Naive helper T cells,CD4 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_dom,Tem/Effector helper T cells,CD4 T,Tem/effector,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_ren,Regulatory T cells,CD4 T,Treg,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_ren,Tcm/Naive helper T cells,CD4 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_ren,Tem/Effector helper T cells,CD4 T,Tem/effector,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_ren,Tem/Temra helper T cells,CD4 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_steph,Tcm/Naive helper T cells,CD4 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_steph,Tem/Effector helper T cells,CD4 T,Tem/effector,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_yosh,Regulatory T cells,CD4 T,Treg,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_yosh,Tcm/Naive helper T cells,CD4 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_yosh,Tem/Effector helper T cells,CD4 T,Tem/effector,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd4_yosh,Tem/Temra helper T cells,CD4 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_dom,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_dom,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_dom,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_dom,gdT,CD8 T,γδ T,39,0,1,-1,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_ren,MAIT cells,CD8 T,MAIT,39,1,1,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_ren,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_ren,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_ren,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_ren,gdT,CD8 T,γδ T,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_steph,MAIT cells,CD8 T,MAIT,39,1,1,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_steph,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_steph,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_steph,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_steph,gdT,CD8 T,γδ T,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_yosh,MAIT cells,CD8 T,MAIT,39,1,1,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_yosh,Tcm/Naive cytotoxic T cells,CD8 T,Tcm/naive,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_yosh,Tem/Temra cytotoxic T cells,CD8 T,Tem/Temra,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_yosh,Tem/Trm cytotoxic T cells,CD8 T,Tem/Trm,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_cd8_yosh,gdT,CD8 T,γδ T,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_dom,Classical monocytes,Mono,Classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_dom,Non-classical monocytes,Mono,Non-classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_ren,Classical monocytes,Mono,Classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_ren,Non-classical monocytes,Mono,Non-classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_steph,Classical monocytes,Mono,Classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_steph,Non-classical monocytes,Mono,Non-classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_yosh,Classical monocytes,Mono,Classical,39,0,0,0,False,False,False,False,18
+pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,U,tf_mono_yosh,Non-classical monocytes,Mono,Non-classical,39,0,0,0,False,False,False,False,18

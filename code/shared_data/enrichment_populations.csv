@@ -1,0 +1,75 @@
+lineage,state
+fs_asc_zhao,MZB
+fs_asc_zhao,cycling ASC
+fs_asc_zhao,noncycling ASC
+fs_gut_smillie,BEST4
+fs_gut_smillie,enterocyte
+fs_gut_smillie,enteroendocrine
+fs_gut_smillie,goblet
+fs_gut_smillie,stem
+fs_gut_smillie,tuft
+fs_lung_hlca,AT1
+fs_lung_hlca,AT2
+fs_lung_hlca,basal
+fs_lung_hlca,ciliated
+fs_lung_hlca,club
+fs_lung_hlca,ionocyte
+fs_nk_pbmcbmn,NK
+fs_nk_pbmcbmn,NK Proliferating
+fs_nk_pbmcbmn,NK_CD56bright
+fs_nk_zhao,CX3CR1+ NK
+fs_nk_zhao,CXCR6+ NK
+fs_panc_baron,alpha
+fs_panc_baron,beta
+fs_panc_baron,delta
+fs_panc_baron,gamma
+tf_b_ren,Naive B cells
+tf_b_ren,Non-switched memory B cells
+tf_b_ren,Switched memory B cells
+tf_b_steph,Memory B cells
+tf_b_steph,Naive B cells
+tf_b_steph,Switched memory B cells
+tf_b_yosh,Memory B cells
+tf_b_yosh,Naive B cells
+tf_b_yosh,Non-switched memory B cells
+tf_b_yosh,Switched memory B cells
+tf_cd4_dom,Regulatory T cells
+tf_cd4_dom,Tcm/Naive helper T cells
+tf_cd4_dom,Tem/Effector helper T cells
+tf_cd4_ren,Regulatory T cells
+tf_cd4_ren,Tcm/Naive helper T cells
+tf_cd4_ren,Tem/Effector helper T cells
+tf_cd4_ren,Tem/Temra helper T cells
+tf_cd4_steph,Tcm/Naive helper T cells
+tf_cd4_steph,Tem/Effector helper T cells
+tf_cd4_yosh,Regulatory T cells
+tf_cd4_yosh,Tcm/Naive helper T cells
+tf_cd4_yosh,Tem/Effector helper T cells
+tf_cd4_yosh,Tem/Temra helper T cells
+tf_cd8_dom,Tcm/Naive cytotoxic T cells
+tf_cd8_dom,Tem/Temra cytotoxic T cells
+tf_cd8_dom,Tem/Trm cytotoxic T cells
+tf_cd8_dom,gdT
+tf_cd8_ren,MAIT cells
+tf_cd8_ren,Tcm/Naive cytotoxic T cells
+tf_cd8_ren,Tem/Temra cytotoxic T cells
+tf_cd8_ren,Tem/Trm cytotoxic T cells
+tf_cd8_ren,gdT
+tf_cd8_steph,MAIT cells
+tf_cd8_steph,Tcm/Naive cytotoxic T cells
+tf_cd8_steph,Tem/Temra cytotoxic T cells
+tf_cd8_steph,Tem/Trm cytotoxic T cells
+tf_cd8_steph,gdT
+tf_cd8_yosh,MAIT cells
+tf_cd8_yosh,Tcm/Naive cytotoxic T cells
+tf_cd8_yosh,Tem/Temra cytotoxic T cells
+tf_cd8_yosh,Tem/Trm cytotoxic T cells
+tf_cd8_yosh,gdT
+tf_mono_dom,Classical monocytes
+tf_mono_dom,Non-classical monocytes
+tf_mono_ren,Classical monocytes
+tf_mono_ren,Non-classical monocytes
+tf_mono_steph,Classical monocytes
+tf_mono_steph,Non-classical monocytes
+tf_mono_yosh,Classical monocytes
+tf_mono_yosh,Non-classical monocytes

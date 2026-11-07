@@ -1,0 +1,19 @@
+row,display,collection,term,block,expected,plausible,rationale
+1,FOXP3,CollecTRI,FOXP3,T / NK,CD4 T:Treg,CD4 T:Tcm/naive; CD4 T:Tem/effector; CD4 T:Tem/Temra,"Treg lineage TF; the regulon shares activation genes (IL2RA, CTLA4) with other CD4 states"
+2,TCF/LEF–β-catenin targets,Reactome,REACTOME_BINDING_OF_TCF_LEF_CTNNB1_TO_TARGET_GENE_PROMOTERS,T / NK,CD4 T:Tcm/naive; CD8 T:Tcm/naive,NK:CD56bright; Colon:Stem,TCF7/LEF1 program of naive / central-memory T; TCF7-high CD56bright NK and WNT-driven crypt stem cells plausible
+3,TBX21,CollecTRI,TBX21,T / NK,CD8 T:Tem/Temra; CD8 T:MAIT; CD8 T:γδ T; CD4 T:Tem/Temra; NK:NK; NK:CX3CR1+,CD8 T:Tem/Trm; CD4 T:Tem/effector; NK:CD56bright; NK:CXCR6+; NK:Proliferating,"T-bet: strongly expected in mature effector/cytotoxic T (Temra, cytotoxic CD4), MAIT, γδ T and mature CD56dim NK (NK, CX3CR1+); Tem/Trm (T-bet is down-regulated in tissue-resident memory), Th1-like CD4 effectors, CD56bright, CXCR6+ and proliferating NK plausible"
+4,leukocyte cytotoxicity,GO-BP,GOBP_LEUKOCYTE_MEDIATED_CYTOTOXICITY,T / NK,CD8 T:Tem/Temra; CD8 T:Tem/Trm; CD8 T:MAIT; CD8 T:γδ T; CD4 T:Tem/Temra; NK:NK; NK:CX3CR1+,CD4 T:Tem/effector; NK:CD56bright; NK:CXCR6+; NK:Proliferating,"cytotoxic CD8 states incl. Tem/Trm, MAIT, γδ T, cytotoxic CD4 and mature NK expected; CD4 effectors, CD56bright, CXCR6+ and proliferating NK plausible"
+5,E2F targets,Hallmark,E2F_TARGETS,T / NK,NK:Proliferating; B / ASC:ASC cycling,Colon:Stem,proliferating states irrespective of lineage; cycling crypt stem/TA cells plausible
+6,PAX5,CollecTRI,PAX5,B / myeloid,B / ASC:Naive; B / ASC:Non-switched; B / ASC:Switched; B / ASC:Memory; B / ASC:MZB,,"B-lineage identity TF; PAX5 is silenced during plasma-cell differentiation, so ASC are unexpected"
+7,B-cell receptor signaling,GO-BP,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY,B / myeloid,B / ASC:Naive; B / ASC:Non-switched; B / ASC:Switched; B / ASC:Memory; B / ASC:MZB,B / ASC:ASC cycling; B / ASC:ASC non-cycling,"B lineage expected; ASC retain BCR-pathway components, plausible"
+8,SPI1 (PU.1),CollecTRI,SPI1,B / myeloid,Mono:Classical; Mono:Non-classical,B / ASC:Naive; B / ASC:Non-switched; B / ASC:Switched; B / ASC:Memory; B / ASC:MZB,PU.1: myeloid master TF expected in monocytes; expressed in B cells (plausible); NK unexpected in the primary mask
+9,myeloid leukocyte migration,GO-BP,GOBP_MYELOID_LEUKOCYTE_MIGRATION,B / myeloid,Mono:Classical; Mono:Non-classical,,monocyte program
+10,NKX2-1,CollecTRI,NKX2-1,Lung,Lung:AT2,Lung:AT1; Lung:Basal; Lung:Club; Lung:Ciliated; Lung:Ionocyte,regulon = surfactant/AT2 genes expected in AT2; NKX2-1 is expressed across lung epithelium (plausible)
+11,surfactant metabolism,Reactome,REACTOME_SURFACTANT_METABOLISM,Lung,Lung:AT2,Lung:Club,AT2 expected; club cells secrete SFTPB/SFTPD (plausible); other lung epithelium unexpected
+12,cilium movement,GO-BP,GOBP_CILIUM_MOVEMENT,Lung,Lung:Ciliated,,motile cilia
+13,WNT signaling,GO-BP,GOBP_WNT_SIGNALING_PATHWAY,Colon,Colon:Stem,CD4 T:Tcm/naive; CD8 T:Tcm/naive,crypt stem cells expected; WNT/TCF7 maintenance of naive T plausible
+14,chloride transport,GO-BP,GOBP_CHLORIDE_TRANSPORT,Colon,Colon:Enterocyte; Colon:BEST4+,Colon:Goblet; Lung:Ionocyte,colonocyte SLC26A3/CFTR and BEST4 (a Cl- channel) expected; CLCA1-high goblet and CFTR-high ionocytes plausible
+15,SPDEF,CollecTRI,SPDEF,Colon,Colon:Goblet,Lung:Club,goblet master TF; airway secretory cells plausible
+16,NEUROD1,CollecTRI,NEUROD1,Islet,Pancreas:α; Pancreas:β; Pancreas:δ; Pancreas:γ; Colon:Enteroendocrine,,pan-endocrine TF (islet + enteroendocrine)
+17,PDX1,CollecTRI,PDX1,Islet,Pancreas:β,Pancreas:α; Pancreas:δ; Pancreas:γ; Colon:Enteroendocrine,β-cell TF expected; other endocrine states plausible
+18,pancreas β-cell program,Hallmark,PANCREAS_BETA_CELLS,Islet,Pancreas:β,Pancreas:α; Pancreas:δ; Pancreas:γ; Colon:Enteroendocrine,INS/IAPP plus shared endocrine machinery; other endocrine states plausible

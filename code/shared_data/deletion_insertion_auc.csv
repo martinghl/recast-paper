@@ -1,0 +1,43 @@
+lineage,state,ranking,f_c,f_o,del_auc,ins_auc,gap,del_auc_top512,ins_auc_top512
+pbmcbmn_l2,B naive,RECAST,0.2052,-0.2105,0.3865,0.8075,0.421,0.702,0.5404
+pbmcbmn_l2,B naive,DE,0.2052,-0.2105,0.6113,0.6817,0.0704,0.7179,0.5158
+pbmcbmn_l2,B naive,random,0.2052,-0.2105,0.5923,0.586,-0.0064,0.9519,0.006
+pbmcbmn_l2,B intermediate,RECAST,0.1923,0.0076,0.151,0.7302,0.5792,0.4386,0.3443
+pbmcbmn_l2,B intermediate,DE,0.1923,0.0076,0.293,0.5304,0.2374,0.6154,0.1984
+pbmcbmn_l2,B intermediate,random,0.1923,0.0076,0.423,0.4489,0.0259,0.9536,0.003
+pbmcbmn_l2,B memory,RECAST,0.2418,-0.1841,0.2315,0.6917,0.4602,0.6505,0.2379
+pbmcbmn_l2,B memory,DE,0.2418,-0.1841,0.4045,0.4779,0.0735,0.6976,0.2054
+pbmcbmn_l2,B memory,random,0.2418,-0.1841,0.532,0.4258,-0.1062,0.958,0.0012
+yoshida,Naive B cells,RECAST,0.2053,-0.2745,0.3745,0.7707,0.3962,0.7494,0.4067
+yoshida,Naive B cells,DE,0.2053,-0.2745,0.6454,0.5824,-0.063,0.7708,0.3725
+yoshida,Naive B cells,random,0.2053,-0.2745,0.5619,0.5561,-0.0058,0.954,0.0042
+yoshida,Non-switched memory B cells,RECAST,0.2713,-0.0766,0.1868,0.7872,0.6003,0.5102,0.3902
+yoshida,Non-switched memory B cells,DE,0.2713,-0.0766,0.3506,0.594,0.2434,0.688,0.2443
+yoshida,Non-switched memory B cells,random,0.2713,-0.0766,0.4755,0.4995,0.024,0.9566,0.003
+yoshida,Switched memory B cells,RECAST,0.2802,-0.1851,0.2162,0.8898,0.6737,0.6982,0.45
+yoshida,Switched memory B cells,DE,0.2802,-0.1851,0.4133,0.773,0.3597,0.813,0.3118
+yoshida,Switched memory B cells,random,0.2802,-0.1851,0.5975,0.5218,-0.0758,0.9582,0.002
+yoshida,Memory B cells,RECAST,0.209,0.014,0.2935,0.6025,0.309,0.5935,0.2551
+yoshida,Memory B cells,DE,0.209,0.014,0.5159,0.3702,-0.1457,0.7837,0.1188
+yoshida,Memory B cells,random,0.209,0.014,0.4449,0.4665,0.0216,0.9445,0.0098
+helperT,Tcm/Naive helper T cells,RECAST,0.1752,0.0096,0.5119,0.5847,0.0728,0.8159,0.1918
+helperT,Tcm/Naive helper T cells,DE,0.1752,0.0096,0.7307,0.3363,-0.3944,0.8519,0.1436
+helperT,Tcm/Naive helper T cells,random,0.1752,0.0096,0.535,0.5477,0.0126,0.9499,0.0121
+helperT,Tem/Effector helper T cells,RECAST,0.0104,-0.1232,0.0585,0.9159,0.8574,0.3626,0.4682
+helperT,Tem/Effector helper T cells,DE,0.0104,-0.1232,0.1524,0.7529,0.6005,0.4798,0.3417
+helperT,Tem/Effector helper T cells,random,0.0104,-0.1232,0.4823,0.4327,-0.0496,0.9582,0.0016
+helperT,Regulatory T cells,RECAST,0.2067,-0.1218,0.1504,0.8798,0.7294,0.533,0.5001
+helperT,Regulatory T cells,DE,0.2067,-0.1218,0.2516,0.7758,0.5242,0.6687,0.3595
+helperT,Regulatory T cells,random,0.2067,-0.1218,0.5648,0.4851,-0.0797,0.9538,0.0043
+cytoT,Tcm/Naive cytotoxic T cells,RECAST,0.1976,-0.0892,0.3838,0.548,0.1642,0.7946,0.1446
+cytoT,Tcm/Naive cytotoxic T cells,DE,0.1976,-0.0892,0.7039,0.2576,-0.4463,0.848,0.1078
+cytoT,Tcm/Naive cytotoxic T cells,random,0.1976,-0.0892,0.4723,0.4582,-0.0141,0.9489,0.0084
+cytoT,Tem/Temra cytotoxic T cells,RECAST,0.1372,-0.0231,0.1648,0.8676,0.7028,0.5268,0.5992
+cytoT,Tem/Temra cytotoxic T cells,DE,0.1372,-0.0231,0.2895,0.7936,0.5042,0.6089,0.5224
+cytoT,Tem/Temra cytotoxic T cells,random,0.1372,-0.0231,0.5491,0.5551,0.006,0.9504,0.0102
+cytoT,Tem/Trm cytotoxic T cells,RECAST,0.1204,-0.0132,0.1803,0.8168,0.6365,0.4692,0.4857
+cytoT,Tem/Trm cytotoxic T cells,DE,0.1204,-0.0132,0.3387,0.6443,0.3056,0.5668,0.3949
+cytoT,Tem/Trm cytotoxic T cells,random,0.1204,-0.0132,0.4848,0.5233,0.0385,0.9562,0.0024
+cytoT,gdT,RECAST,0.0912,-0.0404,0.1605,0.8178,0.6574,0.3703,0.5635
+cytoT,gdT,DE,0.0912,-0.0404,0.2891,0.6675,0.3785,0.4443,0.4781
+cytoT,gdT,random,0.0912,-0.0404,0.4622,0.5356,0.0734,0.9482,0.0112
